@@ -1,0 +1,1503 @@
+#separator:tab
+#html:false
+Welcome to Kaishi 1.5k!   Kaishi (開始) is a modular Japanese vocabulary deck intended to give beginners a comfortable but modern Anki experience. The deck can easily be modified to suit you and your Japanese learning goals.  You can check all the details on this page. Illustrations come from Irasutoya.   On it, you will see how to enable pitch accent if you want it, change the color of the bold words and other various options, including a writing deck.  Now that you have read this, feel free to suspend (or even delete) this card.	Good luck on your Japanese learning journey!
+私 私はアンです。	"私わたし    I (polite, general) 私わたしはアンです。 I am Ann.         	  	Note: Can also be read わたくし (formal) and あたし (feminine). There are rarer readings too."
+あなた あなたはトムさんですか。	あなた    you (usually when one doesn't know the person) あなたはトムさんですか。 Are you Tom-san?
+さん あなたはトムさんですか。	"さん    san あなたはトムさんですか。 Are you Tom-san?         	  	Note: Most commonplace neutral polite honorific. Somewhat similar to using ""M."" in front of a name in English."
+彼 彼はトムさんです。	彼かれ    he, him 彼かれはトムさんです。 He is Tom-san.
+好き 私はワインが好きです。	好すき    like, fond of 私わたしはワインが好すきです。 I like wine.
+人 あの人はいい人です。	人ひと    person あの人ひとはいい人ひとです。 That person is a good person.
+いい あの人はいい人です。	いい    good あの人ひとはいい人ひとです。 That person is a good person.
+人 私はイギリス人です。	"人じん    person from (nationality) 私わたしはイギリス人じんです。 I am British.         	  	Note: A suffix added to a country name to say a person from that country."
+日本語 私は日本語を勉強しています。	日本にほん語ご    Japanese language 私わたしは日本にほん語ごを勉べん強きょうしています。 I'm studying Japanese.
+勉強 私は日本語を勉強しています。	勉べん強きょう    study 私わたしは日本にほん語ごを勉べん強きょうしています。 I'm studying Japanese.
+本 いい本でしたね。	本ほん    book いい本ほんでしたね。 It was a good book, wasn't it?
+これ これは日本語の本です。	これ    this これは日本にほん語ごの本ほんです。 This is a Japanese book.
+何 A「これは何ですか。」 B「本です。」	"何なに    what A「これは何なんですか。」 B「本ほんです。」 A: What is this? B: It's a book.         	  	Note: Can be read either なに or なん."
+それ それは本です。	それ    that それは本ほんです。 That is a book.
+あれ あれは何ですか。	あれ    that over there あれは何なんですか。 What's that?
+どれ どれが好きですか。	どれ    which, what どれが好すきですか。 Which would you like?
+毎日 毎日、日本語を勉強します。	毎まい日にち    every day 毎まい日にち、日本にほん語ごを勉べん強きょうします。 I study Japanese every day.
+兄 これは兄のパソコンです。	兄あに    older brother これは兄あにのパソコンです。 This is my older brother's personal computer.
+いる 兄がいます。	いる    have, exist (animate) 兄あにがいます。 I have an older brother.
+ある ペンがある。	ある    have, exist (inanimate) ペンがある。 There is a pen.
+あまり スポーツはあまり好きじゃありません。	あまり    (not) very, (not) much スポーツはあまり好すきじゃありません。 I don't really like sports.
+今 彼は今、勉強しています。	今いま    now 彼かれは今いま、勉べん強きょうしています。 He's studying now.
+時間 今は時間がありません。	時じ間かん    time, hour 今いまは時じ間かんがありません。 I don't have time now.
+無い 今はあまり時間が無いのです。	無ない    to not be 今いまはあまり時じ間かんが無ないのです。 I don't have much time now.
+この 山田さんの本はどれですか。この本ですか。	この    this one 山やま田ださんの本ほんはどれですか。この本ほんですか。 Which book is Yamada-san's? Is it this book?
+その その本ですか。	その    that one その本ほんですか。 Is it that book?
+あの あの本ですか。	あの    that one there あの本ほんですか。 That book (over there)?
+どの どの本ですか。	どの    which one どの本ほんですか。 Which book is it?
+見る 兄は毎日テレビを見ます。	見みる    see, look at 兄あには毎まい日にちテレビを見みます。 My older brother watches TV every day.
+全然 テレビを全然見ません。	全ぜん然ぜん    (not) at all テレビを全ぜん然ぜん見みません。 I never watch televison.
+面白い この本は全然面白くなかった。	面おも白しろい    interesting, amusing この本ほんは全ぜん然ぜん面おも白しろくなかった。 This book wasn't interesting at all.
+する 彼はテニスをします。	"する    do, make 彼かれはテニスをします。 He plays tennis (lit: ""He does tennis"")."
+なる 日本語の勉強が好きになりました。	"なる    become, result in, come (to do) 日本にほん語ごの勉べん強きょうが好すきになりました。 I have come to like Japanese study.         	  	Note: This verb has many meanings and will take some time to assimilate properly."
+先生 私は日本語の先生になりたいです。	先せん生せい    teacher 私わたしは日本にほん語ごの先せん生せいになりたいです。 I want to become a Japanese teacher.
+ください コーヒーをください。	ください    please give..., please do... コーヒーをください。 Please give me a coffee.
+名前 あなたの名前を教えてください。	名な前まえ    name あなたの名な前まえを教おしえてください。 Please tell me your name.
+教える あなたの名前を教えてください。	教おしえる    teach, tell あなたの名な前まえを教おしえてください。 Please tell me your name.
+ここ ここに本があります。	ここ    here ここに本ほんがあります。 There's a book here.
+そこ そこはトイレです。	そこ    there そこはトイレです。 There is the bathroom.
+あそこ 彼はあそこにいます。	あそこ    over there 彼かれはあそこにいます。 He is over there.
+どこ あの本をどこに置きましたか。	どこ    where あの本ほんをどこに置おきましたか。 Where did you put that book?
+置く あの本をどこに置きましたか。	置おく    put, place あの本ほんをどこに置おきましたか。 Where did you put that book?
+家 ここが私の家です。	"家いえ    house, home ここが私わたしの家いえです。 This is my house.         	  	Note: Can also be read うち."
+帰る 家に帰ろう。	帰かえる    return, go back 家うちに帰かえろう。 Let's go home.
+話 あなたの話は面白いね。	話はなし    talk, story あなたの話はなしは面おも白しろいね。 Your story is interesting.
+知る あの人を知っていますか。	知しる    know あの人ひとを知しっていますか。 Do you know that person?
+彼女 彼女の名前を知っていますか。	彼かの女じょ    she, her, girlfriend 彼かの女じょの名な前まえを知しっていますか。 Do you know her name?
+ちゃん 彼女はララちゃんです。	"ちゃん    chan 彼かの女じょはララちゃんです。 She is Lara-chan.         	  	Note: Honorific usually used to show endearment, especially with girls and small children."
+はい A「山田さんですか。」 B「はい。」	はい    yes (polite) A「山やま田ださんですか。」 B「はい。」 A: Are you Yamada-san? B: Yes, I am.
+いいえ A「山田さんですか。」 B「いいえ。」	いいえ    no (polite) A「山やま田ださんですか。」 B「いいえ。」 A: Are you Yamada-san? B: No, I'm not.
+日本 日本のゲームは面白いです。	"日本にほん    Japan 日本にほんのゲームは面おも白しろいです。 Japanese games are fun.         	  	Note: Can be read either にほん or にっぽん."
+学校 学校は日本にあります。	学がっ校こう    school 学がっ校こうは日本にほんにあります。 The school is in Japan.
+行く 学校へ行きます。	行いく    go 学がっ校こうへ行いきます。 I will go to school.
+明日 明日、学校へ行きます。	"明日あした    tomorrow 明日あした、学がっ校こうへ行いきます。 Tomorrow, I will go to school.         	  	Note: Can be read あす as well."
+来る 明日、来ますか。	来くる    come 明日あした、来きますか。 Will you come tomorrow?
+また 明日、また来ます。	また    again, also 明日あした、また来きます。 I'll come again tomorrow.
+いつ 彼女はいつ来ますか。	いつ    when 彼かの女じょはいつ来きますか。 When is she coming?
+思う これがいいと思います。	思おもう    think これがいいと思おもいます。 I think this is good.
+こう こうしましょう。	こう    like this, this kind of こうしましょう。 Let’s do this (“this way”).
+そう 私もそう思います。	そう    in such manner, that way 私わたしもそう思おもいます。 That's what I think too.
+どう あなたはどう思いますか。	どう    how, what あなたはどう思おもいますか。 What do you think?
+会う 明日、彼と会います。	会あう    meet 明日あした、彼かれと会あいます。 I will meet him tomorrow.
+次 次はいつ会いましょうか。	次つぎ    next, subsequent 次つぎはいつ会あいましょうか。 When next shall we meet?
+方 彼は私の方を見ました。	方ほう    direction, side 彼かれは私わたしの方ほうを見みました。 He looked in my direction.
+方 次の方、どうぞ。	方かた    person (polite form) 次つぎの方かた、どうぞ。 The next person, please.
+聞く 彼女はラジオを聞いています。	聞きく    hear 彼かの女じょはラジオを聞きいています。 She's listening to the radio.
+聞く トムに聞いて。	聞きく    ask トムに聞きいて。 Ask Tom.
+お願いします A「これでお願いします。」 B「はい。」	お願ねがいします    please A「これでお願ねがいします。」 B「はい。」 A: This one, please. B: Okay.
+分かる 日本語のニュースが全然分かりませんでした。	分わかる    understand 日本にほん語ごのニュースが全ぜん然ぜん分わかりませんでした。 I didn't understand the Japanese news at all.
+よく よく分かりました。	よく    well よく分わかりました。 I understood well.
+よく ジャズのCDをよく聞きます。	よく    often ジャズのCDをよく聞ききます。 I listen to Jazz CDs often.
+考える よく考えてください。	考かんがえる    think, consider よく考かんがえてください。 Please think carefully.
+ありがとうございます そうですか。分かりました。ありがとうございます。	ありがとうございます    thank you (formal) そうですか。分わかりました。ありがとうございます。 Is that so? I understand. Thank you.
+話す 先生と日本語で話します。	話はなす    talk, speak 先せん生せいと日本にほん語ごで話はなします。 I speak Japanese with the teacher.
+もっと もっと勉強しなければいけないと思った。	もっと    more, a bit more もっと勉べん強きょうしなければいけないと思おもった。 I thought that I would have to study more.
+ゆっくり もっとゆっくり話してください。	ゆっくり    slowly もっとゆっくり話はなしてください。 Please speak more slowly.
+言う ゆっくり言ってください。	言いう    say ゆっくり言いってください。 Please say it slowly.
+友達 友達とレストランに行きました。	友とも達だち    friend, companion 友とも達だちとレストランに行いきました。 I went to the restaurant with my friend.
+待つ 1時間友達を待ちました。	待まつ    wait 1いち時じ間かん友とも達だちを待まちました。 I waited for my friend for an hour.
+昨日 昨日、友達に会った。	昨日きのう    yesterday 昨日きのう、友とも達だちに会あった。 I met a friend yesterday.
+町 あの町に行きました。	町まち    town, city あの町まちに行いきました。 I went to that town over there.
+高い このカメラは高いですね。	高たかい    expensive このカメラは高たかいですね。 This camera is expensive.
+高い これがこの町で一番高いビルです。	高たかい    high, tall これがこの町まちで一いち番ばん高たかいビルです。 This is the tallest building in town.
+一番 これがこの町で一番高いビルです。	一いち番ばん    (the) most これがこの町まちで一いち番ばん高たかいビルです。 This is the tallest building in this town.
+ちょっと これはちょっと高いですね。	ちょっと    a little これはちょっと高たかいですね。 A: This is a little expensive.
+もう 彼はもう帰りました。	もう    already, yet 彼かれはもう帰かえりました。 He's already gone home.
+もう もうちょっと食べたい。	もう    another, again もうちょっと食たべたい。 I want to eat a little more.
+父 私は父が大好きです。	父ちち    (speaker's) father 私わたしは父ちちが大だい好すきです。 I love my father.
+大好き 私は父が大好きです。	大だい好すき    love 私わたしは父ちちが大だい好すきです。 I love my father.
+母 昨日、母と話をしました。	母はは    (speaker's) mother 昨日きのう、母ははと話はなしをしました。 I talked to my mother yesterday.
+あげる 友達にプレゼントをあげます。	あげる    give (receiver is not in the speaker's group) 友とも達だちにプレゼントをあげます。 I will give a present to my friend.
+くれる 父が本をくれました。	くれる    give (receiver is in the speaker's group) 父ちちが本ほんをくれました。 My father gave me a book.
+もらう 彼女からプレゼントをもらいました。	もらう    receive 彼かの女じょからプレゼントをもらいました。 I got a present from her.
+物 色々な物をもらいました。	物もの    thing, object 色いろ々いろな物ものをもらいました。 I received many things.
+君 この本を君にあげます。	君きみ    you (to someone of equal or lower status) この本ほんを君きみにあげます。 I'm going to give you this book.
+中 父は家の中にいます。	中なか    inside, middle 父ちちは家いえの中なかにいます。 My father is inside the house.
+出来る あなたはスキーが出来ますか？	出で来きる    can do, be good at あなたはスキーが出で来きますか？ Can you ski?
+本当 その話は本当ですか。	本ほん当とう    truth, reality その話はなしは本ほん当とうですか。 Is this story true?
+立つ 彼はステージに立った。	立たつ    stand, rise 彼かれはステージに立たった。 He stood on stage.
+前 ララちゃんは家の前に立っています。	前まえ    front, before ララちゃんは家いえの前まえに立たっています。 Lara-chan is standing in front of the house.
+入る レストランに入ります。	入はいる    enter レストランに入はいります。 I will enter the restaurant.
+家族 家族がテレビを見た。	家か族ぞく    family 家か族ぞくがテレビを見みた。 The family watched television.
+住む 家族はタイに住んでいます。	住すむ    live, reside 家か族ぞくはタイに住すんでいます。 My family lives in Thailand.
+大きな 大きな家に住みたい。	大おおきな    big, large 大おおきな家いえに住すみたい。 I want to live in a big house.
+大きい 彼は大きい家に住んでいる。	大おおきい    big, large 彼かれは大おおきい家いえに住すんでいる。 He lives in a big house.
+声 彼は大きな声で話した。	声こえ    voice, sound 彼かれは大おおきな声こえで話はなした。 He spoke with a loud voice.
+目 ララちゃんは目が大きいです。	目め    eye ララちゃんは目めが大おおきいです。 Lara-chan has big eyes.
+手 分かった人は手を上げてください。	手て    hand 分わかった人ひとは手てを上あげてください。 The people who understood, please raise your hand.
+上げる 分かった人は手を上げてください。	上あげる    raise, increase 分わかった人ひとは手てを上あげてください。 The people who understood, please raise your hand.
+嫌い 私はタバコが嫌いです。	嫌きらい    dislike 私わたしはタバコが嫌きらいです。 I hate cigarettes.
+おじいさん おじいさんはジョギングが嫌いです。	おじいさん    grandfather おじいさんはジョギングが嫌きらいです。 My grandfather dislikes jogging.
+おばあさん 彼女はおばあさんと住んでいる。	おばあさん    grandmother 彼かの女じょはおばあさんと住すんでいる。 She lives with her grandmother.
+元気 スミスさんのおばあさんは元気です。	元げん気き    energetic, healthy スミスさんのおばあさんは元げん気きです。 Smith-san's grandmother is doing well.
+いつも 彼女はいつも元気だ。	いつも    always, usually 彼かの女じょはいつも元げん気きだ。 She's always full of energy.
+持つ 私は車を持っています。	持もつ    have, hold 私わたしは車くるまを持もっています。 I have a car.
+みんな 家族はみんな元気です。	"みんな    all, everybody 家か族ぞくはみんな元げん気きです。 Everyone in my family is doing well.         	  	Note: Sometimes written 皆."
+使う 毎日、コンピューターを使います。	使つかう    use 毎まい日にち、コンピューターを使つかいます。 I use the computer every day.
+大丈夫 大丈夫ですか。	大だい丈じょう夫ぶ    alright, OK 大だい丈じょう夫ぶですか。 Are you alright?
+始める テストを始めてください。	始はじめる    start テストを始はじめてください。 Please start the test.
+今日 今日の勉強を始めましょう。	今日きょう    today 今日きょうの勉べん強きょうを始はじめましょう。 Let's begin today's studies.
+部屋 部屋にキッチンがあります。	部屋へや    room 部屋へやにキッチンがあります。 The room has a kitchen.
+悪い あの人は悪い人です。	悪わるい    bad あの人ひとは悪わるい人ひとです。 That person is a bad person.
+まあ まあこれでいいだろう。	まあ    well... まあこれでいいだろう。 Well, this will do I suppose.
+食べる 昨日タイカレーを食べました。	食たべる    eat 昨日きのうタイカレーを食たべました。 I ate Thai curry yesterday.
+沢山 私には友達がたくさんいます。	"沢たく山さん    a lot, plenty 私わたしには友とも達だちがたくさんいます。 I have a lot of friends.         	  	Note: Usually written in kana."
+場所 行ってみたい場所がたくさんあります。	場ば所しょ    place, location 行いってみたい場ば所しょがたくさんあります。 There are many places I want to go to.
+呼ぶ ウェイターを呼びましょう。	呼よぶ    call, name ウェイターを呼よびましょう。 Let's call the waiter.
+動く エレベーターが動いています。	動うごく    move エレベーターが動うごいています。 The elevator is moving.
+気持ち 彼の気持ちが分からない。	気き持もち    feeling, sensation 彼かれの気き持もちが分わからない。 I don't understand his feelings.
+誰 誰と会ってみたいですか。	誰だれ    who 誰だれと会あってみたいですか。 Who would you like to meet one day?
+子 その子は日本語が分からない。	子こ    child, kid その子こは日本にほん語ごが分わからない。 That kid doesn't understand Japanese.
+どんな スミスさんはどんな人ですか。	どんな    what kind of... スミスさんはどんな人ひとですか。 What kind of person is Smith-san?
+意味 意味が分かりません。	意い味み    meaning, significance 意い味みが分わかりません。 I don't understand what you mean.
+言葉 この言葉の意味が分かりません。	言こと葉ば    word, language この言こと葉ばの意い味みが分わかりません。 I don't understand the meaning of this word.
+心配 母が心配しています。	心しん配ぱい    worry 母ははが心しん配ぱいしています。 My mother is worried.
+様子 彼女の様子を見てきます。	様よう子す    appearance, state 彼かの女じょの様よう子すを見みてきます。 I'm going to see how she's doing.
+信じる 彼の言葉を信じています。	信しんじる    to believe, to trust 彼かれの言こと葉ばを信しんじています。 I believe his words.
+自分 分からない言葉は自分で調べてください。	自じ分ぶん    self, oneself 分わからない言こと葉ばは自じ分ぶんで調しらべてください。 Please look up any words you don't know on your own.
+調べる 分からない言葉は自分で調べてください。	調しらべる    look up, search 分わからない言こと葉ばは自じ分ぶんで調しらべてください。 Please look up any words you don't know on your own.
+事 インターネットで日本の事を調べました。	事こと    thing, incident インターネットで日本にほんの事ことを調しらべました。 I researched things about Japan on the internet.
+同じ 私も同じこと考えてた。	同おなじ    same, identical 私わたしも同おなじこと考かんがえてた。 I was thinking the same thing.
+申し訳ない 彼には申し訳ないことをした。	申もうし訳わけない    sorry, inexcusable 彼かれには申もうし訳わけないことをした。 I did something inexcusable to him.
+もちろん もちろん一緒に行きます。	もちろん    of course, no doubt もちろん一いっ緒しょに行いきます。 Of course we'll go together.
+とても この本はとても面白い。	とても    very この本ほんはとても面おも白しろい。 This book is very interesting.
+楽しい 彼はとても楽しい人です。	楽たのしい    fun, enjoyable 彼かれはとても楽たのしい人ひとです。 He's a very fun person.
+失礼します 失礼します。	失しつ礼れいします    pardon me, excuse me (e.g. when leaving) 失しつ礼れいします。 Excuse me.
+手伝う 私が手伝いましょう。	手て伝つだう    to help 私わたしが手て伝つだいましょう。 Shall I help you?
+忙しい 忙しいので手伝ってください。	忙いそがしい    busy, occupied 忙いそがしいので手て伝つだってください。 I am busy so please help me.
+仕事 父の仕事を手伝います。	仕し事ごと    work, job 父ちちの仕し事ごとを手て伝つだいます。 I help with my father's work.
+続ける 仕事を続けてください。	続つづける    to continue, to keep up 仕し事ごとを続つづけてください。 Please continue your work.
+見せる あのカメラを見せてください。	見みせる    to show あのカメラを見みせてください。 Please show me that camera.
+うち うちへ帰ります。	うち    one's household うちへ帰かえります。 I will go home.
+約束 友達と約束があります。	約やく束そく    promise, appointment 友とも達だちと約やく束そくがあります。 I have an appointment with my friend.
+忘れる 約束を忘れないでください。	忘わすれる    to forget 約やく束そくを忘わすれないでください。 Please don't forget your promise.
+守る 彼は約束を守る人です。	守まもる    to protect, to observe 彼かれは約やく束そくを守まもる人ひとです。 He's one to keep his promises.
+変える 約束の時間を変えます。	変かえる    to change, to alter 約やく束そくの時じ間かんを変かえます。 I will change the time of the appointment.
+さっき さっきの話を続けましょう。	さっき    (only) a moment ago さっきの話はなしを続つづけましょう。 Let's continue the conversation we had earlier.
+今度 今度はどこに行きたいですか。	今こん度ど    next time 今こん度どはどこに行いきたいですか。 Where do you want to go next time?
+これから これから考えます。	これから    from now on, after this これから考かんがえます。 I will think about it from now.
+止める あのビルの前で止めてください。	止とめる    to stop (at some place) あのビルの前まえで止とめてください。 Stop in front of that building, please.
+止める 話すのを止めてください。	止やめる    to stop (doing something) 話はなすのを止やめてください。 Please stop talking.
+頼む 私はハンバーガーを頼みました。	頼たのむ    to ask, to request 私わたしはハンバーガーを頼たのみました。 I ordered a hamburger.
+許す 私は彼を許しました。	許ゆるす    to forgive, to permit 私わたしは彼かれを許ゆるしました。 I forgave him.
+嬉しい 彼に会えて嬉しかった。	嬉うれしい    happy, glad 彼かれに会あえて嬉うれしかった。 I was glad to be able to meet him.
+頑張る 勉強もスポーツも頑張っています。	頑がん張ばる    to persevere, to do one's best 勉べん強きょうもスポーツも頑がん張ばっています。 I do my best in sports and my studies.
+なるほど なるほど、よく分かりました。	なるほど    I see, really なるほど、よく分わかりました。 I see, I understand quite well.
+つまり つまり、あなたは何も知らないのですね。	つまり    in short, basically つまり、あなたは何なにも知しらないのですね。 So, basically, you don't know anything.
+国 どこの国が好きですか。	国くに    country どこの国くにが好すきですか。 Which country do you like?
+優しい 彼はとても優しい人です。	優やさしい    gentle, kind 彼かれはとても優やさしい人ひとです。 He's a very kind person.
+嫌 私は待つのが嫌だ。	嫌いや    disliking, unwilling (to do) 私わたしは待まつのが嫌いやだ。 I dislike waiting.
+そんなに A「毎日忙しいですか。」 B「そんなに忙しくないです。」	そんなに    that much A「毎まい日にち忙いそがしいですか。」 B「そんなに忙いそがしくないです。」 A: Are you busy every day? B: No, not that much.
+今回 まあ今回は許してあげよう。	今こん回かい    this time まあ今こん回かいは許ゆるしてあげよう。 Well, I'll let you off this time.
+夜 昨日の夜は家にいました。	夜よる    evening, night 昨日きのうの夜よるは家いえにいました。 I was at home last night.
+買う 昨日、シーディーを買いました。	買かう    to buy 昨日きのう、シーディーを買かいました。 Yesterday, I bought a CD.
+今まで 今までどこにいたのですか。	今いままで    until now 今いままでどこにいたのですか。 Where have you been up until now?
+奴 奴は人の言うことを聞かない。	奴やつ    that guy, (s)he (usu. derogatory) 奴やつは人ひとの言いうことを聞きかない。 That guy doesn't listen to what others tell him.
+あいつ あいつは本当にいい奴だ。	あいつ    that guy あいつは本ほん当とうにいい奴やつだ。 This guy is truly a great guy.
+もし もし時間があったら、ランチをしませんか。	もし    if, in the event of... もし時じ間かんがあったら、ランチをしませんか。 If you have time, would you like to get lunch?
+理解 理解してくれてありがとう。	理り解かい    understanding, comprehension 理り解かいしてくれてありがとう。 Thank you for understanding.
+夢 私の夢は先生になることです。	夢ゆめ    dream 私わたしの夢ゆめは先せん生せいになることです。 My dream is to become a teacher.
+俺 俺はロックを聞くのが好きだ。	"俺おれ    I (male) 俺おれはロックを聞きくのが好すきだ。 I like to listen to rock music.         	  	Note: This pronoun can imply masculinity or, if used with friends and people close, familiarity."
+難しい この本は難しいですね。	難むずかしい    difficult この本ほんは難むずかしいですね。 This book is difficult.
+今度 今度のテストはとても難しかった。	今こん度ど    this time 今こん度どのテストはとても難むずかしかった。 The test this time was really difficult.
+おかしい 彼の様子がおかしい。	おかしい    strange, suspicious 彼かれの様よう子すがおかしい。 He's acting strange.
+男の子 男の子たちがサッカーをしている。	男おとこの子こ    boy 男おとこの子こたちがサッカーをしている。 The boys are playing soccer.
+女の子 あの女の子を知っていますか。	女おんなの子こ    girl あの女おんなの子こを知しっていますか。 Do you know that girl?
+寝る もう寝よう。	寝ねる    sleep もう寝ねよう。 Let's sleep.
+伝える みんなにこのことを伝えてください。	伝つたえる    to convey, to transmit みんなにこのことを伝つたえてください。 Please tell everyone about this matter.
+小さい 私のカメラは小さいです。	小ちいさい    small 私わたしのカメラは小ちいさいです。 My camera is small.
+選ぶ プレゼントを選ぶのはとても楽しいです。	選えらぶ    to choose, to elect プレゼントを選えらぶのはとても楽たのしいです。 Choosing presents is very fun.
+座る どうぞ座ってください。	座すわる    to sit どうぞ座すわってください。 Please sit down.
+簡単 このテストはとても簡単です。	簡かん単たん    simple, easy このテストはとても簡かん単たんです。 This test is really simple.
+お願い お願いがあります。	お願ねがい    favor お願ねがいがあります。 I have a favor to ask.
+進む 前に進んでください。	進すすむ    to move forward 前まえに進すすんでください。 Please move forward.
+全く 私には全く分かりません。	全まったく    entirely, truly 私わたしには全まったく分わかりません。 I don't understand at all.
+なぜ なぜ来なかったの。	なぜ    why なぜ来こなかったの。 Why didn't you come?
+僕 僕は君が大好きです。	"僕ぼく    I (male) 僕ぼくは君きみが大だい好すきです。 I love you.         	  	Note: Implies some sense of humility or an undertone of ""feeling young"" if used by an older male."
+水 水を飲みます。	水みず    water 水みずを飲のみます。 I drink water.
+飲む 水を飲みます。	飲のむ    drink 水みずを飲のみます。 I drink water.
+暇 明日は暇です。	暇ひま    free, not busy 明日あしたは暇ひまです。 I am free tomorrow.
+時 暇な時は本を読んでいます。	時とき    time, occasion 暇ひまな時ときは本ほんを読よんでいます。 In my free time, I read books.
+時 A「何時ですか。」 B「3時です。」	時じ    hour, o'clock A:「何なん時じですか。」 B:「3さん時じです。」   A: What time is it? B: It's 3 o'clock.
+一 一から始めましょう。	一いち    one 一いちから始はじめましょう。 Let's start from the beginning.
+二 その人には二回会った。	二に    two その人ひとには二に回かい会あった。 I met that person twice.
+三 彼女は三人の子供の母親だ。	三さん    three 彼かの女じょは三さん人にんの子こ供どもの母はは親おやだ。 She's the mother of three children.
+四 ハワイは四回目です。	四よん    four ハワイは四よん回かい目めです。 This is my fourth trip to Hawaii.
+五 五人で旅行に行きました。	五ご    five 五ご人にんで旅りょ行こうに行いきました。 Five of us went on a trip.
+六 彼には子供が六人います。	六ろく    six 彼かれには子こ供どもが六ろく人にんいます。 He has six children.
+七 バナナが七本あります。	七なな    seven バナナが七なな本ほんあります。 There are seven bananas.
+八 りんごを八個ください。	"八はち    eight りんごを八はち個こください。 Please give me eight apples.         	  	Note: 八個 is usually read はっこ."
+九 野球は九人で1チームです。	九きゅう    nine 野や球きゅうは九きゅう人にんで1ひとチームです。 In baseball there are nine people on one team.
+十 その子は指で十数えました。	十じゅう    ten その子こは指ゆびで十じゅう数かぞえました。 This child counted to ten on her fingers.
+くん 健くんは１歳です	"くん    kun (usu. used with men younger or of the same age) 健けんくんは１歳さいです Ken-kun is one year old.         	  	Note: Honorific usually used towards males of equal or lower status."
+すみません すみません。今日は用事があります。	すみません    sorry, excuse me すみません。今日きょうは用よう事じがあります。 Sorry, I have something to do today.
+やる 一緒に宿題をやろう。	やる    to do 一いっ緒しょに宿しゅく題だいをやろう。 Let's do our homework together.
+顔 彼はタオルで顔を拭きました。	顔かお    face 彼かれはタオルで顔かおを拭ふきました。 He wiped his face with a towel.
+今朝 今朝は早く家を出ました。	今朝けさ    this morning 今朝けさは早はやく家いえを出でました。 I left the house early this morning.
+出る 今朝は早く家を出ました。	出でる    to go out, to leave 今朝けさは早はやく家いえを出でました。 I left the house early this morning.
+そして このロボットは言葉が分かります。そして、ダンスも出来ます。	そして    and, and then このロボットは言こと葉ばが分わかります。そして、ダンスも出で来きます。 This robot understands words. On top of that, it can also dance.
+まだ 宿題はまだ終わっていません。	まだ    yet, more 宿しゅく題だいはまだ終おわっていません。 I haven't finished my homework yet.
+じゃ じゃ、それをください。	じゃ    then, well じゃ、それをください。 Okay, then I'll have that one.
+ため これは医者のためのサイトです。	ため    sake, purpose これは医い者しゃのためのサイトです。 This is a website made for doctors.
+ご飯 私はパンよりご飯が好きだ。	ご飯はん    cooked rice, meal 私わたしはパンよりご飯はんが好すきだ。 I prefer rice to bread.
+ところ 私は友達のところに泊まった。	ところ    place 私わたしは友とも達だちのところに泊とまった。 I stayed at my friend's place for the night.
+少し 少し疲れました。	少すこし    a bit, a little while 少すこし疲つかれました。 I'm a little tired.
+見える ここから富士山がよく見えます。	見みえる    be visible ここから富ふ士じ山さんがよく見みえます。 You can see Mount Fuji well from here.
+違う 答えが違います。	違ちがう    to differ, to be wrong 答こたえが違ちがいます。 That's the wrong answer.
+男 男の人が私たちに話しかけた。	男おとこ    man, male 男おとこの人ひとが私わたしたちに話はなしかけた。 A man began talking to us.
+ただ この温泉はただです。	ただ    free この温おん泉せんはただです。 This hot spring is free.
+ただ 私はただ彼女と話したかっただけです。	ただ    simply 私わたしはただ彼かの女じょと話はなしたかっただけです。 I just wanted to speak with her.
+人間 人間の心は複雑です。	人にん間げん    human being, people 人にん間げんの心こころは複ふく雑ざつです。 The human mind is a complex thing.
+作る 今、朝ご飯を作っています。	作つくる    to make, to create 今いま、朝あさご飯はんを作つくっています。 I'm making breakfast now.
+感じる 膝に痛みを感じます。	感かんじる    to feel, to sense 膝ひざに痛いたみを感かんじます。 I feel a pain in my knee.
+上 上を向いて。	上うえ    up, above 上うえを向むいて。 Look up.
+強い 今日は風が強い。	強つよい    strong 今日きょうは風かぜが強つよい。 The wind is strong today.
+出す 彼はかばんから教科書を出した。	出だす    to take out 彼かれはかばんから教きょう科か書しょを出だした。 He took the textbook out of his bag.
+笑う 赤ん坊が笑っています。	笑わらう    laugh, smile 赤あかん坊ぼうが笑わらっています。 The baby is laughing.
+毎月 私は毎月貯金をしています。	毎まい月つき    every month 私わたしは毎まい月つき貯ちょ金きんをしています。 I save money every month.
+毎年 毎年、クリスマスに国へ帰ります。	毎まい年とし    every year 毎まい年とし、クリスマスに国くにへ帰かえります。 I return to my country on Christmas of every year.
+多く 毎年多くの人が海外へ旅行する。	多おおく    many, much 毎まい年とし多おおくの人ひとが海かい外がいへ旅りょ行こうする。 Each year, a lot of people travel abroad.
+くらい 毎日、７時間くらい眠ります。	くらい    approximately, about 毎まい日にち、７しち時じ間かんくらい眠ねむります。 I sleep for about seven hours every day.
+姉 姉は大学生です。	姉あね    older sister 姉あねは大だい学がく生せいです。 My big sister is a college student.
+弟 弟にプレゼントをあげました。	弟おとうと    younger brother 弟おとうとにプレゼントをあげました。 I gave a present to my younger brother.
+妹 私の妹は小学生です。	妹いもうと    younger sister 私わたしの妹いもうとは小しょう学がく生せいです。 My little sister goes to elementary school.
+力 私より妹の方が力があります。	力ちから    strength, power 私わたしより妹いもうとの方ほうが力ちからがあります。 My younger sister has more strength than I do.
+世界 世界の地図はありますか。	世せ界かい    world 世せ界かいの地ち図ずはありますか。 Do you have a map of the world?
+相手 試合の相手は誰ですか。	相あい手て    partner, opponent 試し合あいの相あい手ては誰だれですか。 Who is the opponent of the match?
+姿 遠くに彼女の姿が見えた。	姿すがた    figure, appearance 遠とおくに彼かの女じょの姿すがたが見みえた。 I saw her figure from a distance.
+死ぬ 犬が病気で死にました。	死しぬ    to die 犬いぬが病びょう気きで死しにました。 My dog died due to sickness.
+早い A「今朝、5時に起きました。」 B「早いですね。」	早はやい    early A:「今朝けさ、5ご時じに起おきました。」 B:「早はやいですね。」   A: I woke up at 5 A.M. this morning. B: That's early, isn't it?
+早い A「東京から大阪まで2時間半です。」 B「早いですね。」	早はやい    fast (in terms of time) A:「東とう京きょうから大おお阪さかまで2に時じ間かん半はんです。」 B:「早はやいですね。」   A: It takes two and a half hours from Tokyo to Osaka. B: That's fast, isn't it?
+頭 今朝から頭が痛い。	頭あたま    head 今朝けさから頭あたまが痛いたい。 My head has been hurting since this morning.
+戻る 今、会社に戻ります。	戻もどる    to return, to go back 今いま、会かい社しゃに戻もどります。 I'm going back to the office now.
+ずっと ずっと日本へ留学したいと思っていました。	"ずっと    continuously, the whole time ずっと日本にほんへ留りゅう学がくしたいと思おもっていました。 I always thought that I'd like to study abroad in Japan.         	  	Note: The construction ずっと~たいと思った is like saying ""I've always wanted to."""
+どうして どうして泣いているの。	どうして    why どうして泣ないているの。 Why are you crying?
+やっぱり やっぱり旅が大好きだ。	"やっぱり    just as I thought, after all やっぱり旅たびが大だい好すきだ。 I really love to travel after all.         	  	Note: Can be やはり as well, やっぱり being slightly more emphatic usually."
+つもり 明日からタバコを止めるつもりです。	つもり    intention, purpose 明日あしたからタバコを止やめるつもりです。 I intend to stop smoking starting tomorrow.
+必要 これは授業に必要な本です。	必ひつ要よう    necessary, needed これは授じゅ業ぎょうに必ひつ要ような本ほんです。 This book is necessary for class.
+終わる 会議は4時に終わります。	終おわる    to finish, to end 会かい議ぎは4よ時じに終おわります。 The conference ends at four o'clock.
+者 私は先ほど電話した者です。	者もの    person 私わたしは先さきほど電でん話わした者ものです。 I'm the person who called a while earlier.
+後 仕事の後、映画を見た。	"後あと    after 仕し事ごとの後あと、映えい画がを見みた。 I saw a movie after work.         	  	Note: Can also be read のち with a more formal nuance."
+こちら 受付はこちらです。	こちら    here, this way 受うけ付つけはこちらです。 The reception desk is this way.
+向かう 今、会社に向かっています。	向むかう    to face, to head toward 今いま、会かい社しゃに向むかっています。 I'm heading for the office right now.
+きっと 明日はきっと雨が降ります。	きっと    surely, certainly 明日あしたはきっと雨あめが降ふります。 It will surely rain tomorrow.
+変わる 信号が青に変わりました。	変かわる    to change 信しん号ごうが青あおに変かわりました。 The traffic light turned green.
+凄い 凄い雨になった。	凄すごい    wonderful, great, a lot 凄すごい雨あめになった。 It began raining heavily.
+女 店員は若い女の人でした。	女おんな    woman, girl 店てん員いんは若わかい女おんなの人ひとでした。 The salesclerk was a young woman.
+ちゃんと 朝食はちゃんと食べましたか。	"ちゃんと    properly 朝ちょう食しょくはちゃんと食たべましたか。 Did you properly eat breakfast?         	  	Note: While it may seem strange in English, ちゃんと食べたか is a common thing to ask in Japan."
+音 外で大きい音がします。	音おと    sound 外そとで大おおきい音おとがします。 There is a loud noise outside.
+体 妹は体が弱いです。	体からだ    body 妹いもうとは体からだが弱よわいです。 My sister has a weak body.
+掛ける 夫の服をハンガーに掛けた。	掛かける    to hang, to put on 夫おっとの服ふくをハンガーに掛かけた。 I put my husband's clothes on a hanger.
+歩く 駅まで歩きましょう。	歩あるく    to walk, to go on foot 駅えきまで歩あるきましょう。 Let's walk to the station.
+存在 宇宙人は存在すると思いますか。	存そん在ざい    existence, being 宇う宙ちゅう人じんは存そん在ざいすると思おもいますか。 Do you think that aliens exist?
+過ぎる 時が過ぎるのは速い。	過すぎる    to exceed, to pass by 時ときが過すぎるのは速はやい。 Time passes quickly.
+聞こえる 隣の部屋からテレビの音が聞こえる。	聞きこえる    can hear 隣となりの部屋へやからテレビの音おとが聞きこえる。 I can hear the sound of the television from the next room.
+受ける 親友の言葉に、酷いショックを受けた。	"受うける    to receive, to accept 親しん友ゆうの言こと葉ばに、酷ひどいショックを受うけた。 I was terribly shocked at my friend's words.         	  	Note: In this sentence, it literally means you received a terrible shock."
+今年 今年はイタリアに旅行したい。	今年ことし    this year 今年ことしはイタリアに旅りょ行こうしたい。 I want to travel to Italy this year.
+去年 私は去年フランスへ行った。	去きょ年ねん    last year 私わたしは去きょ年ねんフランスへ行いった。 I went to France last year.
+来年 来年一緒に旅行しましょう。	来らい年ねん    next year 来らい年ねん一いっ緒しょに旅りょ行こうしましょう。 Let's travel together next year.
+殺す 私は生き物を殺すのが嫌いだ。	殺ころす    to kill 私わたしは生いき物ものを殺ころすのが嫌きらいだ。 I hate killing living things.
+まさか まさか彼がやったんじゃないよね？	まさか    by no means, never! まさか彼かれがやったんじゃないよね？ No way. He didn’t do that, did he?
+絶対 そんなことは絶対できないよ。	絶ぜっ対たい    absolutely そんなことは絶ぜっ対たいできないよ。 I can never ever do such a thing.
+理由 遅れた理由を教えてください。	理り由ゆう    reason, cause 遅おくれた理り由ゆうを教おしえてください。 Please tell me why you were late.
+口 口を大きく開けてください。	口くち    mouth 口くちを大おおきく開あけてください。 Open wide, please.
+外 外は暑いよ。	外そと    outside 外そとは暑あついよ。 It's hot outside.
+逃げる 鳥が窓から逃げたよ。	逃にげる    to escape, to run away 鳥とりが窓まどから逃にげたよ。 The bird flew out of the window.
+誰か 誰かに聞いてみてください。	誰だれか    someone 誰だれかに聞きいてみてください。 Please try asking someone.
+まるで 彼はまるで子供のようにはしゃいだよ。	まるで    just like, completely 彼かれはまるで子こ供どものようにはしゃいだよ。 He was excited just like a kid.
+他 他に方法がありません。	他ほか    another, somewhere else 他ほかに方ほう法ほうがありません。 There's no other way.
+他 留学生はアジア人が多く、その他は3割です。	他た    other (esp. people and abstract matters) 留りゅう学がく生せいはアジア人じんが多おおく、その他たは3さん割わりです。 The majority of foreign students are Asian, with 30 percent from other regions.
+問題 問題が一つあります。	問もん題だい    problem, question 問もん題だいが一ひとつあります。 There's one problem.
+今後 今後ともよろしくお願いします。	"今こん後ご    after this, in the future 今こん後ごともよろしくお願ねがいします。 I look forward to working with you in the future.         	  	Note: This specific sentence is a set phrase."
+普通 あの店は料理もサービスも普通です。	普ふ通つう    normal, regular, average あの店みせは料りょう理りもサービスも普ふ通つうです。 The food and the service at that restaurant is average.
+心 彼は素直な心を持っている。	心こころ    heart, mind 彼かれは素す直なおな心こころを持もっている。 He has an honest heart.
+春 今年の春は暖かいね。	春はる    spring 今年ことしの春はるは暖あたたかいね。 This year's spring is warm, isn't it.
+夏 私は夏が大好き。	夏なつ    summer 私わたしは夏なつが大だい好すき。 I love summer.
+秋 彼女は秋に結婚します。	秋あき    fall 彼かの女じょは秋あきに結けっ婚こんします。 She'll get married this fall.
+冬 カナダの冬はとても寒いです。	冬ふゆ    winter カナダの冬ふゆはとても寒さむいです。 Canadian winters are very cold.
+以上 夏は３０度以上の日が何日もあります。	以い上じょう    ... or more, beyond 夏なつは３０度ど以い上じょうの日ひが何なん日にちもあります。 There are several days in the summer that are 30 degrees Celsius or more.
+それで 昨日は熱がありました。それで、学校を休みました。	それで    then, so 昨日きのうは熱ねつがありました。それで、学がっ校こうを休やすみました。 I had a fever yesterday. Because of this, I took the day off from school.
+生きる １００歳まで生きたいです。	生いきる    to live, to exist １００歳さいまで生いきたいです。 I want to live to 100.
+最初 5ページの最初を見てください。	最さい初しょ    first, beginning 5ごページの最さい初しょを見みてください。 Please look at the beginning of page 5.
+最後 今日が夏休み最後の日だ。	最さい後ご    last, final 今日きょうが夏なつ休やすみ最さい後ごの日ひだ。 Today's the last day of summer vacation.
+日 休みの日に本を読みます。	日ひ    day 休やすみの日ひに本ほんを読よみます。 I read on free days.
+間 雲の間から月が出た。	間あいだ    interval 雲くもの間あいだから月つきが出でた。 The moon came out from between the clouds.
+間 彼は少し間を置いてから返事した。	間ま    interval, duration of time 彼かれは少すこし間まを置おいてから返へん事じした。 He responded after a short pause.
+について 日本の経済について調べています。	について    concerning, regarding 日本にほんの経けい済ざいについて調しらべています。 I am researching about the Japanese economy.
+左 そこを左に曲がってください。	左ひだり    left そこを左ひだりに曲まがってください。 Please turn left there.
+右 右のポケットにハンカチが入っています。	右みぎ    right 右みぎのポケットにハンカチが入はいっています。 There's a handkerchief in my right pocket.
+感じ あの子は感じの良い子です。	感かんじ    feeling, impression あの子こは感かんじの良いい子こです。 That child seems like a good child.
+胸 胸に少し痛みがあります。	胸むね    chest 胸むねに少すこし痛いたみがあります。 I have a slight pain in my chest.
+表情 彼はとても表情が豊かですね。	表ひょう情じょう    expression, look 彼かれはとても表ひょう情じょうが豊ゆたかですね。 He's very expressive.
+多い 6月は雨が多いです。	多おおい    a lot 6ろく月がつは雨あめが多おおいです。 It rains a lot in June.
+初めて 東京に来るのは初めてです。	初はじめて    for the first time 東とう京きょうに来くるのは初はじめてです。 It's the first time I've been to Tokyo.
+無理 毎日アルバイトをするのは無理です。	無む理り    unreasonable, impossible 毎まい日にちアルバイトをするのは無む理りです。 It's impossible to work part-time everyday.
+欲しい 小さいパソコンが欲しいです。	欲ほしい    wanting, wishing for 小ちいさいパソコンが欲ほしいです。 I want a small computer.
+ごめん ごめん。ビールはない。	ごめん    sorry ごめん。ビールはない。 I am sorry. There is no beer.
+覚える 毎日、漢字を覚えます。	覚おぼえる    to memorize 毎まい日にち、漢かん字じを覚おぼえます。 I memorize kanji every day.
+別に 別に好きじゃありません。	別べつに    (not) particularly 別べつに好すきじゃありません。 I don't particularly like it.
+思い出す 大切な用事を思い出しました。	思おもい出だす    to recollect, to recall 大たい切せつな用よう事じを思おもい出だしました。 I just remembered an important thing I have to do.
+入れる 彼はかばんに手帳を入れた。	入いれる    to put in 彼かれはかばんに手て帳ちょうを入いれた。 He put the notebook in his bag.
+開く 次の駅で右のドアが開きます。	開あく    to open 次つぎの駅えきで右みぎのドアが開あきます。 Doors on the right side will open at the next stop.
+開く 32ページを開いてください。	"開ひらく    to open 32さんじゅうにページを開ひらいてください。 Please open to page 32.         	  	Note: Open in the sense of spreading, or unfolding, different from 開く read あく."
+残る 料理がたくさん残りました。	残のこる    to remain, to be left over 料りょう理りがたくさん残のこりました。 A lot of food was left over.
+答える 先生の質問に答えます。	答こたえる    to answer 先せん生せいの質しつ問もんに答こたえます。 I will answer the teacher's question.
+怖い 私は犬が怖いです。	怖こわい    fearful, be afraid, fearsome 私わたしは犬いぬが怖こわいです。 I'm scared of dogs.
+年 韓国に5年いました。	年ねん    counter for years 韓かん国こくに5ご年ねんいました。 I was in South Korea for five years.
+年 新しい年が始まりました。	年とし    year 新あたらしい年としが始はじまりました。 A new year has started.
+取る テストでいい点を取った。	取とる    to take, to get テストでいい点てんを取とった。 I got a good grade on the test.
+全て 彼に全てのことを伝えた。	全すべて    all, entirely 彼かれに全すべてのことを伝つたえた。 I told him everything.
+助ける 彼女は病気の犬を助けた。	助たすける    to help, to save 彼かの女じょは病びょう気きの犬いぬを助たすけた。 She helped a sick dog.
+状況 この状況では出発は難しいです。	状じょう況きょう    state of affairs, conditions この状じょう況きょうでは出しゅっ発ぱつは難むずかしいです。 It will be difficult to depart in these conditions.
+確認 もう一度、予約を確認した。	確かく認にん    confirmation もう一いち度ど、予よ約やくを確かく認にんした。 I confirmed my reservation one more time.
+消える 電気が消えているので、田中さんは部屋にいないでしょう。	消きえる    to turn off, to disappear 電でん気きが消きえているので、田た中なかさんは部屋へやにいないでしょう。 The light is off, so Tanaka-san must not be in this room.
+長い 彼女の髪はとても長い。	長ながい    long 彼かの女じょの髪かみはとても長ながい。 Her hair is very long.
+驚く 夜中に道で大きな声がして、驚きました。	驚おどろく    to be surprised, to be astonished 夜よ中なかに道みちで大おおきな声こえがして、驚おどろきました。 I was surprised by a loud voice on the street in the middle of the night.
+腕 腕を回してください。	腕うで    arm 腕うでを回まわしてください。 Please rotate your arm.
+以外 私は雨の日以外は自転車で学校に行く。	以い外がい    except for 私わたしは雨あめの日ひ以い外がいは自じ転てん車しゃで学がっ校こうに行いく。 I go to school by bicycle except on rainy days.
+困る ケータイをなくして困っています。	困こまる    to be at a loss, to be in trouble ケータイをなくして困こまっています。 I'm at a loss because I lost my cell phone.
+離れる 実家を4年間離れていました。	離はなれる    to be separated, to be apart 実じっ家かを4よ年ねん間かん離はなれていました。 I was away from my parents' house for 4 years.
+気 旅行に行く気があるか彼女に聞かれました。	"気き    spirit, temperament 旅りょ行こうに行いく気きがあるか彼かの女じょに聞きかれました。 She asked if I was willing to travel.         	  	Note: Slightly idiomatic usage."
+書く 彼に手紙を書きました。	書かく    to write 彼かれに手て紙がみを書かきました。 I wrote him a letter.
+光 この部屋は光がたくさん入って、いいね。	光ひかり    light, flash この部屋へやは光ひかりがたくさん入はいって、いいね。 It’s nice how much light comes into this room, isn’t it?
+走る 彼は毎晩3キロ走っています。	走はしる    to run 彼かれは毎まい晩ばん3さんキロ走はしっています。 Every night he runs three kilometers.
+戦う 彼は最後まで戦ったよ。	戦たたかう    to wage war, to fight 彼かれは最さい後ごまで戦たたかったよ。 He fought to the very end.
+余り 余りは次回使いましょう。	余あまり    remainder, leftover 余あまりは次じ回かい使つかいましょう。 Let's use the left-over portion next time.
+全部 お弁当を全部食べました。	全ぜん部ぶ    all, everything お弁べん当とうを全ぜん部ぶ食たべました。 I ate all that was in the lunchbox.
+瞬間 その瞬間、猫が跳び出しました。	瞬しゅん間かん    instant, moment その瞬しゅん間かん、猫ねこが跳とび出だしました。 At that instant, the cat ran out.
+説明 この文法の説明は良く分かりません。	説せつ明めい    explanation この文ぶん法ぽうの説せつ明めいは良よく分わかりません。 I don't really understand the explanation of this grammar.
+決める 会議の時間を決めましょう。	決きめる    to decide 会かい議ぎの時じ間かんを決きめましょう。 Let's decide the time of the meeting.
+女性 そのパーティーに女性は何人来ますか。	女じょ性せい    woman, female そのパーティーに女じょ性せいは何なん人にん来きますか。 How many women are coming to that party?
+頂く お客様にお菓子を頂いた。	頂いただく    to receive, to take (humble form) お客きゃく様さまにお菓か子しを頂いただいた。 A customer gave me some snacks.
+敵 あそこに敵がひそんでいる。	敵てき    enemy あそこに敵てきがひそんでいる。 The enemy is lurking there.
+起きる 近所で盗難事件が起きました。	起おきる    to occur 近きん所じょで盗とう難なん事じ件けんが起おきました。 Some burglaries occurred in the neighborhood.
+起きる 私は毎朝6時に起きます。	起おきる    to get up, to get out of bed 私わたしは毎まい朝あさ6ろく時じに起おきます。 I get up at six o'clock every morning.
+落ちる 荷物が下に落ちてしまいました。	落おちる    to fall 荷に物もつが下したに落おちてしまいました。 My bag fell down there.
+足 彼は足が長い。	足あし    leg, foot 彼かれは足あしが長ながい。 He has long legs.
+それに 連休はホテル代が高いです。それに、どこも人が多いです。	それに    in addition 連れん休きゅうはホテル代だいが高たかいです。それに、どこも人ひとが多おおいです。 Hotel fairs are expensive during extended weekends. In addition, it's crowded everywhere.
+先に では、私たちは先に出発します。	先さきに    before, ahead では、私わたしたちは先さきに出しゅっ発ぱつします。 We will leave before you then.
+魔法 彼女はまるで魔法にかかったみたいだ。	魔ま法ほう    magic 彼かの女じょはまるで魔ま法ほうにかかったみたいだ。 She acts as if she is under a spell.
+探す ピンクのセーターをずっと探しています。	探さがす    to look for, to search ピンクのセーターをずっと探さがしています。 I've been looking for a pink sweater for a while.
+子供 電車で子供が騒いでいた。	子こ供ども    child, kid 電でん車しゃで子こ供どもが騒さわいでいた。 Kids were making a racket in the train.
+怒る 彼女が嘘をついたので、彼は怒った。	怒おこる    to get angry, to scold 彼かの女じょが嘘うそをついたので、彼かれは怒おこった。 He was angry because she lied.
+笑顔 赤ちゃんの笑顔が可愛い。	笑え顔がお    smile 赤あかちゃんの笑え顔がおが可愛かわいい。 The baby's smile is cute.
+先輩 先輩からメール来た？	先せん輩ぱい    senior (at work, school, etc.) 先せん輩ぱいからメール来きた？ Did you get a text from your senior?
+続く 雨の日が２週間も続いています。	続つづく    to continue, to keep up 雨あめの日ひが２週しゅう間かんも続つづいています。 Rainy days have continued for two weeks.
+こんなに こんなに面白い本は初めて読んだ。	こんなに    this much, such こんなに面おも白しろい本ほんは初はじめて読よんだ。 It's the first time I read such an interesting book.
+変 変な音が聞こえます。	変へん    strange, funny 変へんな音おとが聞きこえます。 I hear a strange sound.
+読む 日本語の本を読みます。	読よむ    to read 日本にほん語ごの本ほんを読よみます。 I read a Japanese language book.
+当然 彼女が怒るのも当然だ。	当とう然ぜん    natural, as a matter of course 彼かの女じょが怒おこるのも当とう然ぜんだ。 It's natural that she would be angry.
+情報 私はホテルの情報が知りたいです。	情じょう報ほう    information 私わたしはホテルの情じょう報ほうが知しりたいです。 I'd like to know some information about the hotel.
+見つける 新しい仕事を見つけました。	見みつける    to find 新あたらしい仕し事ごとを見みつけました。 I found a new job.
+少女 少女は母親の手を握った。	少しょう女じょ    girl 少しょう女じょは母はは親おやの手てを握にぎった。 The girl clasped her mother's hand.
+大変 大変なことが起こりました。	大たい変へん    terrible, serious, grave 大たい変へんなことが起おこりました。 A terrible thing happened.
+かなり 彼はかなり英語が上手です。	かなり    fairly, rather 彼かれはかなり英えい語ごが上じょう手ずです。 He's pretty good at English.
+下 財布は机の下にあった。	下した    under, below 財さい布ふは机つくえの下したにあった。 My purse was under the desk.
+下 私はその教授の下で論文を書いたの。	"下もと    under (the supervision of) 私わたしはその教きょう授じゅの下もとで論ろん文ぶんを書かいたの。 I wrote my thesis under that professor's supervision.         	  	Note: This is used in the idiom の下で to mean ""under the supervision"" of."
+かかる 自転車で10分ぐらいかかります。	かかる    to take (e.g. time or money) 自じ転てん車しゃで10じゅっ分ぷんぐらいかかります。 It takes about 10 minutes by bicycle.
+掛かる 綺麗なカレンダーが掛かっていますね。	掛かかる    to hang, to be hung 綺き麗れいなカレンダーが掛かかっていますね。 A beautiful calendar is hanging, isn't it?
+一度 一度、花見をしたことがあります。	一いち度ど    once 一いち度ど、花はな見みをしたことがあります。 I went to flower viewing once before.
+完全 この古い寺院は今でも完全な形を保っているんだ。	完かん全ぜん    perfect, complete この古ふるい寺じ院いんは今いまでも完かん全ぜんな形かたちを保たもっているんだ。 This old Buddhist temple still maintains its complete form.
+後ろ 後ろを向いて。	後うしろ    back, behind 後うしろを向むいて。 Turn around.
+泣く 妹はすぐに泣く。	泣なく    to cry 妹いもうとはすぐに泣なく。 My little sister cries easily.
+状態 ここは道の状態がとても悪いです。	状じょう態たい    state, condition ここは道みちの状じょう態たいがとても悪わるいです。 The road is in a very bad state here.
+関係 彼はその事件に関係がない。	関かん係けい    relation(ship) 彼かれはその事じ件けんに関かん係けいがない。 He has nothing to do with that incident.
+向ける 彼は上司に怒りの目を向けたんだよ。	向むける    to turn toward, to point at 彼かれは上じょう司しに怒いかりの目めを向むけたんだよ。 He stared with angry eyes at his superior.
+奥 はさみは机の奥にあった。	奥おく    inner part, back (of...) はさみは机つくえの奥おくにあった。 The scissors were at the back of the desk.
+軽い この靴はとても軽い。	軽かるい    light この靴くつはとても軽かるい。 These shoes are very light.
+返す 図書館に本を返した。	返かえす    to return, to repay 図と書しょ館かんに本ほんを返かえした。 I returned the book to the library.
+現れる 雲の間から太陽が現れました。	現あらわれる    to appear, to emerge 雲くもの間あいだから太たい陽ようが現あらわれました。 The sun appeared between the clouds.
+痛い 歯が痛いです。	痛いたい    hurt, ouch 歯はが痛いたいです。 My tooth hurts.
+どうやら 明日はどうやら雨らしいよ。	どうやら    (seems) likely, seems like 明日あしたはどうやら雨あめらしいよ。 Seems like it's going to rain tomorrow.
+点ける 電気を点けてください。	"点つける    to switch on 電でん気きを点つけてください。 Please turn on the light.         	  	Note: Usually written with kana."
+付ける おまけを付けました。	付つける    to attach, to set, to add おまけを付つけました。 I added a freebie.
+一瞬 一瞬自分の耳を疑ったよ。	一いっ瞬しゅん    instant, for a moment 一いっ瞬しゅん自じ分ぶんの耳みみを疑うたがったよ。 I doubted my ears for an instant.
+隠す 僕に隠していることは無いですか。	隠かくす    to hide 僕ぼくに隠かくしていることは無ないですか。 Is there anything you're hiding from me?
+準備 明日の会議の準備をした。	準じゅん備び    preparation, arrangements 明日あすの会かい議ぎの準じゅん備びをした。 I prepared for tomorrow's meeting.
+そろそろ そろそろ始めましょうか。	そろそろ    soon, about time そろそろ始はじめましょうか。 It's about time to begin.
+落ち着く 私の話を落ち着いて聞いてください。	落おち着つく    to calm down, to settle in 私わたしの話はなしを落おち着ついて聞きいてください。 Calm down and listen to me.
+恥ずかしい とても恥ずかしかった。	恥はずかしい    embarrassing, shy とても恥はずかしかった。 It was very embarrassing.
+場合 分からない場合は私に聞いてください。	場ば合あい    situation, case 分わからない場ば合あいは私わたしに聞きいてください。 Please ask me in case you don't understand.
+しっかり 両手でしっかり持って。	しっかり    tightly, firmly 両りょう手てでしっかり持もって。 Hold it firmly with both hands.
+しっかり 彼は若いのにしっかりしてるね。	しっかり    mature, responsible 彼かれは若わかいのにしっかりしてるね。 He is responsible even though he is young.
+髪 昨日、髪を切りました。	髪かみ    hair(style) 昨日きのう、髪かみを切きりました。 I had my hair cut yesterday.
+元 あの人は卓球の元選手です。	元もと    former, ex- あの人ひとは卓たっ球きゅうの元もと選せん手しゅです。 That person is a former table tennis player.
+得る 彼は大金を得ましたよ。	得える    to obtain, to gain 彼かれは大たい金きんを得えましたよ。 He gained a lot of money.
+すぐ すぐ行きます。	"すぐ    at once, right away すぐ行いきます。 I'll go right away.         	  	Note: Sometimes written 直ぐ."
+来月 来月から大学生になります。	来らい月げつ    next month 来らい月げつから大だい学がく生せいになります。 I'll be a college student starting next month.
+昔 昔、ここは海でした。	昔むかし    a long time ago, the old days 昔むかし、ここは海うみでした。 A long time ago this was an ocean.
+近い 駅はここから近いです。	近ちかい    near 駅えきはここから近ちかいです。 The station is near here.
+動き まず相手の動きを見ましょう。	動うごき    movement, motion まず相あい手ての動うごきを見みましょう。 First, watch your opponent's moves.
+見つめる 彼はその絵をずっと見つめていたの。	見みつめる    to stare 彼かれはその絵えをずっと見みつめていたの。 He kept gazing at that painting the whole time.
+幸せ 良い友達がいて私は幸せだ。	幸しあわせ    happiness, good fortune 良いい友とも達だちがいて私わたしは幸しあわせだ。 I'm happy to have good friends.
+記憶 当時のことはしっかり記憶しているよ。	記き憶おく    memory 当とう時じのことはしっかり記き憶おくしているよ。 I clearly remember what happened at that time.
+反応 彼女は良い反応を示したわ。	反はん応のう    reaction, response 彼かの女じょは良よい反はん応のうを示しめしたわ。 She showed a good reaction
+私たち 私たちは来月結婚します。	私わたしたち    we 私わたしたちは来らい月げつ結けっ婚こんします。 We will get married next month.
+とにかく とにかく現場へ行ってみましょう。	とにかく    in any case, anyway とにかく現げん場ばへ行いってみましょう。 Anyway, let's go to the site.
+勝手 勝手なことばかり言わないでくれ。	勝かっ手て    selfish, self-centered 勝かっ手てなことばかり言いわないでくれ。 Don't say self-centered things all the time.
+攻撃 2003年にアメリカはイラクを攻撃した。	攻こう撃げき    attack, assault, criticism 2003にせんさん年ねんにアメリカはイラクを攻こう撃げきした。 The United States attacked Iraq in 2003.
+開ける 窓を開けてください。	開あける    to open, to unlock 窓まどを開あけてください。 Please open the window.
+黙る 彼はいつも黙って仕事をします。	黙だまる    to become silent, to shut one's mouth 彼かれはいつも黙だまって仕し事ごとをします。 He always works in silence.
+最近 最近、仕事が忙しいです。	最さい近きん    recently 最さい近きん、仕し事ごとが忙いそがしいです。 Recently, I have been busy at work.
+全員 チーム全員に名札が配られました。	全ぜん員いん    all members, (the) entire staff チーム全ぜん員いんに名な札ふだが配くばられました。 The name tags were distributed to every member.
+せい 自分の失敗を他人のせいにするな。	せい    cause, fault 自じ分ぶんの失しっ敗ぱいを他た人にんのせいにするな。 Don't blame others for your failure.
+深い あの池はとても深い。	深ふかい    deep, profound あの池いけはとても深ふかい。 That pond is very deep.
+別 別の本も見せてください。	別べつ    another, different 別べつの本ほんも見みせてください。 Please show me another book.
+決まる 旅行の日程が決まりました。	決きまる    to be decided 旅りょ行こうの日にっ程ていが決きまりました。 I've decided on my travel schedule.
+しばらく そこでしばらく休んでいます。	しばらく    for a while, for the time being そこでしばらく休やすんでいます。 He's resting over there for a while.
+行う １９９８年に日本で冬のオリンピックが行われました。	"行おこなう    to perform, to do １９９８年ねんに日本にほんで冬ふゆのオリンピックが行おこなわれました。 The Winter Olympics were held in Japan in 1998.         	  	Note: 1998 is read せんきゅうひゃくきゅうじゅうはち."
+上がる 私たちは２階に上がった。	上あがる    to go up, to rise 私わたしたちは２に階かいに上あがった。 We went up to the second floor.
+隣 隣の家には犬がいます。	隣となり    next to, adjacent 隣となりの家いえには犬いぬがいます。 They have a dog next door.
+扉 彼は扉を開けたんだ。	扉とびら    door 彼かれは扉とびらを開あけたんだ。 He opened the door.
+指 彼は指が太い。	指ゆび    finger, toe 彼かれは指ゆびが太ふとい。 He has fat fingers.
+結果 試合の結果を早く知りたい。	結けっ果か    result, outcome 試し合あいの結けっ果かを早はやく知しりたい。 I want to know the results of the game soon.
+与える そのニュースは彼に大きなショックを与えた。	与あたえる    to give そのニュースは彼かれに大おおきなショックを与あたえた。 The news gave him a great shock.
+道 この道を知っています。	道みち    road この道みちを知しっています。 I know this road.
+乗る 駅からはタクシーに乗ってください。	乗のる    to ride, to take 駅えきからはタクシーに乗のってください。 Please take a taxi from the station.
+特に 特に質問はありません。	特とくに    specially, particularly 特とくに質しつ問もんはありません。 I don't have any question in particular.
+形 このクッキーは星の形です。	形かたち    shape このクッキーは星ほしの形かたちです。 This cookie is in the shape of a star.
+さあ A「どちらが勝つでしょうか。」 B「さあ.....わかりません。」	さあ    I'm not sure, Hmm... A「どちらが勝かつでしょうか。」 B「さあ.....わかりません。」 A: Which side do you think will win? B: Hmm... I don't know.
+血 血が出ていますよ。	血ち    blood 血ちが出でていますよ。 You're bleeding.
+更に 彼は更に質問を続けたの。	更さらに    furthermore, even more 彼かれは更さらに質しつ問もんを続つづけたの。 He kept raising even more questions.
+用意 食事の用意ができました。	用よう意い    preparation, getting ready 食しょく事じの用よう意いができました。 The meal is ready.
+負ける 山田さんはホアンさんに負けました。	負まける    to lose 山やま田ださんはホアンさんに負まけました。 Yamada-san lost to Huang-san.
+神 彼は神を信じている。	神かみ    god, spirit 彼かれは神かみを信しんじている。 He believes in God.
+実は 実は来月、帰国することになりました。	実じつは    actually, the truth is 実じつは来らい月げつ、帰き国こくすることになりました。 Actually, I'll be going back to my country next month.
+服 昨日、服を買いました。	服ふく    clothes 昨日きのう、服ふくを買かいました。 Yesterday, I bought clothes.
+不思議 それはとても不思議な話だね。	不ふ思し議ぎ    strange, wonderful それはとても不ふ思し議ぎな話はなしだね。 It's a very strange story.
+意識 彼は意識を失いました。	意い識しき    consciousness, awareness 彼かれは意い識しきを失うしないました。 He lost consciousness.
+一体 一体何事ですか。	一いっ体たい    what on earth, what the… 一いっ体たい何なに事ごとですか。 What on earth is going on?
+とりあえず とりあえずお知らせしておきます。	とりあえず    for now, first of all とりあえずお知しらせしておきます。 I will let them know for now.
+送る 彼の家に荷物を送りました。	送おくる    to send 彼かれの家いえに荷に物もつを送おくりました。 I sent a package to his house.
+では では、こちらはいかがですか。6万円です。	では    then では、こちらはいかがですか。6ろく万まん円えんです。 Then how about this one? It's 60,000 yen.
+安心 それを聞いて安心しました。	安あん心しん    peace of mind, relief それを聞きいて安あん心しんしました。 I was relieved to hear that.
+失う 彼は地震で親を失いました。	失うしなう    to lose, to miss 彼かれは地じ震しんで親おやを失うしないました。 He lost his parents due to the earthquake.
+行動 彼の行動は理解できない。	行こう動どう    action, conduct 彼かれの行こう動どうは理り解かいできない。 I can't understand his conduct.
+触れる 手と手が触れてどきどきしたよ。	触ふれる    to touch, to come in contact with 手てと手てが触ふれてどきどきしたよ。 My heart pounded as our hands touched.
+そもそも 彼はそもそもこの仕事に向いていない。	そもそも    in the first place 彼かれはそもそもこの仕し事ごとに向むいていない。 He wasn't suited for this job in the first place.
+少ない 今年は雨が少ないです。	少すくない    few, little 今年ことしは雨あめが少すくないです。 There's not much rain this year.
+結局 彼は結局何を言いたかったのだろう。	結けっ局きょく    after all, finally 彼かれは結けっ局きょく何なにを言いいたかったのだろう。 I wonder what he wanted to say after all.
+空 空が真っ青です。	空そら    sky, weather 空そらが真まっ青さおです。 The sky is bright blue.
+済む 父の手術が無事に済みました。	済すむ    to be settled, to complete 父ちちの手しゅ術じゅつが無ぶ事じに済すみました。 My father's operation came off without a hitch.
+任せる この仕事は君に任せる。	任まかせる    to entrust to, to leave it to この仕し事ごとは君きみに任まかせる。 I leave this work up to you.
+赤い 赤いコートを買いました。	赤あかい    red 赤あかいコートを買かいました。 I bought a red coat.
+大事 彼女は私の大事な人です。	大だい事じ    important, precious 彼かの女じょは私わたしの大だい事じな人ひとです。 She is an important person to me.
+残す 彼女はメッセージを残しました。	残のこす    to leave, to reserve 彼かの女じょはメッセージを残のこしました。 She left a message.
+止まる 道に大きいバスが止まっています。	止とまる    to stop, to come to a stop 道みちに大おおきいバスが止とまっています。 There is a big bus parked on the street.
+朝 朝、6時に起きます。	朝あさ    morning 朝あさ、6ろく時じに起おきます。 I wake up at 6 A.M. in the morning.
+命 命より大切なものは無いよ。	命いのち    life 命いのちより大たい切せつなものは無ないよ。 There is nothing more important than life.
+不安 明日、病院に検査に行くので少し不安です。	不ふ安あん    uneasiness, anxiety 明日あす、病びょう院いんに検けん査さに行いくので少すこし不ふ安あんです。 I'm a bit worried since I have to go to the hospital for a check-up tomorrow.
+結構 お腹がいっぱいなのでお代わりは結構です。	結けっ構こう    all right, no thank you お腹なかがいっぱいなのでお代かわりは結けっ構こうです。 I am full so no seconds for me, thank you.
+結構 彼女は結構めがねが似合うね。	結けっ構こう    quite 彼かの女じょは結けっ構こうめがねが似に合あうね。 Glasses suit her quite well.
+新しい 彼の車は新しい。	新あたらしい    new 彼かれの車くるまは新あたらしい。 His car is new.
+程度 この程度の怪我なら大丈夫です。	程てい度ど    degree, extent この程てい度どの怪け我がなら大だい丈じょう夫ぶです。 If it's an injury of such a small extent then it'll be fine.
+壁 壁に絵が掛かっている。	壁かべ    wall, partition 壁かべに絵えが掛かかっている。 There's a painting on the wall.
+用 私に何か用ですか。	用よう    things to do, (as a suffix) to do..., made for... 私わたしに何なにか用ようですか。 Do you need me for something?
+背中 背中がかゆいです。	背せ中なか    back 背せ中なかがかゆいです。 My back itches.
+気付く 私が髪を切ったのに、夫は気付きませんでした。	気き付づく    to realize, to notice 私わたしが髪かみを切きったのに、夫おっとは気き付づきませんでした。 I cut my hair, but my husband didn't even notice.
+いきなり 後ろからいきなり肩をたたかれた。	いきなり    all of a sudden, without warning 後うしろからいきなり肩かたをたたかれた。 Someone suddenly tapped on my shoulder from behind.
+渡す 彼に手紙を渡しました。	渡わたす    to carry across, to hand over 彼かれに手て紙がみを渡わたしました。 I handed him the letter.
+喜ぶ 彼女はとても喜びました。	喜よろこぶ    to be happy, to be delighted 彼かの女じょはとても喜よろこびました。 She was very pleased.
+可愛い 妹は可愛い服が大好きです。	可愛かわいい    cute 妹いもうとは可愛かわいい服ふくが大だい好すきです。 My younger sister loves cute clothes.
+始まる 新しい仕事が始まりました。	始はじまる    to begin 新あたらしい仕し事ごとが始はじまりました。 My new job started.
+色 すてきな色のセーターですね。	色いろ    color すてきな色いろのセーターですね。 That sweater is a wonderful color.
+認める 父が彼女との結婚を認めてくれました。	認みとめる    to recognize, to approve, to accept 父ちちが彼かの女じょとの結けっ婚こんを認みとめてくれました。 My father accepted my marriage to her.
+急 午後急に空が暗くなりました。	急きゅう    suddenly 午ご後ご急きゅうに空そらが暗くらくなりました。 The sky suddenly got dark in the afternoon.
+向こう 友達は向こうにいます。	向むこう    the other side, the other party, opponent 友とも達だちは向むこうにいます。 My friend is over there.
+求める 子供は親の愛を求めます。	求もとめる    to seek, to wish for 子こ供どもは親おやの愛あいを求もとめます。 Children need their parents' love.
+肩 肩が痛いです。	肩かた    shoulder 肩かたが痛いたいです。 My shoulder hurts.
+仲間 彼には仲間がたくさんいる。	仲なか間ま    comrade, peer 彼かれには仲なか間まがたくさんいる。 He has a lot of comrades.
+ようやく ようやくゴールが見えてきました。	ようやく    at last ようやくゴールが見みえてきました。 At last, we could see the goal.
+思わず 嬉しくて思わず涙が出ました。	思おもわず    unintentionally, involuntarily 嬉うれしくて思おもわず涙なみだが出でました。 I was so happy I started crying without realizing it.
+ほとんど お金がほとんどありません。	ほとんど    almost, hardly お金かねがほとんどありません。 I have hardly any money.
+突然 彼は突然走り出したのよ。	突とつ然ぜん    abruptly, suddenly 彼かれは突とつ然ぜん走はしり出だしたのよ。 He suddenly began to run.
+自身 自分自身を疑ってはいけません。	自じ身しん    self 自じ分ぶん自じ身しんを疑うたがってはいけません。 Don't doubt yourself.
+再び 彼は再びここに戻ってきた。	再ふたたび    again, a second time 彼かれは再ふたたびここに戻もどってきた。 He came back here once again.
+静か 静かな所が好きです。	静しずか    quiet 静しずかな所ところが好すきです。 I like quiet places.
+飛ぶ 鳥が飛んでいます。	飛とぶ    to fly 鳥とりが飛とんでいます。 A bird is flying.
+白い 彼は歯が白い。	白しろい    white, blank 彼かれは歯はが白しろい。 His teeth are white.
+届く 昨日、父から手紙が届いた。	届とどく    to reach, to be received 昨日きのう、父ちちから手て紙がみが届とどいた。 I received a letter from my father yesterday.
+生む うちのネコが子猫を生みました。	生うむ    to have children うちのネコが子こ猫ねこを生うみました。 Our cat had kittens.
+倒す そのスキーヤーはポールを倒した。	倒たおす    to bring down, to overthrow そのスキーヤーはポールを倒たおした。 The skier knocked the pole down.
+似る 私は母に、姉は父に似ています。	似にる    to look similar to, to resemble 私わたしは母ははに、姉あねは父ちちに似にています。 I look like my mother and my older sister looks like my father.
+空気 田舎は空気がとても美味しいです。	空くう気き    atmosphere, air 田舎いなかは空くう気きがとても美味おいしいです。 The air is very clear in the countryside.
+腰 昨日から腰が痛い。	腰こし    hip, lower back 昨日きのうから腰こしが痛いたい。 I've had a pain in my lower back since yesterday.
+名 君の名は何？	名な    name, reputation 君きみの名なは何なに？ What is your name?
+危険 この道は車が多くて、危険です。	危き険けん    danger, dangerous この道みちは車くるまが多おおくて、危き険けんです。 There are many cars on this road so it's dangerous.
+付く 靴に泥が付いています。	付つく    to attach itself to, to be connected with, to come in contact with 靴くつに泥どろが付ついています。 I have mud on my shoes.
+つく 部屋の電気がついています。	つく    to be on, to switched on 部屋へやの電でん気きがついています。 The room light is on.
+熱い このスープはとても熱い。	"熱あつい    hot (things, touch) このスープはとても熱あつい。 This soup is very hot.         	  	Note: Also seen as 暑い, usually referring to temperature but not always."
+ただいま ただいま。	ただいま    I'm back (said when arriving home) ただいま。 I'm back!
+頂きます 頂きます。	頂いただきます    let's eat!, thank you for the meal 頂いただきます。 Thank you for the meal.
+慌てる そんなに慌ててどこに行くの。	慌あわてる    to be flustered, to hurry そんなに慌あわててどこに行いくの。 Where are you going in such a hurry?
+周囲 大声で話すと周囲の人に迷惑ですよ。	周しゅう囲い    circumference, surroundings 大おお声ごえで話はなすと周しゅう囲いの人ひとに迷めい惑わくですよ。 If you speak loudly it will be a bother to people around you.
+気分 早起きした日は気分がいいです。	気き分ぶん    mood, feeling 早はや起おきした日ひは気き分ぶんがいいです。 On days I wake up early, I feel good.
+事実 それは全て事実ですか。	事じ実じつ    fact, truth それは全すべて事じ実じつですか。 Is this all true?
+まず まずキャッシュカードを入れてください。	まず    first (of all), to begin with まずキャッシュカードを入いれてください。 First, please insert your cash card.
+本気 いや、僕は本気なんだ。	本ほん気き    seriousness いや、僕ぼくは本ほん気きなんだ。 No, I'm serious.
+頷く 彼女は頷いて同意を示したの。	頷うなずく    to nod 彼かの女じょは頷うなずいて同どう意いを示しめしたの。 She showed agreement with a nod.
+通り ここが町で一番広い通りです。	通とおり    street ここが町まちで一いち番ばん広ひろい通とおりです。 This is the widest street in the city.
+想像 そんなことは想像できないよ。	想そう像ぞう    imagination そんなことは想そう像ぞうできないよ。 I can't imagine such a thing.
+店 私はこの店によく来ます。	店みせ    shop, store 私わたしはこの店みせによく来きます。 I come to this store quite often.
+何だか 茶柱が立って、何だか少し幸せな気分です。	何なんだか    somehow, for some reason 茶ちゃ柱ばしらが立たって、何なんだか少すこし幸しあわせな気き分ぶんです。 Seeing the tea leaves floating upright, somehow I feel happy.
+目的 彼が来た目的が分かりません。	目もく的てき    purpose, aim, object 彼かれが来きた目もく的てきが分わかりません。 I don't understand the purpose of his visit.
+眠る 昨日は8時間眠りました。	眠ねむる    to sleep 昨日きのうは8はち時じ間かん眠ねむりました。 I slept for eight hours yesterday.
+確か 明日の会議は確か３時からだと思います。	確たしか    certainly, surely, if I'm not mistaken... 明日あしたの会かい議ぎは確たしか３さん時じからだと思おもいます。 If I'm not mistaken, the meeting tomorrow starts at 3:00.
+十分 お金はまだ十分あります。	十じゅう分ぶん    plenty お金かねはまだ十じゅう分ぶんあります。 We still have plenty of money.
+料理 これは日本の料理です。	料りょう理り    cooking, cuisine これは日本にほんの料りょう理りです。 This is Japanese cooking.
+頃 子供の頃、よくその公園で遊んだ。	"頃ころ    approximate time 子こ供どもの頃ころ、よくその公こう園えんで遊あそんだ。 I often played in that park when I was a kid.         	  	Note: The construction ""Xのころ"" means ""around the time when X."""
+なかなか 彼女は絵がなかなか上手です。	なかなか    rather, fairly 彼かの女じょは絵えがなかなか上じょう手ずです。 She's pretty good at painting.
+正直 彼女はとても正直だ。	正しょう直じき    honest, upright 彼かの女じょはとても正しょう直じきだ。 She's very honest.
+身 旅行中は身の安全が第一です。	身み    body, one's own person 旅りょ行こう中ちゅうは身みの安あん全ぜんが第だい一いちです。 Personal safety is paramount while traveling.
+いっぱい お腹がいっぱいです。	いっぱい    full, a lot お腹なかがいっぱいです。 I am full.
+美しい この絵は美しいです。	美うつくしい    beautiful この絵えは美うつくしいです。 This picture is beautiful.
+甘い このケーキは甘いですね。	甘あまい    sweet このケーキは甘あまいですね。 This cake is sweet, isn't it?
+むしろ 彼は建築家というよりむしろ芸術家ね。	むしろ    rather 彼かれは建けん築ちく家かというよりむしろ芸げい術じゅつ家かね。 He's an artist rather than an architect.
+首 きりんの首は長い。	首くび    neck きりんの首くびは長ながい。 The neck of giraffes are long.
+感情 感情とは複雑なものです。	感かん情じょう    feeling, emotion 感かん情じょうとは複ふく雑ざつなものです。 Emotions are complex things.
+周り 家の周りに桜の木があります。	周まわり    around, surroundings 家いえの周まわりに桜さくらの木きがあります。 There are cherry blossoms around the house.
+方法 日本語が上手になる方法を教えてください。	方ほう法ほう    method, way 日本にほん語ごが上じょう手ずになる方ほう法ほうを教おしえてください。 Please teach me a way to get good at Japanese.
+もう一度 もう一度言います。	もう一いち度ど    once more もう一いち度ど言いいます。 I will say it one more time.
+遅い 前の車はとても遅い。	遅おそい    slow, late 前まえの車くるまはとても遅おそい。 The car in front is very slow.
+会話 親子の会話は大切です。	会かい話わ    conversation 親おや子この会かい話わは大たい切せつです。 Conversation between parents and children is important.
+合う この靴は私の足に合っている。	合あう    to fit この靴くつは私わたしの足あしに合あっている。 These shoes fit me.
+やって来る フランスからサーカスがやって来ます。	やって来くる    to come around, to come along フランスからサーカスがやって来きます。 A circus is coming from France.
+森 私は森を歩くのが好きです。	森もり    thick woods, forest 私わたしは森もりを歩あるくのが好すきです。 I like to walk in the forest.
+動かす みんなで大きいテーブルを動かします。	動うごかす    to move, to make a move みんなで大おおきいテーブルを動うごかします。 Everyone moves the big table together.
+能力 彼は能力のある社員です。	能のう力りょく    ability, capacity 彼かれは能のう力りょくのある社しゃ員いんです。 He's a capable employee.
+震える 彼は寒くて震えていました。	震ふるえる    to tremble, to shake 彼かれは寒さむくて震ふるえていました。 He was cold and shivering.
+期待 みんな私たちに期待しています。	期き待たい    expectation, anticipation みんな私わたしたちに期き待たいしています。 Everyone has expectations of us.
+無事 無事、家に着きました。	無ぶ事じ    safely, peacefully 無ぶ事じ、家いえに着つきました。 I arrived home safely.
+起こす 彼は暴力事件を起こしたんだよ。	起おこす    to bring about, to cause 彼かれは暴ぼう力りょく事じ件けんを起おこしたんだよ。 He caused a violent incident.
+起こす 明日、6時に起こしてください。	起おこす    to wake up 明日あす、6ろく時じに起おこしてください。 Please wake me up tomorrow at six o'clock.
+耳 彼女は耳がよく聞こえません。	耳みみ    ear, hearing 彼かの女じょは耳みみがよく聞きこえません。 Her hearing isn't very good.
+生まれる 友達に子供が生まれました。	生うまれる    to be born 友とも達だちに子こ供どもが生うまれました。 My friend had a baby.
+移動 私たちはレンタカーで移動しました。	移い動どう    movement, shift 私わたしたちはレンタカーで移い動どうしました。 We traveled around by a rental car.
+邪魔 この大きい荷物はとても邪魔です。	邪じゃ魔ま    obstacle, hindrance この大おおきい荷に物もつはとても邪じゃ魔まです。 This big luggage is a big hindrance.
+遊ぶ 子供たちが公園で遊んでいる。	遊あそぶ    to play 子こ供どもたちが公こう園えんで遊あそんでいる。 The children are playing in the park.
+要る 予約は要りません。	要いる    to need, to require 予よ約やくは要いりません。 Reservations are not required.
+無くなる もうお金が無くなりました。	無なくなる    to be lost, to be used up もうお金かねが無なくなりました。 I've run out of money already.
+唇 彼女の唇はとても可愛いです。	唇くちびる    lip 彼かの女じょの唇くちびるはとても可愛かわいいです。 Her lips are really cute.
+着る 今日はスーツを着ています。	着きる    to wear, to put on 今日きょうはスーツを着きています。 I'm wearing a suit today.
+色々 彼は色々なことを知っている。	色いろ々いろ    various, in various ways 彼かれは色いろ々いろなことを知しっている。 He knows about a lot of things.
+どうぞ こちらへどうぞ。	どうぞ    go ahead こちらへどうぞ。 This way please.
+立ち上がる 彼は急に立ち上がったの。	立たち上あがる    to stand up 彼かれは急きゅうに立たち上あがったの。 He suddenly stood up.
+思い 必死の思いで彼に頼んだよ。	思おもい    thought 必ひっ死しの思おもいで彼かれに頼たのんだよ。 I asked him out of desperation.
+以前 以前彼はこの町に住んでいたんだ。	以い前ぜん    before, ago 以い前ぜん彼かれはこの町まちに住すんでいたんだ。 He used to live in this town.
+もう少し もう少しゆっくり話してください。	もう少すこし    a little more, a bit more もう少すこしゆっくり話はなしてください。 Please speak a little slower
+襲う 山で登山客が熊に襲われたよ。	襲おそう    to assault, to attack 山やまで登と山ざん客きゃくが熊くまに襲おそわれたよ。 Some climbers were attacked by a bear in the mountains.
+見つかる メガネが見つかりません。	見みつかる    to be found, to be caught メガネが見みつかりません。 I can't find my glasses.
+急ぐ 時間がないので、急いでください。	急いそぐ    to hurry 時じ間かんがないので、急いそいでください。 We don't have much time, so please hurry.
+せっかく せっかく来たんだからゆっくりして行きなさい。	せっかく    with (much) trouble, specially せっかく来きたんだからゆっくりして行いきなさい。 Since you've come all the way, why don't you stay for a while?
+降りる ここでバスを降ります。	降おりる    to get off, to go down ここでバスを降おります。 I'm getting off the bus here.
+下りる そこの階段を下りてください。	下おりる    to go down, to come down そこの階かい段だんを下おりてください。 Please go down those stairs.
+切る この紙を半分に切ってください。	切きる    to cut この紙かみを半はん分ぶんに切きってください。 Please cut this paper in half.
+事件 その事件の犯人はまだ捕まっていない。	事じ件けん    affair, case その事じ件けんの犯はん人にんはまだ捕つかまっていない。 The perpetrator of the incident hasn't been caught yet.
+返事 友達からメールの返事が中々来ません。	返へん事じ    reply 友とも達だちからメールの返へん事じが中なか々なか来きません。 My friend won't respond to my mail.
+酷い 昨日のテストは酷い点でした。	酷ひどい    terrible, cruel 昨日きのうのテストは酷ひどい点てんでした。 I got a terrible score on yesterday's test.
+重い この荷物は重いですね。	重おもい    heavy この荷に物もつは重おもいですね。 This package is heavy.
+起こる この道ではよく事故が起こります。	起おこる    to occur, to happen この道みちではよく事じ故こが起おこります。 There are many accidents on this road.
+逆 駅は逆方向です。	逆ぎゃく    reverse, inverse 駅えきは逆ぎゃく方ほう向こうです。 The station is in the opposite direction.
+納得 彼の説明で納得できました。	納なっ得とく    consent, accept 彼かれの説せつ明めいで納なっ得とくできました。 I was able to accept his explanation.
+楽しむ 今日は一人の時間を楽しみたい。	楽たのしむ    to enjoy 今日きょうは一人ひとりの時じ間かんを楽たのしみたい。 Today I would like to enjoy some alone time.
+叫ぶ 彼女は助けを求めて大声で叫んだの。	叫さけぶ    to shout, to yell, to cry out 彼かの女じょは助たすけを求もとめて大おお声ごえで叫さけんだの。 She cried out for help.
+集まる 駅前に人が集まっています。	集あつまる    to gather, to be collected 駅えき前まえに人ひとが集あつまっています。 Lots of people are gathered in front of the station.
+構う 子供に構い過ぎてはいけない。	構かまう    to mind, to care for 子こ供どもに構かまい過すぎてはいけない。 You shouldn't give kids too much attention.
+王 王の墓を見学したよ。	王おう    king 王おうの墓はかを見けん学がくしたよ。 I visited the royal grave.
+途中 途中で30分ほど休みましょう。	途と中ちゅう    on the way, half way 途と中ちゅうで30さんじゅっ分ぷんほど休やすみましょう。 Let's take a rest on the way for about 30 minutes.
+慣れる 新しい家にはもう慣れましたか。	慣なれる    to grow accustomed to 新あたらしい家いえにはもう慣なれましたか。 Have you gotten used to the new house yet?
+終わり 今月の終わりに国へ帰ります。	終おわり    end 今こん月げつの終おわりに国くにへ帰かえります。 I will return to my country at the end of this month.
+一応 彼にも一応知らせておいたほうがいいだろう。	一いち応おう    for the time being, more or less 彼かれにも一いち応おう知しらせておいたほうがいいだろう。 It might be better to just let him know for now.
+引く このドアは引いてください。	引ひく    to draw, to pull このドアは引ひいてください。 Please pull this door open.
+海 海は広くて大きい。	海うみ    sea, ocean 海うみは広ひろくて大おおきい。 The sea is vast and wide.
+諦める 何でも簡単に諦めてはいけません。	諦あきらめる    to give up, to abandon 何なんでも簡かん単たんに諦あきらめてはいけません。 You mustn't give up on everything so easily.
+必ず 必ずシートベルトを着けてください。	必かならず    without exception, always, certainly 必かならずシートベルトを着つけてください。 Always wear your seat belt.
+狙う 来年は優勝を狙います。	狙ねらう    to aim, to be after 来らい年ねんは優ゆう勝しょうを狙ねらいます。 We will aim for a victory next year.
+いくら この靴はいくらですか。	いくら    how much この靴くつはいくらですか。 How much are these shoes?
+落とす 道でスマホを落としました。	落おとす    to drop 道みちでスマホを落おとしました。 I dropped my smartphone on the street.
+部分 この部分は問題ないです。	部ぶ分ぶん    part, section この部ぶ分ぶんは問もん題だいないです。 There's no problem with this part.
+必死 学生たちは授業についていくのに必死です。	必ひっ死し    frantic, desperate 学がく生せいたちは授じゅ業ぎょうについていくのに必ひっ死しです。 Students are desperately trying to follow the class.
+珍しい こんな大きなダイヤは珍しいです。	珍めずらしい    rare, uncommon こんな大おおきなダイヤは珍めずらしいです。 A diamond big like this is rare.
+意外 意外にも彼は独身です。	意い外がい    unexpected, unforeseen 意い外がいにも彼かれは独どく身しんです。 Surprisingly, he is single.
+報告 昨日の会議について報告があります。	報ほう告こく    report 昨日きのうの会かい議ぎについて報ほう告こくがあります。 There's a report about yesterday's conference.
+握る 少女は母親の手を握った。	握にぎる    to grasp, to grip 少しょう女じょは母はは親おやの手てを握にぎった。 The girl clasped her mother's hand.
+結婚 来月、姉が結婚します。	結けっ婚こん    marriage 来らい月げつ、姉あねが結けっ婚こんします。 My older sister is getting married next month.
+戦い 長い戦いが終わった。	戦たたかい    war, battle 長ながい戦たたかいが終おわった。 The long battle came to an end.
+感謝 友達にいつも感謝しています。	感かん謝しゃ    appreciation, thanks 友とも達だちにいつも感かん謝しゃしています。 I am always thankful to my friends.
+激しい 激しい雨が降っています。	激はげしい    intense, violent 激はげしい雨あめが降ふっています。 A very heavy rain is falling.
+倒れる 地震で家が倒れました。	倒たおれる    to collapse, to fall down 地じ震しんで家いえが倒たおれました。 The house collapsed from the earthquake.
+既に そのことは既にみんな知っています。	既すでに    already, too late そのことは既すでにみんな知しっています。 Everyone already knows that.
+疲れる 私は疲れてふらふらです。	疲つかれる    to get tired 私わたしは疲つかれてふらふらです。 I'm tired and feel dizzy.
+生活 日本の生活は大変ですが、とても楽しいです。	生せい活かつ    life, lifestyle 日本にほんの生せい活かつは大たい変へんですが、とても楽たのしいです。 Life in Japan is hard but also really fun.
+場 この場でお礼を言わせてください。	場ば    opportunity, occasion この場ばでお礼れいを言いわせてください。 Please let me take this opportunity to offer my gratitude.
+愛する 私は家族を愛しています。	愛あいする    to love, to care for 私わたしは家か族ぞくを愛あいしています。 I love my family.
+冷たい 冷たいジュースが飲みたいです。	冷つめたい    cold (to the touch) 冷つめたいジュースが飲のみたいです。 I want to drink cold juice.
+捨てる この野菜は捨てないでください。	捨すてる    to throw away この野や菜さいは捨すてないでください。 Please don't throw these vegetables away.
+過ごす 暖かい国でゆっくり過ごしたいです。	過すごす    to spend (time), to pass 暖あたたかい国くにでゆっくり過すごしたいです。 I want to spend my time living leisurely in a warm country.
+食事 来週みんなで食事しましょう。	食しょく事じ    meal, dinner 来らい週しゅうみんなで食しょく事じしましょう。 Let's have a meal with everyone next week.
+働く 姉は銀行で働いています。	働はたらく    to work 姉あねは銀ぎん行こうで働はたらいています。 My big sister works at a bank.
+答え 答えが分かりません。	答こたえ    answer, response 答こたえが分わかりません。 I don't know the answer.
+風 今日は風が強いです。	風かぜ    wind 今日きょうは風かぜが強つよいです。 The wind is strong today.
+黒い 彼女は黒いドレスを着ています。	黒くろい    black, dark 彼かの女じょは黒くろいドレスを着きています。 She's wearing a black dress.
+助かる 彼はシートベルトをしていたので助かったんだ。	助たすかる    to be saved, to survive 彼かれはシートベルトをしていたので助たすかったんだ。 He survived because he was wearing a seat belt.
+受け取る 彼からメールを受け取りました。	受うけ取とる    to receive, to take (someone's words or behavior) 彼かれからメールを受うけ取とりました。 I got an email from him.
+足りる お金がちょっと足りません。	足たりる    to be enough, to be sufficient お金かねがちょっと足たりません。 There's not quite enough money.
+判断 彼の判断は正しい。	判はん断だん    judgment, decision 彼かれの判はん断だんは正ただしい。 His judgment is correct.
+未来 未来は誰にも分からない。	未み来らい    future 未み来らいは誰だれにも分わからない。 Nobody knows the future.
+食う 腹一杯食った。	食くう    to eat, to live on 腹はら一いっ杯ぱい食くった。 I ate heartily.
+分 このケーキはあなたの分です。	分ぶん    amount, share このケーキはあなたの分ぶんです。 This cake is your portion.
+そっち そっちが私の部屋です。	そっち    there そっちが私わたしの部屋へやです。 That's my room over there.
+上手い 彼はサッカーも野球もとても上手いです。	上手うまい    skilled, good 彼かれはサッカーも野や球きゅうもとても上手うまいです。 He's good at soccer and baseball.
+合わせる 日時はご都合に合わせます。	合あわせる    to adjust, to match 日にち時じはご都つ合ごうに合あわせます。 The date can be scheduled according to your circumstances.
+大切 これは母が大切にしていた指輪です。	大たい切せつ    important, valuable これは母ははが大たい切せつにしていた指ゆび輪わです。 This is a ring that meant a lot to my mother.
+花 母は花が好きです。	花はな    flower 母ははは花はなが好すきです。 My mother likes flowers.
+謝る 自分が悪い時は謝りましょう。	謝あやまる    to apologize 自じ分ぶんが悪わるい時ときは謝あやまりましょう。 Be sure to apologize when you've done something wrong.
+奪う その男は彼女のバッグを奪ったぞ。	奪うばう    to snatch, to take by force その男おとこは彼かの女じょのバッグを奪うばったぞ。 That man stole her bag.
+勢い そのチームには勢いがありますね。	勢いきおい    vigor, momentum そのチームには勢いきおいがありますね。 That team has momentum.
+涙 動物の映画を見て、涙が出ました。	涙なみだ    tear 動どう物ぶつの映えい画がを見みて、涙なみだが出でました。 I saw a movie about animals and cried.
+雰囲気 とても雰囲気のいいお店ですね。	雰ふん囲い気き    atmosphere, mood とても雰ふん囲い気きのいいお店みせですね。 The shop has a really good atmosphere.
+嘘 嘘じゃありません。本当です。	嘘うそ    lie 嘘うそじゃありません。本ほん当とうです。 It's not a lie. It's true.
+望む 彼は私との結婚を望んでいます。	望のぞむ    to desire, to hope 彼かれは私わたしとの結けっ婚こんを望のぞんでいます。 He hopes to marry me.
+緊張 昨日のスピーチはとても緊張しました。	緊きん張ちょう    tension, strain, be nervous 昨日きのうのスピーチはとても緊きん張ちょうしました。 I was really nervous during my speech yesterday.
+一緒 一緒に食事しようか。	一いっ緒しょ    together 一いっ緒しょに食しょく事じしようか。 Do you want to eat together?
+救う 彼女は通りがかりの人に救われたよ。	救すくう    to save 彼かの女じょは通とおりがかりの人ひとに救すくわれたよ。 She was saved by a passing stranger.
+自ら 社長自らがその会社と交渉したよ。	自みずから    oneself 社しゃ長ちょう自みずからがその会かい社しゃと交こう渉しょうしたよ。 The president himself negotiated with the company.
+地面 地面に何か絵が描いてあるぞ。	地じ面めん    surface, ground 地じ面めんに何なにか絵えが描かいてあるぞ。 There is some kind of picture drawn on the ground.
+失敗 一度の失敗であきらめてはいけないよ。	失しっ敗ぱい    failure, blunder 一いち度どの失しっ敗ぱいであきらめてはいけないよ。 You must not give up after one blunder.
+避ける 彼女は昨日から私のことを避けているようなんだ。	避さける    to avoid, to evade 彼かの女じょは昨日きのうから私わたしのことを避さけているようなんだ。 She seems to have been avoiding me since yesterday.
+窓 窓を開けてください。	窓まど    window 窓まどを開あけてください。 Please open the window.
+素直 彼女はとても素直で可愛いですね。	素す直なお    honest, straightforward 彼かの女じょはとても素す直なおで可愛かわいいですね。 She is very honest and cute.
+肉 肉が焼けました。	肉にく    flesh, meat 肉にくが焼やけました。 The meat is cooked.
+冗談 冗談は止めてください。	冗じょう談だん    joke 冗じょう談だんは止やめてください。 Please stop joking.
+余裕 出発まで時間の余裕があります。	余よ裕ゆう    room, leeway 出しゅっ発ぱつまで時じ間かんの余よ裕ゆうがあります。 We have some time until departure.
+連絡 仕事が終わったら連絡します。	連れん絡らく    connection, communication 仕し事ごとが終おわったら連れん絡らくします。 I'll contact you when I finish the job.
+人生 彼は自分の人生を振り返ったわ。	人じん生せい    (human) life 彼かれは自じ分ぶんの人じん生せいを振ふり返かえったわ。 He looked back on his life.
+放つ 的に向けて矢を放った。	放はなつ    to emit, to set free, to shoot (e.g. an arrow or bullet) 的まとに向むけて矢やを放はなった。 I shot the arrow at the target.
+流れる ラジオから美しい音楽が流れています。	流ながれる    to flow, to pass ラジオから美うつくしい音おん楽がくが流ながれています。 Beautiful music is coming from the radio.
+特別 あなたは私にとって特別な人です。	特とく別べつ    special, extraordinary あなたは私わたしにとって特とく別べつな人ひとです。 You're special to me.
+連中 あの連中は本当に面白い。	連れん中ちゅう    party, this bunch あの連れん中ちゅうは本ほん当とうに面おも白しろい。 That bunch is really interesting.
+両手 彼は両手を握り締めたの。	両りょう手て    both hands 彼かれは両りょう手てを握にぎり締しめたの。 He clenched both his fists.
+増える この町は人口が増えた。	増ふえる    to increase, to accrue この町まちは人じん口こうが増ふえた。 The population has increased in this town.
+出会う アメリカで彼女と出会いました。	出で会あう    to meet (by chance), to come across アメリカで彼かの女じょと出で会あいました。 I met her in the United States.
+少年 少年たちがサッカーをしている。	少しょう年ねん    boy 少しょう年ねんたちがサッカーをしている。 The boys are playing soccer.
+繰り返す 彼女は同じ間違いを繰り返した。	繰くり返かえす    to repeat 彼かの女じょは同おなじ間ま違ちがいを繰くり返かえした。 She repeated the same mistake.
+我慢 彼のわがままには我慢できません。	我が慢まん    patience, bearing with 彼かれのわがままには我が慢まんできません。 I can't put up with his selfishness.
+我々 我々の決意は固いです。	我われ々われ    we (formal) 我われ々われの決けつ意いは固かたいです。 Our decision is firm.
+感覚 冷えて指の感覚がない。	感かん覚かく    sensation 冷ひえて指ゆびの感かん覚かくがない。 There's no sensation in my cold fingers.
+響く このホールは音がよく響きます。	響ひびく    to reverberate このホールは音おとがよく響ひびきます。 Sounds carry well in that hall.
+何とか 何とかお願いします。	何なんとか    somehow, please 何なんとかお願ねがいします。 Please, I'm begging you.
+山 山の空気はきれいだ。	山やま    mountain 山やまの空くう気きはきれいだ。 The mountain air is clean.
+当たり前 あなたの成績が下がったのは当たり前です。	当あたり前まえ    of course, obvious あなたの成せい績せきが下さがったのは当あたり前まえです。 No wonder your grades dropped.
+予定 今日の予定を教えてください。	予よ定てい    schedule, plan 今日きょうの予よ定ていを教おしえてください。 Please tell me what your schedule is for today.
+残念 その試合は残念な結果になった。	残ざん念ねん    regretful, disappointing その試し合あいは残ざん念ねんな結けっ果かになった。 The result of the game was disappointing.
+追う 警官は怪しい男の後を追ったよ。	追おう    to chase, to pursue 警けい官かんは怪あやしい男おとこの後あとを追おったよ。 The police officer went after the suspicious man.
+綺麗 ハインさんは綺麗な人です。	綺き麗れい    beautiful, clean ハインさんは綺き麗れいな人ひとです。 Hein-san is a beautiful person.
+いらっしゃる お客様がいらっしゃいました。	"いらっしゃる    to be, to come, to go (honorific form) お客きゃく様さまがいらっしゃいました。 Your guest has arrived.         	  	Note: Can be used in place of いる, 行く and 来る in humble speech."
+若い 彼はまだ若いです。	若わかい    young 彼かれはまだ若わかいです。 He's still young.
+どうしても どうしてもその訳を知りたい。	どうしても    by any means, really どうしてもその訳わけを知しりたい。 I really want to know the reason.
+考え それは良い考えです。	考かんがえ    thought, view それは良いい考かんがえです。 That's a good idea.
+過去 それは過去の話だ。	過か去こ    the past それは過か去この話はなしだ。 That's in the past now.
+気配 後ろに人の気配を感じた。	気け配はい    indication, sign 後うしろに人ひとの気け配はいを感かんじた。 I sensed someone behind.
+本人 それは本人に聞いてください。	本ほん人にん    the person in question それは本ほん人にんに聞きいてください。 Please ask the person in question.
+現実 現実は予想より厳しかった。	現げん実じつ    reality, actuality 現げん実じつは予よ想そうより厳きびしかった。 The reality was harsher than we expected.
+決して このことを決して忘れないでください。	決けっして    never, by no means このことを決けっして忘わすれないでください。 Please never forget this.
+いつか 僕はいつかアフリカに行きたい。	いつか    some time, some day 僕ぼくはいつかアフリカに行いきたい。 I want to go to Africa some time.
+床 床がぬれている。	床ゆか    floor 床ゆかがぬれている。 The floor is wet.
+横 横の長さは1メートルです。	横よこ    side, width across 横よこの長ながさは1いちメートルです。 Its width is one meter.
+休む 昨日、会社を休みました。	休やすむ    to rest, to take time off 昨日きのう、会かい社しゃを休やすみました。 Yesterday, I took a day off work.
+振り返る 学生時代を懐かしく振り返ったんだ。	振ふり返かえる    to turn one's head, to look back on 学がく生せい時じ代だいを懐なつかしく振ふり返かえったんだ。 I looked back fondly on my school days.
+わざわざ わざわざ来てくれてありがとう。	"わざわざ    go out of one's way わざわざ来きてくれてありがとう。 Thank you for going out of your way to come here.         	  	Note: This word usually expresses the fact that something was done even though the person could've chosen not to do it, and the speaker is thankful for it."
+質問 質問を良く読んでください。	質しつ問もん    question 質しつ問もんを良よく読よんでください。 Please read the questions carefully.
+興味 私は歴史に興味があります。	興きょう味み    interest 私わたしは歴れき史しに興きょう味みがあります。 I'm interested in history.
+距離 彼らは長い距離を歩き続けたんだ。	距きょ離り    distance, interval 彼かれらは長ながい距きょ離りを歩あるき続つづけたんだ。 They kept walking a long distance.
+内容 この本の内容を説明してください。	内ない容よう    contents この本ほんの内ない容ようを説せつ明めいしてください。 Please explain the contents of this book.
+つい 会議中、ついあくびをしてしまいました。	つい    inadvertently, carelessly 会かい議ぎ中ちゅう、ついあくびをしてしまいました。 I inadvertently yawned during the meeting.
+回る 月は地球のまわりを回っています。	回まわる    to rotate, to go around 月つきは地ち球きゅうのまわりを回まわっています。 The moon revolves around the earth.
+並ぶ ラーメン屋に沢山の人が並んでいます。	並ならぶ    line up ラーメン屋やに沢たく山さんの人ひとが並ならんでいます。 There are a lot of people lined up outside of the ramen shop.
+終える やっと宿題を終えた。	終おえる    to end, to finish やっと宿しゅく題だいを終おえた。 At last I have finished my homework.
+態度 あの男の態度にみんなあきれてたよ。	態たい度ど    attitude, manner あの男おとこの態たい度どにみんなあきれてたよ。 Everyone was tired of this man's attitude.
+金 これはかなり金がかかった。	金かね    money これはかなり金かねがかかった。 This cost quite a bit of money.
+今夜 今夜は月がとてもきれいです。	今こん夜や    tonight, this evening 今こん夜やは月つきがとてもきれいです。 The moon is very beautiful tonight.
+昨夜 昨夜、流れ星を見ました。	昨夜ゆうべ    last night, last evening 昨夜ゆうべ、流ながれ星ぼしを見みました。 I saw a shooting star last night.
+さすが すごいな、さすがだね。	さすが    just as expected, true to one's reputation すごいな、さすがだね。 You are great just as I expected.
+自然 みんなで自然を守りましょう。	自し然ぜん    nature みんなで自し然ぜんを守まもりましょう。 Let's all work to protect Nature.
+眺める 猫が窓から外を眺めているよ。	眺ながめる    to look out, to gaze 猫ねこが窓まどから外そとを眺ながめているよ。 The cat is at the window staring outside.
+向く こっちを向いてください。	向むく    to face, to look こっちを向むいてください。 Please face this way.
+相変わらず 彼は相変わらず忙しいですね。	相あい変かわらず    as usual, as before 彼かれは相あい変かわらず忙いそがしいですね。 He is busy as usual.
+普段 私は普段はTシャツとジーンズを着ています。	普ふ段だん    usual, ordinary 私わたしは普ふ段だんはTシャツとジーンズを着きています。 I usually wear a T-shirt and jeans.
+どうも 今日はどうも体の調子が悪い。	どうも    for some reason, somehow 今日きょうはどうも体からだの調ちょう子しが悪わるい。 For some reason, I don't feel very well today.
+運ぶ この荷物を一緒に運んでください。	運はこぶ    to carry この荷に物もつを一いっ緒しょに運はこんでください。 Please carry this luggage along, too.
+やっと やっと仕事が終わりました。	やっと    at last, finally やっと仕し事ごとが終おわりました。 Finally, I finished my work.
+弱い その子は体が少し弱い。	弱よわい    weak その子こは体からだが少すこし弱よわい。 That child has a somewhat weak body.
+どうせ どうせ間に合わないならゆっくり行こう。	どうせ    anyway どうせ間まに合あわないならゆっくり行いこう。 If we're not going to make it in time anyway, let's go slowly.
+離す 子供の手を離さないでください。	離はなす    to separate, to detach 子こ供どもの手てを離はなさないでください。 Don't let go of your child's hand.
+貴族 彼の先祖は貴族だったそうだ。	貴き族ぞく    noble 彼かれの先せん祖ぞは貴き族ぞくだったそうだ。 I hear that his ancestors were aristocrats.
+広がる 留学してから私の世界が広がった。	広ひろがる    to spread out, to extend 留りゅう学がくしてから私わたしの世せ界かいが広ひろがった。 My world expanded after studying abroad.
+頬 彼女は頬を赤く染めたわ。	頬ほお    cheek 彼かの女じょは頬ほおを赤あかく染そめたわ。 Her cheeks flushed red.
+寂しい これは寂しい曲ですね。	寂さびしい    lonely, sad これは寂さびしい曲きょくですね。 This is a sad song.
+正しい この答えが正しいかどうか分かりません。	正ただしい    correct この答こたえが正ただしいかどうか分わかりません。 I don't know if this answer is correct or not.
+自由 日本の生活はとても自由です。	自じ由ゆう    freedom, free 日本にほんの生せい活かつはとても自じ由ゆうです。 Life in Japan is very free.
+全身 運動した翌日は全身の筋肉が痛い。	全ぜん身しん    the whole body 運うん動どうした翌よく日じつは全ぜん身しんの筋きん肉にくが痛いたい。 The days after I exercise, muscles all over my body hurt.
+武器 彼らは武器を取り、立ち上がった。	武ぶ器き    weapon, arms 彼かれらは武ぶ器きを取とり、立たち上あがった。 They took up their weapons and stood up.
+それぞれ 人はそれぞれ考え方が違います。	それぞれ    each, respective 人ひとはそれぞれ考かんがえ方かたが違ちがいます。 People all have different ideas.
+語る 今夜は大いに語りましょう。	語かたる    to tell, to talk 今こん夜やは大おおいに語かたりましょう。 Let's talk a lot tonight.
+持ってくる そのいすを持ってきてください。	持もってくる    to bring そのいすを持もってきてください。 Please bring this chair.
+息子 息子は小学校からサッカーをやっています。	息子むすこ    son 息子むすこは小しょう学がっ校こうからサッカーをやっています。 My son has been playing soccer since elementary school.
+娘 私の娘はアメリカにいます。	娘むすめ    daughter 私わたしの娘むすめはアメリカにいます。 My daughter is in America.
+一気に 彼は一気にビールを飲んだ。	一いっ気きに    in one go 彼かれは一いっ気きにビールを飲のんだ。 He downed the beer in one go.
+そっと 母親は娘の髪をそっとなでたの。	そっと    softly, gently 母はは親おやは娘むすめの髪かみをそっとなでたの。 The mother quietly patted her daughter's hair.
+伝わる 漢字は中国から伝わった。	伝つたわる    to be transmitted, to be handed down 漢かん字じは中ちゅう国ごくから伝つたわった。 Kanji came from China.
+当たる ボールが彼の頭に当たった。	当あたる    to hit, to strike ボールが彼かれの頭あたまに当あたった。 The ball hit him on the head.
+痛み 背中に痛みがあります。	痛いたみ    pain, ache 背せ中なかに痛いたみがあります。 I have a pain in my back.
+妙 彼は妙な動きをした。	妙みょう    strange 彼かれは妙みょうな動うごきをした。 He made a strange movement.
+影 窓に男性の影が映っています。	影かげ    shadow, shade 窓まどに男だん性せいの影かげが映うつっています。 The shadow of a man is reflected in the window.
+死 死を恐れるのは自然なことです。	死し    death 死しを恐おそれるのは自し然ぜんなことです。 It's natural to be afraid of death.
+多分 彼女は多分家で寝ています。	多た分ぶん    probably, perhaps 彼かの女じょは多た分ぶん家いえで寝ねています。 She's probably sleeping at home.
+協力 このプロジェクトにはみんなの協力が必要です。	協きょう力りょく    cooperation, collaboration このプロジェクトにはみんなの協きょう力りょくが必ひつ要ようです。 This project requires everyone's cooperation.
+見上げる 私は空を見上げたの。	見み上あげる    to look up 私わたしは空そらを見み上あげたの。 I looked up at the sky.
+覚悟 覚悟はできています。	覚かく悟ご    readiness, resolution 覚かく悟ごはできています。 I am prepared.
+連れる 子供を連れてデパートに行った。	連つれる    to take along, to bring along 子こ供どもを連つれてデパートに行いった。 I took my kids along to a department store.
+低い 私は背が低いです。	低ひくい    low, short (height) 私わたしは背せが低ひくいです。 I am short.
+木 庭に木があります。	木き    tree 庭にわに木きがあります。 There is a tree in the yard.
+面倒 会社で面倒なことが起こったの。	面めん倒どう    annoying, troublesome 会かい社しゃで面めん倒どうなことが起おこったの。 There was some trouble at the office.
+闇 犯人は闇に隠れた。	闇やみ    darkness 犯はん人にんは闇やみに隠かくれた。 The criminal hid in the dark.
+広い 彼の家はとても広い。	広ひろい    wide, big 彼かれの家いえはとても広ひろい。 His house is very big.
+告げる 彼に真実を告げました。	告つげる    to tell, to notify 彼かれに真しん実じつを告つげました。 I told him the truth.
+叩く 彼は子供のおしりを叩いた。	叩たたく    tap, hit 彼かれは子こ供どものおしりを叩たたいた。 He slapped his child on the bottom.
+自信 あの人の顔には自信があふれているね。	自じ信しん    self-confidence あの人ひとの顔かおには自じ信しんがあふれているね。 That person's face is brimming with confidence.
+集める 子供の時、切手を集めていました。	集あつめる    to gather, to collect 子こ供どもの時とき、切きっ手てを集あつめていました。 I collected stamps when I was a child.
+振る 犬がしっぽを振っている。	振ふる    wave, shake 犬いぬがしっぽを振ふっている。 The dog is wagging its tail.
+余計 余計なことを言ってはだめよ。	余よ計けい    excess, needless 余よ計けいなことを言いってはだめよ。 Don't say things you don't need to say.
+他に A「他にご注文は？」 B「コーヒーをお願いします。」	他ほかに    else, in addition A「他ほかにご注ちゅう文もんは？」 B「コーヒーをお願ねがいします。」 A: Would you like anything else? B: Coffee, please.
+誘う 彼女をデートに誘った。	誘さそう    to invite, to ask out 彼かの女じょをデートに誘さそった。 I asked her out on a date.
+付き合う 彼女と4年ほど付き合っています。	"付つき合あう    to socialize with, to see someone 彼かの女じょと4よ年ねんほど付つき合あっています。 I've been seeing her for 4 years now.         	  	Note: Can mean both ""accompany someone"" or ""see someone romantically""."
+村 私は隣の村から来ました。	村むら    village 私わたしは隣となりの村むらから来きました。 I came from the next village over.
+人物 彼は会社の重要な人物です。	人じん物ぶつ    character, person 彼かれは会かい社しゃの重じゅう要ような人じん物ぶつです。 He is an important person in the company.
+数 グラスの数が足りません。	数かず    number グラスの数かずが足たりません。 There are not enough glasses.
+危ない その道は車が多くて危ない。	危あぶない    dangerous, uncertain その道みちは車くるまが多おおくて危あぶない。 There are many cars on that road, so it's dangerous.
+事情 あなたの事情はよく分かりました。	事じ情じょう    circumstances, conditions あなたの事じ情じょうはよく分わかりました。 I understand your situation well.
+本当に あなたが本当に好きです。	本ほん当とうに    really, truly あなたが本ほん当とうに好すきです。 I really like you.
+噂 その噂は本当ですか。	噂うわさ    gossip, rumor その噂うわさは本ほん当とうですか。 Is this rumor true?
+断る 私は彼のプロポーズを断った。	断ことわる    to refuse, to turn down 私わたしは彼かれのプロポーズを断ことわった。 I turned down his marriage proposal.
+どうか どうかお許しください。	"どうか    if possible, somehow どうかお許ゆるしください。 Please forgive me.         	  	Note: This is usually used in a formal setting to strongly ask for a request."
+巨大 あの巨大な建物は博物館です。	巨きょ大だい    huge, gigantic あの巨きょ大だいな建たて物ものは博はく物ぶつ館かんです。 That huge building is a museum.
+最高 これまでで最高の結果が出たよ。	最さい高こう    best, supreme これまでで最さい高こうの結けっ果かが出でたよ。 I got my best results so far.
+お金 日本のお金は円です。	お金かね    money 日本にほんのお金かねは円えんです。 The Japanese currency is yen.
+傷 この傷はすぐ良くなるでしょう。	傷きず    wound, cut この傷きずはすぐ良よくなるでしょう。 I'm sure this wound will get better right away.
+怒り 彼は怒りを抑えていたの。	怒いかり    anger, rage 彼かれは怒いかりを抑おさえていたの。 He was holding back his anger.
+どうやって A「空港までどうやって行きますか。」 B「新宿からバスで行きます。」	どうやって    how, in what way A「空くう港こうまでどうやって行いきますか。」 B「新しん宿じゅくからバスで行いきます。」 A: How do I get to the airport? B: You can take the bus from Shinjuku.
+効果 この薬には胃を守る効果がある。	効こう果か    effect, result この薬くすりには胃いを守まもる効こう果かがある。 This medicine is effective in protecting your stomach.
+取り出す 彼はポケットから財布を取り出したの。	取とり出だす    to take out, to pull out 彼かれはポケットから財さい布ふを取とり出だしたの。 He took his wallet out of his pocket.
+黒 黒のボールペンはありますか。	黒くろ    black 黒くろのボールペンはありますか。 Do you have a black pen?
+愛 彼女は愛をこめて手紙を書いた。	愛あい    love 彼かの女じょは愛あいをこめて手て紙がみを書かいた。 She wrote a letter full of love.
+直接 彼に直接お願いしなさい。	直ちょく接せつ    directly 彼かれに直ちょく接せつお願ねがいしなさい。 Ask him directly.
+浮かぶ 沖にボートが浮かんでいます。	浮うかぶ    to float 沖おきにボートが浮うかんでいます。 The boat is floating off the coast.
+抜ける 彼はグループから抜けました。	抜ぬける    to fall out, to leave 彼かれはグループから抜ぬけました。 He left the group.
+暗い 部屋が暗いです。	暗くらい    dark 部屋へやが暗くらいです。 The room is dark.
+息 大きく息を吸ってください。	息いき    breath 大おおきく息いきを吸すってください。 Please take a deep breath.
+駄目 彼は駄目な男だ。	駄だ目め    no good 彼かれは駄だ目めな男おとこだ。 He's a loser.
+点 昨日のテストの点は良くなかったです。	点てん    point, mark 昨日きのうのテストの点てんは良よくなかったです。 My score on yesterday's test wasn't good.
+参加 明日は市民マラソンに参加します。	参さん加か    participation 明日あすは市し民みんマラソンに参さん加かします。 I'll participate in the citizens' marathon tomorrow.
+はっきり 今日は山がはっきり見える。	はっきり    clearly 今日きょうは山やまがはっきり見みえる。 You can see the mountains clearly today.
+描く パンダの絵を描きました。	描かく    to depict, to describe, to draw パンダの絵えを描かきました。 I drew a panda.
+描く 彼は人物を描くのがうまいな。	"描えがく    to depict, to describe, to draw 彼かれは人じん物ぶつを描えがくのがうまいな。 He is good at drawing people.         	  	Note: Different reading of the kanji."
+無視 彼の意見は無視されたよ。	無む視し    ignoring, disregarding 彼かれの意い見けんは無む視しされたよ。 His opinion was disregarded.
+生徒 このクラスの生徒は30人です。	生せい徒と    pupil, student このクラスの生せい徒とは30さんじゅう人にんです。 There are 30 students in this class.
+詳しい もっと詳しく説明してください。	詳くわしい    detailed もっと詳くわしく説せつ明めいしてください。 Please explain in greater detail.
+触る この絵に触らないでください。	触さわる    to touch この絵えに触さわらないでください。 Please do not touch the picture.
+これまで これまでの私とは違うんです。	これまで    until now, until here これまでの私わたしとは違ちがうんです。 I am different from the old me.
+半分 トマトを半分に切ってください。	半はん分ぶん    half トマトを半はん分ぶんに切きってください。 Please cut the tomato in half.
+耐える このビルは大地震に耐えられるでしょうか。	耐たえる    to withstand, to endure このビルは大おお地じ震しんに耐たえられるでしょうか。 Would this building be able to withstand a large earthquake?
+立場 彼女は自分の立場を分かっていない。	立たち場ば    standpoint, position 彼かの女じょは自じ分ぶんの立たち場ばを分わかっていない。 She doesn't understand her position.
+石 私は石につまづいた。	石いし    stone, small rock 私わたしは石いしにつまづいた。 I tripped on a stone.
+挨拶 いつも元気に挨拶しています。	挨あい拶さつ    greeting いつも元げん気きに挨あい拶さつしています。 I always greet people enthusiastically.
+相談 相談したいことがあります。	相そう談だん    consultation, advice 相そう談だんしたいことがあります。 I'd like to get your advice on something.
+受け入れる 私は彼の意見を受け入れました。	受うけ入いれる    to accept, to accommodate 私わたしは彼かれの意い見けんを受うけ入いれました。 I accepted his opinion.
+練習 娘は今、バイオリンを練習しています。	練れん習しゅう    practice, training 娘むすめは今いま、バイオリンを練れん習しゅうしています。 My daughter is practicing the violin now.
+無駄 無駄な買い物はしません。	無む駄だ    wasteful, useless 無む駄だな買かい物ものはしません。 I don't do wasteful shopping.
+抱える 彼は大きな荷物を抱えているわ。	抱かかえる    to hold in one's arms 彼かれは大おおきな荷に物もつを抱かかえているわ。 He is carrying some large luggage.
+示す 彼女は良い反応を示したわ。	示しめす    to show, to indicate 彼かの女じょは良よい反はん応のうを示しめしたわ。 She reacted well.
+成功 田中さんは仕事で成功しました。	成せい功こう    success 田た中なかさんは仕し事ごとで成せい功こうしました。 Tanaka-san succeeded at his job.
+抱く 祖母がうちの猫を抱いているわよ。	抱だく    to hug, to hold in one's arms 祖そ母ぼがうちの猫ねこを抱だいているわよ。 Grandma is holding our cat.
+味 この料理は味が薄い。	"味あじ    taste, flavor この料りょう理りは味あじが薄うすい。 This food is flavored lightly.         	  	Note: Slightly idiomatic."
+男性 彼は素敵な男性です。	男だん性せい    male, man 彼かれは素す敵てきな男だん性せいです。 He's a wonderful man.
+否定 彼、友達の意見を否定した。	否ひ定てい    denial, negation 彼かれ、友とも達だちの意い見けんを否ひ定ていした。 He disagreed with his friend's opinion.
+致す 私からご連絡致します。	致いたす    do (humble form) 私わたくしからご連れん絡らく致いたします。 I'll get in touch with you.
+現在 現在の気温は30度です。	現げん在ざい    present time, now 現げん在ざいの気き温おんは30さんじゅう度どです。 The current temperature is 30 degrees.
+輝く 彼女の瞳は喜びで輝いていますね。	輝かがやく    to glitter, to shine 彼かの女じょの瞳ひとみは喜よろこびで輝かがやいていますね。 Her eyes are shining with delight.
+熱 昨日から熱があります。	熱ねつ    fever 昨日きのうから熱ねつがあります。 I have a fever since yesterday.
+始め 私たちの旅は始めはよかったんだ。	始はじめ    beginning, origin 私わたしたちの旅たびは始はじめはよかったんだ。 The start of our trip was good.
+厳しい 木村先生は時々厳しいです。	厳きびしい    strict 木き村むら先せん生せいは時とき々どき厳きびしいです。 Kimura-sensei is sometimes strict.
+匂い いい匂いがする。	匂におい    smell, odor いい匂においがする。 It smells good.
+席 この席、空いてますか。	席せき    seat この席せき、空あいてますか。 Is this seat free?
+売る 彼は家を売った。	売うる    to sell 彼かれは家いえを売うった。 He sold the house.
+暮らす ずっと日本で暮らしたいと思っています。	暮くらす    to live, to make a living ずっと日本にほんで暮くらしたいと思おもっています。 I think I would like to live in Japan all the time.
+利用 私はよく図書館を利用します。	利り用よう    usage, utilization 私わたしはよく図と書しょ館かんを利り用ようします。 I often use the library.
+ふと ふと昔の事を思い出したんだ。	ふと    suddenly, unintentionally ふと昔むかしの事ことを思おもい出だしたんだ。 I suddenly remembered the past.
+経験 若い時に色々経験しておきます。	経けい験けん    experience 若わかい時ときに色いろ々いろ経けい験けんしておきます。 I will experience a lot when I am young.
+変化 今年は変化の多い年でした。	変へん化か    change, variation 今年ことしは変へん化かの多おおい年としでした。 There was a lot of change this year.
+王子 その王子は国民に愛されている。	王おう子じ    prince その王おう子じは国こく民みんに愛あいされている。 The prince is loved by the people.
+満足 彼は結果に満足したようです。	満まん足ぞく    satisfaction 彼かれは結けっ果かに満まん足ぞくしたようです。 He seems to be satisfied with the result.
+どんどん 彼は山道をどんどん進んで行ったの。	どんどん    steadily 彼かれは山やま道みちをどんどん進すすんで行いったの。 He made quick progress along the mountain path.
+命令 彼女は命令に従わなかった。	命めい令れい    order, command 彼かの女じょは命めい令れいに従したがわなかった。 She did not obey orders.
+主 彼女の主な仕事は接客だよ。	主おも    main, chief 彼かの女じょの主おもな仕し事ごとは接せっ客きゃくだよ。 Her main job is customer service.
+美味しい このケーキは美味しいね。	美味おいしい    tasty このケーキは美味おいしいね。 This cake is yummy.
+手紙 友人から手紙をもらいました。	手て紙がみ    letter 友ゆう人じんから手て紙がみをもらいました。 I received a letter from a friend.
+掴む 彼女が僕の手を掴みました。	掴つかむ    to grip, to grab 彼かの女じょが僕ぼくの手てを掴つかみました。 She gripped my hand.
+他人 私は他人に住所を教えたくない。	他た人にん    another person, stranger 私わたしは他た人にんに住じゅう所しょを教おしえたくない。 I don't want to tell other people my address.
+格好 格好のいい青年に会ったよ。	格かっ好こう    shape, appearance 格かっ好こうのいい青せい年ねんに会あったよ。 I met a good-looking young man.
+光景 驚くような光景が目に入った。	光こう景けい    sight, spectacle 驚おどろくような光こう景けいが目めに入はいった。 I happened to see an astonishing sight.
+すっかり 買い物をすっかり忘れていた。	すっかり    all, completely 買かい物ものをすっかり忘わすれていた。 I completely forgot the shopping.
+どちら 肉と魚とどちらが好きですか。	"どちら    which 肉にくと魚さかなとどちらが好すきですか。 Which do you prefer, meat or fish?         	  	Note: Usually refers to two possible options as opposed to どれ."
+親 親の愛はありがたい。	親おや    parent 親おやの愛あいはありがたい。 We're grateful for our parents' love.
+時代 今はロボットが働く時代です。	時じ代だい    period, age 今いまはロボットが働はたらく時じ代だいです。 Now is the age of working robots.
+作戦 彼らは次の試合のために作戦を立てたのよ。	作さく戦せん    tactic, strategy 彼かれらは次つぎの試し合あいのために作さく戦せんを立たてたのよ。 They came up with a strategy for the next game.
+もしかしたら もしかしたら来年転勤になるかもしれない。	もしかしたら    possibly, perhaps もしかしたら来らい年ねん転てん勤きんになるかもしれない。 It's possible that I might be transferred next year.
+苦しい 食べ過ぎておなかが苦しい。	苦くるしい    painful, difficult 食たべ過すぎておなかが苦くるしい。 I have eaten too much and my stomach hurts.
+明るい 電気を点けると、明るくなります。	明あかるい    bright 電でん気きを点つけると、明あかるくなります。 If you turn the lights on, it gets bright.
+原因 この事故の原因は何ですか。	原げん因いん    cause, origin この事じ故この原げん因いんは何なんですか。 What's the cause of the accident?
+廊下 この廊下の右にトイレがあります。	廊ろう下か    hallway この廊ろう下かの右みぎにトイレがあります。 There is a bathroom on the right of this hallway.
+そいつ そいつは 誰だい。	"そいつ    that person, that guy そいつは誰だれだい。 Who's that guy?         	  	Note: Usually derogatory."
+先ほど その件でしたら、先ほど上司から許可を得ております。	先さきほど    some time ago その件けんでしたら、先さきほど上じょう司しから許きょ可かを得えております。 Regarding that matter, I obtained permission from my superior a little while ago.
+大人  大人の言うことを聞きなさい。	大人おとな    adult 大人おとなの言いうことを聞ききなさい。 Listen to what adults say.
+人々 あの村の人々はとても親切です。	人ひと々びと    people あの村むらの人ひと々びとはとても親しん切せつです。 People in that village are very kind.
+撫でる 猫の頭を撫でてあげた。	撫なでる    to pat, to stroke 猫ねこの頭あたまを撫なでてあげた。 I patted the cat's head.
+立てる ドアのところに傘を立てておきます。	立たてる    to put up, to erect ドアのところに傘かさを立たてておきます。 I'll put my umbrella by the door.
+たまに 彼はたまに料理をします。	たまに    occasionally, by chance 彼かれはたまに料りょう理りをします。 He cooks occasionally.
+押す 後ろから押すと危ないですよ。	押おす    to push, to press down 後うしろから押おすと危あぶないですよ。 Pushing from behind is dangerous.
+平気 彼女は平気な顔をしていた。	平へい気き    calm, all right 彼かの女じょは平へい気きな顔かおをしていた。 She looked as if nothing had happened.
+悲しい その映画はとても悲しかった。	悲かなしい    sad その映えい画がはとても悲かなしかった。 That movie was very sad.
+隠れる 太陽が雲に隠れた。	隠かくれる    to hide, to disappear 太たい陽ようが雲くもに隠かくれた。 The sun hid behind the clouds.
+まだまだ A「日本語が上手ですね。」 B「いいえ、まだまだです。」	まだまだ    still, not there yet A「日本にほん語ごが上じょう手ずですね。」 B「いいえ、まだまだです。」 A: Your Japanese is good. B: No, I still have a long way to go.
+皆さん 皆さん、今日はロボットについて話します。	皆みなさん    everyone 皆みなさん、今日きょうはロボットについて話はなします。 Everyone, today we will discuss about robots.
+戻す 話を戻しましょう。	戻もどす    to return 話はなしを戻もどしましょう。 Let's return to the subject.
+戦闘 戦闘で多くの市民が傷付きました。	戦せん闘とう    battle, fight 戦せん闘とうで多おおくの市し民みんが傷きず付つきました。 A lot of civilians were wounded in combat.
+火 火を消して。	火ひ    fire 火ひを消けして。 Put the fire out.
+炎 ろうそくの炎が部屋を照らしたんだ。	炎ほのお    flame, blaze ろうそくの炎ほのおが部屋へやを照てらしたんだ。 The candle's flame lit the room.
+恐怖 余りの恐怖に体が強張った。	恐きょう怖ふ    fear 余あまりの恐きょう怖ふに体からだ が強こわ張ばった。 My body went stiff with such terror.
+迷う 道に迷いました。	迷まよう    to be perplexed, to get lost 道みちに迷まよいました。 I lost my way.
+よろしい レポートはこれでよろしいですか。	よろしい    all right レポートはこれでよろしいですか。 Is this all right as a report?
+機会 この頃、お酒を飲む機会が増えました。	機き会かい    chance, opportunity, occasion この頃ころ、お酒さけを飲のむ機き会かいが増ふえました。 These days, I have more occasions to drink alcohol.
+恐ろしい 昨夜恐ろしい夢を見た。	恐おそろしい    terrible, frightening 昨夜ゆうべ恐おそろしい夢ゆめを見みた。 I had a frightening dream last night.
+借りる 友達にお金を借ります。	借かりる    to borrow 友とも達だちにお金かねを借かります。 I will borrow money from a friend.
+外す 彼はメガネを外しました。	外はずす    to remove 彼かれはメガネを外はずしました。 He removed his glasses.
+地 彼はその地で残りの生涯を過ごしたんだ。	地ち    ground, place 彼かれはその地ちで残のこりの生しょう涯がいを過すごしたんだ。 He spent the rest of his life in that place.
+速い 彼は走るのが速い。	速はやい    fast (in terms of speed) 彼かれは走はしるのが速はやい。 He runs fast.
+短い ララちゃんは髪が短いです。	短みじかい    short, brief ララちゃんは髪かみが短みじかいです。 Lara-chan's hair is short.
+気に入る 新しい靴がとても気に入りました。	気きに入いる    to like, to be pleased with 新あたらしい靴くつがとても気きに入いりました。 I really like my new shoes.
+改めて 改めてあなたのご意見を聞かせてください。	改あらためて    once again 改あらためてあなたのご意い見けんを聞きかせてください。 Please let me hear your opinion once more.
+うるさい この通りは車の音がうるさい。	うるさい    noisy, annoying この通とおりは車くるまの音おとがうるさい。 Traffic is noisy on this street.
+当てる ボールを友達の頭に当ててしまった。	当あてる    to hit, to guess ボールを友とも達だちの頭あたまに当あててしまった。 I hit my friend’s head with a ball.
+包む プレゼントをきれいな紙で包みました。	包つつむ    to wrap, to pack プレゼントをきれいな紙かみで包つつみました。 I wrapped the present in beautiful paper.
+位置 私の町は東京の北に位置します。	位い置ち    position, place 私わたしの町まちは東とう京きょうの北きたに位い置ちします。 My town is located north of Tokyo.
+打つ 転んでひざを打ちました。	打うつ    to hit, to strike 転ころんでひざを打うちました。 I fell down and hit my knee.
+目指す 私は料理人を目指しています。	目め指ざす    to aim for 私わたしは料りょう理り人にんを目め指ざしています。 I intend on becoming a cook.
+秘密 これは秘密です。	秘ひ密みつ    secret, privacy これは秘ひ密みつです。 This is a secret.
+屋敷 その屋敷には幽霊が出るという噂だ。	屋や敷しき    mansion その屋や敷しきには幽ゆう霊れいが出でるという噂うわさだ。 There is a rumor that the house is haunted.
+限界 もう我慢の限界です。	限げん界かい    boundary, limit もう我が慢まんの限げん界かいです。 This is the limit of my self-control.
+勝負 勝負はまだ始まったばかりよ。	勝しょう負ぶ    match, contest 勝しょう負ぶはまだ始はじまったばかりよ。 The match has just started.
+星 今夜は星がよく見えます。	星ほし    star, planet 今こん夜やは星ほしがよく見みえます。 You can see the stars well tonight.
+明らか 明らかに彼が悪い。	明あきらか    clear, obvious 明あきらかに彼かれが悪わるい。 It's clearly his fault.
+悩む 彼は受験のことで悩んでいます。	悩なやむ    to be troubled, to worry 彼かれは受じゅ験けんのことで悩なやんでいます。 He's worried about entrance examinations.
+集中 勉強に集中しなさい。	集しゅう中ちゅう    concentration, convergence 勉べん強きょうに集しゅう中ちゅうしなさい。 Concentrate on studying.
+間違う あなたは間違っている。	間ま違ちがう    to be mistaken, to be incorrect あなたは間ま違ちがっている。 You're mistaken.
+裏 会社の裏に公園があります。	裏うら    rear, reverse 会かい社しゃの裏うらに公こう園えんがあります。 There's a park behind the company.
+薄い この料理は味が薄い。	"薄うすい    weak, pale この料りょう理りは味あじが薄うすい。 This food is flavored lightly.         	  	Note: Slightly idiomatic."
+願う 彼が元気になるよう願っています。	願ねがう    to wish, to ask a favor, to pray 彼かれが元げん気きになるよう願ねがっています。 We're praying that he gets well.
+回復 体がすっかり回復した。	回かい復ふく    recovery 体からだがすっかり回かい復ふくした。 My body completely recovered.
+流す 彼女は涙を流したんだ。	流ながす    to let flow, to set adrift 彼かの女じょは涙なみだを流ながしたんだ。 She shed tears.
+じっと あの生徒はじっと先生の話を聞いていたね。	じっと    without moving, still あの生せい徒とはじっと先せん生せいの話はなしを聞きいていたね。 The pupil listened quietly to the teacher.
+本物 これは本物のダイヤモンドです。	本ほん物もの    real thing, genuine article これは本ほん物もののダイヤモンドです。 This is a real diamond.
+正に 彼は正に英雄ね。	正まさに    exactly, surely, truly 彼かれは正まさに英えい雄ゆうね。 He's truly a hero.
+取り戻す 彼はやっと自信を取り戻した。	取とり戻もどす    to take back, to recover 彼かれはやっと自じ信しんを取とり戻もどした。 He finally got back his confidence.
+何より ご無事で何よりです。	何なにより    above all, most important ご無ぶ事じで何なによりです。 The most important thing is that you're safe.
+身体 健康な身体には健全な精神が宿る。	"身しん体たい    body 健けん康こうな身しん体たいには健けん全ぜんな精せい神しんが宿やどる。 A sound mind in a sound body.         	  	Note: Can also be read からだ."
+方向 あの人たちは皆、同じ方向を見ている。	方ほう向こう    direction, course あの人ひとたちは皆みな、同おなじ方ほう向こうを見みている。 Those people are all looking in the same direction.
+通る 毎日、この道を通ります。	通とおる    to pass, to take, to go through 毎まい日にち、この道みちを通とおります。 I take this road every day.
+空間 狭い空間に物がたくさん置いてあるね。	空くう間かん    space, room 狭せまい空くう間かんに物ものがたくさん置おいてあるね。 A lot of things have been put into a tight space.
+着く 10時に会社に着きます。	着つく    to arrive 10じゅう時じに会かい社しゃに着つきます。 I arrive at the office at 10 A.M.
+可能 20キロのダイエットは可能だと思いますか。	可か能のう    possible, potential 20にじゅっキロのダイエットは可か能のうだと思おもいますか。 Do you think a diet to lose 20kg is possible?
+新た 新たな計画が進んでいます。	"新あらた    new 新あらたな計けい画かくが進すすんでいます。 A new plan is in progress.         	  	Note: The difference with 新しい is a bit subtle but roughly, 新た is used for things which are totally new, as in created from scratch."
+随分 随分早く終わったね。	随ずい分ぶん    extremely, considerably 随ずい分ぶん早はやく終おわったね。 You finished really early, didn't you?
+尋ねる 彼女は道を尋ねた。	尋たずねる    to inquire, to search for 彼かの女じょは道みちを尋たずねた。 She asked for directions.
+椅子 椅子に座ります。	椅い子す    chair 椅い子すに座すわります。 I will sit on the chair.
+城 この城は４５０年前に建てられました。	城しろ    castle この城しろは４５０年ねん前まえに建たてられました。 This castle was built 450 years ago.
+恐らく 明日は恐らく晴れるでしょう。	恐おそらく    probably (usually negative), I'm afraid ... 明日あしたは恐おそらく晴はれるでしょう。 The weather will probably clear up tomorrow.
+お茶 お茶を入れましょうか。	お茶ちゃ    tea (polite) お茶ちゃを入いれましょうか。 Shall I make tea?
+雨 雨が降っています。	雨あめ    rain 雨あめが降ふっています。 It's raining.
+いやいや その子はいやいや学校へ行ったの。	いやいや    reluctantly その子こはいやいや学がっ校こうへ行いったの。 The child reluctantly went to school.
+そのもの 彼は健康そのものです。	そのもの    the very thing, the picture of 彼かれは健けん康こうそのものです。 He is a picture of health.
+教室 先生は教室にいます。	教きょう室しつ    classroom 先せん生せいは教きょう室しつにいます。 The teacher is in the classroom.
+馬鹿 私は馬鹿だった。	馬ば鹿か    fool, nonsense 私わたしは馬ば鹿かだった。 I was foolish.
+遠慮 遠慮しないで、何でも言ってください。	遠えん慮りょ    reserve, refraining 遠えん慮りょしないで、何なんでも言いってください。 Please don't hesitate to tell me anything.
+まずい 今日中に返答しなければまずい。	まずい    problematic, troublesome 今日きょう中じゅうに返へん答とうしなければまずい。 If I don't reply by the end of today, I'll be in trouble.
+まずい ここの料理はまずい。	まずい    bad-tasting, bad ここの料りょう理りはまずい。 The food here is bad.
+せめて せめてこれだけは約束してください。	せめて    at least せめてこれだけは約やく束そくしてください。 Please promise only this at least.
+迎える 姉が空港まで迎えに来てくれます。	迎むかえる    to welcome, to go out to meet, to invite 姉あねが空くう港こうまで迎むかえに来きてくれます。 My big sister is coming to pick me up at the airport.
+少なくとも この仕事には少なくとも2週間必要でしょう。	少すくなくとも    at least この仕し事ごとには少すくなくとも2に週しゅう間かん必ひつ要ようでしょう。 At least two weeks will be needed for this job.
+魂 彼の魂は永遠に生き続けるでしょう。	魂たましい    soul, spirit 彼かれの魂たましいは永えい遠えんに生いき続つづけるでしょう。 His spirit will live on for eternity.
+消す 教室を出る時は電気を消してください。	消けす    to turn off 教きょう室しつを出でる時ときは電でん気きを消けしてください。 When you leave the classroom, please turn off the lights.
+調子 体の調子が良くないです。	調ちょう子し    condition, state of health 体からだの調ちょう子しが良よくないです。 My condition is not good.
+お互い お互いを信頼することが大事です。	お互たがい    each other お互たがいを信しん頼らいすることが大だい事じです。 It is important to trust each other.
+似合う 彼女は着物がよく似合います。	似に合あう    to suit, to match well 彼かの女じょは着き物ものがよく似に合あいます。 Kimonos suit her well.
+猫 私は猫が大好きです。	猫ねこ    cat 私わたしは猫ねこが大だい好すきです。 I love cats.
+犬 犬のポスターが欲しいです。	犬いぬ    dog 犬いぬのポスターが欲ほしいです。 I want a poster of a dog.
+お礼 先生にお礼の手紙を書きました。	お礼れい    gratitude 先せん生せいにお礼れいの手て紙がみを書かきました。 I wrote a letter of gratitude to my teacher.
+後悔 後悔しても、しょうがない。	後こう悔かい    regret 後こう悔かいしても、しょうがない。 Even if you have regrets, there's nothing you can do.
+希望 彼は本社で働くことを希望しています。	希き望ぼう    hope, wish 彼かれは本ほん社しゃで働はたらくことを希き望ぼうしています。 He hopes to work at the head office.
+下がる やっと熱が下がった。	下さがる    to come down, to hang down, to fall やっと熱ねつが下さがった。 His fever finally went down.
+訪れる 私は夏に京都を訪れました。	訪おとずれる    to visit, to call on 私わたしは夏なつに京きょう都とを訪おとずれました。 I visited Kyoto this summer.
+褒める 頑張ったので褒められました。	褒ほめる    to praise, to commend 頑がん張ばったので褒ほめられました。 He was praised because he worked hard.
+性格 僕と姉の性格は正反対です。	性せい格かく    character, personality 僕ぼくと姉あねの性せい格かくは正せい反はん対たいです。 My personality and my elder sister's are the exact opposite.
+写真 これは家族の写真です。	写しゃ真しん    photograph これは家か族ぞくの写しゃ真しんです。 This is a photograph of my family.
+薬 この薬を必ず飲んでください。	薬くすり    drug, remedy この薬くすりを必かならず飲のんでください。 Please be sure to take this medicine.
+友人 彼は高校時代からの友人です。	友ゆう人じん    friend 彼かれは高こう校こう時じ代だいからの友ゆう人じんです。 He's my old friend from high school.
+かつて かつて私が学生だった頃のことです。	かつて    once, formerly かつて私わたしが学がく生せいだった頃ころのことです。 That was when I was still a student.
+確実 彼女が将来、大統領になることは確実です。	確かく実じつ    certain, secure 彼かの女じょが将しょう来らい、大だい統とう領りょうになることは確かく実じつです。 It is certain that she will become the president in the future.
+もはや もはや彼の助けは必要じゃないの。	もはや    already, no longer もはや彼かれの助たすけは必ひつ要ようじゃないの。 His help is no longer needed.
+去る 台風が去って風が静まったね。	去さる    to go away, to pass 台たい風ふうが去さって風かぜが静しずまったね。 The typhoon has passed and the wind has dropped.
+一部 計画を一部変更しましょう。	一いち部ぶ    (one) part 計けい画かくを一いち部ぶ変へん更こうしましょう。 Let's change part of the plan.
+遠く たまには遠くへ行きたいです。	遠とおく    far (away) たまには遠とおくへ行いきたいです。 At times, I like to travel far away.
+腹 笑い過ぎて腹が痛い。	腹はら    belly 笑わらい過すぎて腹はらが痛いたい。 I laughed so much that my belly hurts.
+階段 階段はあそこです。	階かい段だん    stairs 階かい段だんはあそこです。 The stairs are over there.
+適当 その質問の適当な答えが見つかりません。	"適てき当とう    suitable, appropriate その質しつ問もんの適てき当とうな答こたえが見みつかりません。 I could not find an appropriate answer to the question.         	  	Note: Confusingly, this is also used by Japanese people to mean ""sloppy"" or ""careless"", in the sense that you only did the bare minimum."
+舌 舌を出してください。	舌した    tongue 舌したを出だしてください。 Stick out your tongue.
+予想 私の予想が当たった。	予よ想そう    prospect, expectation 私わたしの予よ想そうが当あたった。 What I expected was right.
+興奮 観客は興奮していたよ。	興こう奮ふん    excitement, agitation 観かん客きゃくは興こう奮ふんしていたよ。 The spectators were excited.
+関わる 彼は軍事に関わる仕事を続けてきたんだ。	関かかわる    to involve, to concern 彼かれは軍ぐん事じに関かかわる仕し事ごとを続つづけてきたんだ。 He's been working a military-related job.
+白 白は雪の色です。	白しろ    white 白しろは雪ゆきの色いろです。 White is the color of snow.
+進める 早く授業を進めましょう。	進すすめる    to advance, to promote 早はやく授じゅ業ぎょうを進すすめましょう。 Let's hurry up and proceed with our class.
+真剣 彼は真剣に話を聞いていました。	真しん剣けん    serious, sincere 彼かれは真しん剣けんに話はなしを聞きいていました。 He listened attentively to the story.
+迫る 締め切りが迫っています。	迫せまる    to press, to close in on 締しめ切きりが迫せまっています。 The deadline is approaching.
+ほぼ 仕事がほぼ終わりました。	ほぼ    almost, nearly 仕し事ごとがほぼ終おわりました。 My work is almost finished.
+ちょうど 値段はちょうど3万円です。	ちょうど    just, as if 値ね段だんはちょうど3さん万まん円えんです。 The price is exactly 30,000 yen.
+疑問 彼の言葉が本当かは疑問です。	疑ぎ問もん    question, doubt 彼かれの言こと葉ばが本ほん当とうかは疑ぎ問もんです。 I doubt whether what he says is true.
+指示 指示されたとおりに進んでください。	指し示じ    instruction, indication 指し示じされたとおりに進すすんでください。 Please proceed as instructed.
+揺れる 風で木が揺れています。	揺ゆれる    to shake, to sway 風かぜで木きが揺ゆれています。 The trees are swaying in the wind.
+相当 1ポンドは454グラムに相当します。	相そう当とう    correspondence, suitability 1いちポンドは454グラムに相そう当とうします。 One pound is equivalent to 454 grams.
+楽 家で休むのに楽な椅子が欲しいです。	楽らく    easy, comfortable 家いえで休やすむのに楽らくな椅い子すが欲ほしいです。 I want a comfortable chair to rest in at home.
+勘違い 待ち合わせは2時だと勘違いしていました。	勘かん違ちがい    misunderstanding 待まち合あわせは2に時じだと勘かん違ちがいしていました。 I mistakenly thought the meeting was at two o'clock.
+警戒 地震のあとは津波に警戒してください。	警けい戒かい    vigilance, precaution 地じ震しんのあとは津つ波なみに警けい戒かいしてください。 Beware of tsunamis after an earthquake.
+確かめる レポートを書いたら、確かめてください。	確たしかめる    to check, to make sure of レポートを書かいたら、確たしかめてください。 Once you've written your report, please check it.
+月 今晩は月が明るく見えます。	月つき    moon 今こん晩ばんは月つきが明あかるく見みえます。 You can see the moon brightly tonight.
+疑う なぜあなたは私を疑うのですか。	疑うたがう    to doubt, to be suspicious なぜあなたは私わたしを疑うたがうのですか。 Why do you doubt me?
+電話 母と電話で話しました。	電でん話わ    telephone 母ははと電でん話わで話はなしました。 I spoke with my mother on the phone.
+成長 庭の木、大きく成長したわね。	成せい長ちょう    growth 庭にわの木き、大おおきく成せい長ちょうしたわね。 The tree in the garden has grown a lot.
+鋭い 鋭い刃物で指を怪我した。	鋭するどい    acute, sharp 鋭するどい刃は物もので指ゆびを怪け我がした。 I injured my finger with a sharp knife.
+証拠 証拠を見つけるまで逮捕はできません。	証しょう拠こ    proof, evidence 証しょう拠こを見みつけるまで逮たい捕ほはできません。 It is not possible to make an arrest until evidence is found.
+紹介 先生に友達を紹介します。	紹しょう介かい    introduction, referral 先せん生せいに友とも達だちを紹しょう介かいします。 I will introduce my friend to the teacher.
+実際 彼は実際にはあまり背が高くない。	実じっ際さい    reality, actuality 彼かれは実じっ際さいにはあまり背せが高たかくない。 In reality, he's not very tall.
+何でも 私は母に何でも相談しています。	何なんでも    anything, whatever 私わたしは母ははに何なんでも相そう談だんしています。 I consult with my mother about everything.
+作業 作業するにはもっと広いスペースが必要だ。	作さ業ぎょう    work, operation 作さ業ぎょうするにはもっと広ひろいスペースが必ひつ要ようだ。 I need a bigger space to work.
+重要 これは重要な書類です。	重じゅう要よう    important, essential これは重じゅう要ような書しょ類るいです。 This is an important document.
+鍵 これはアパートの鍵です。	鍵かぎ    key これはアパートの鍵かぎです。 This is the key to the apartment.
+衝撃 衝撃のニュースが飛び込んできた。	衝しょう撃げき    impact, shock 衝しょう撃げきのニュースが飛とび込こんできた。 The shocking news filled the airwaves.
+巻き込む 友達をトラブルに巻き込んでしまった。	巻まき込こむ    to roll up, to involve 友とも達だちをトラブルに巻まき込こんでしまった。 I got my friend involved in the trouble.
+差し出す 彼は握手をしようと手を差し出したの。	差さし出だす    to submit 彼かれは握あく手しゅをしようと手てを差さし出だしたの。 He put out his hand to shake hands.
+軍 怪我人は軍の病院に運ばれたよ。	軍ぐん    army, troops 怪け我が人にんは軍ぐんの病びょう院いんに運はこばれたよ。 The injured were taken to the army hospital.
+そちら 夕方そちらに着きます。	そちら    there, that way 夕ゆう方がたそちらに着つきます。 I'll arrive there in the evening.
+悔しい 試合に負けてとても悔しい。	悔くやしい    vexing, frustrating 試し合あいに負まけてとても悔くやしい。 I'm so frustrated that we lost the game.
+抜く ワインのコルクを抜きました。	抜ぬく    to pull out ワインのコルクを抜ぬきました。 I uncorked the wine.
+破壊 自然の破壊が進んでいるのよ。	破は壊かい    breaking, destruction 自し然ぜんの破は壊かいが進すすんでいるのよ。 The destruction of nature is advancing.
+運命 運命には逆らえないよ。	運うん命めい    fate, fortune 運うん命めいには逆さからえないよ。 You can't go against fate.
+案内 京都を案内します。	案あん内ない    guide, show around 京きょう都とを案あん内ないします。 I will show you Kyoto.
+努力 もっと努力しよう。	努ど力りょく    endeavor, effort もっと努ど力りょくしよう。 Let's try harder.
+いずれ いずれまたお会いしましょう。	いずれ    eventually, sometime いずれまたお会あいしましょう。 Let's meet again sometime.
+一言 社長に一言お願いしたの。	一ひと言こと    single word, a few words 社しゃ長ちょうに一ひと言ことお願ねがいしたの。 I asked the president to say a few words.
+ついに 彼はついに弁護士の資格を取ったよ。	ついに    at last, finally 彼かれはついに弁べん護ご士しの資し格かくを取とったよ。 He finally passed the bar examination.
+心臓 祖母は心臓が悪いんだ。	心しん臓ぞう    heart 祖そ母ぼは心しん臓ぞうが悪わるいんだ。 My grandmother has a heart condition.
+荷物 彼の家に荷物を送りました。	荷に物もつ    baggage, load 彼かれの家いえに荷に物もつを送おくりました。 I sent a package to his house.
+伸びる 髪がだいぶ伸びたね。	伸のびる    to stretch, to grow 髪かみがだいぶ伸のびたね。 Your hair has grown a lot, hasn't it?
+両親 両親に彼女を紹介した。	両りょう親しん    (both) parents 両りょう親しんに彼かの女じょを紹しょう介かいした。 I introduced my girlfriend to my parents.
+量 この店のスパゲッティは量が多いです。	量りょう    amount, portion この店みせのスパゲッティは量りょうが多おおいです。 This restaurant's spaghetti portions are big.
+払う 私が払いましょう。	払はらう    to pay 私わたしが払はらいましょう。 Let me pay for that.
+二度と もうここには二度と来ません。	二に度どと    never again もうここには二に度どと来きません。 I'll never come here again.
+辺り 辺りを見回したの。	辺あたり    vicinity, around 辺あたりを見み回まわしたの。 We looked around the area.
+開始 運動会は9時開始です。	"開かい始し    beginning 運うん動どう会かいは9く時じ開かい始しです。 The sports festival meet begins at nine o'clock.         	  	Note: Read the deck's name again."
+解放 人質が解放されてよかった。	解かい放ほう    release, setting free 人ひと質じちが解かい放ほうされてよかった。 It is good that the hostage has been freed.
+仲良く あの夫婦は仲良く暮らしているよ。	仲なか良よく    harmoniously, amicably あの夫ふう婦ふは仲なか良よく暮くらしているよ。 That married couple is living happily together.
+獣 彼は獣のような目をしていたな。	獣けもの    beast, brute 彼かれは獣けもののような目めをしていたな。 He had eyes like a beast.
+取れる シャツのボタンが取れた。	取とれる    to come off, to be removed シャツのボタンが取とれた。 My shirt's button came off.
+建物 これは日本一古い建物です。	建たて物もの    building, structure これは日本にほん一いち古ふるい建たて物ものです。 This is the oldest building in Japan.
+本来 彼女はプレッシャーから解放されて本来の自分に戻ったな。	本ほん来らい    originally, essentially 彼かの女じょはプレッシャーから解かい放ほうされて本ほん来らいの自じ分ぶんに戻もどったな。 She was relieved of the pressure and went back to her original self.
+扱う この荷物は丁寧に扱ってください。	扱あつかう    to handle, to deal with この荷に物もつは丁てい寧ねいに扱あつかってください。 Please handle this luggage carefully.
+真面目 彼は真面目な人です。	真面目まじめ    serious, earnest 彼かれは真面目まじめな人ひとです。 He's a serious-minded person.
+影響 私は彼から大きな影響を受けました。	影えい響きょう    influence, effect 私わたしは彼かれから大おおきな影えい響きょうを受うけました。 I was deeply influenced by him.
+真っ赤 彼の顔は真っ赤でした。	真まっ赤か    deep red 彼かれの顔かおは真まっ赤かでした。 His face was red.
+発見 新しい星が発見された。	発はっ見けん    discovery, revelation 新あたらしい星ほしが発はっ見けんされた。 A new star was discovered.
+支える 父親には一家を支える責任がある。	支ささえる    to support, to maintain 父ちち親おやには一いっ家かを支ささえる責せき任にんがある。 My father has the responsibility to support the family.
+第一 私には仕事が第一です。	第だい一いち    number one, first 私わたしには仕し事ごとが第だい一いちです。 Work is my first priority.
+お父さん お父さんは会社員です。	お父とうさん    father お父とうさんは会かい社しゃ員いんです。 My father's a company employee.
+お母さん 彼のお母さんは美人です。	お母かあさん    mother 彼かれのお母かあさんは美び人じんです。 His mother is a beauty.
+お兄さん あなたのお兄さんは何歳？	お兄にいさん    older brother あなたのお兄にいさんは何なん歳さい？ How old is your big brother?
+お姉さん 昨日、あなたのお姉さんに会ったよ。	お姉ねえさん    older sister 昨日きのう、あなたのお姉ねえさんに会あったよ。 I met your older sister yesterday.
+おじさん 昨日おじさんに会いました。	おじさん    uncle 昨日きのうおじさんに会あいました。 I met my uncle yesterday.
+おばさん おばさん一家が遊びに来ました。	おばさん    aunt おばさん一いっ家かが遊あそびに来きました。 My aunt and her family came to visit me.
+いとこ いとこと私は同じ年です。	"いとこ    cousin いとこと私わたしは同おなじ年としです。 My cousin and I are the same age.         	  	Note: Sometimes seen as 従兄弟."
+机 新しい机を買ってもらいました。	机つくえ    desk, table 新あたらしい机つくえを買かってもらいました。 I was bought a new desk.
+同士 彼と私はいとこ同士です。	同どう士し    of the same kind, each other, fellow 彼かれと私わたしはいとこ同どう士しです。 He and I are fellow cousins.
+遅れる 今朝彼女は学校に遅れました。	遅おくれる    to be late 今朝けさ彼かの女じょは学がっ校こうに遅おくれました。 She was late for school this morning.
+車 弟が車を買った。	車くるま    car, automobile 弟おとうとが車くるまを買かった。 My younger brother bought a car.
+飛び出す 彼は道路に飛び出したの。	飛とび出だす    to fly out, to dash out 彼かれは道どう路ろに飛とび出だしたの。 He ran out into the road.
+事態 事態は深刻です。	事じ態たい    situation, state of affairs 事じ態たいは深しん刻こくです。 The situation is serious.
+味方 母はいつも私の味方です。	味み方かた    friend, ally 母はははいつも私わたしの味み方かたです。 My mother will always be my ally.
+展開 話の展開についていけない。	展てん開かい    unfolding, development 話はなしの展てん開かいについていけない。 I can't follow the thread of the conversation.
+学園 彼女は郊外の学園に通っているね。	学がく園えん    educational institution, school 彼かの女じょは郊こう外がいの学がく園えんに通かよっているね。 She goes to a school in the suburbs.
+怪しい その男の行動は怪しかったわ。	怪あやしい    suspicious, dubious その男おとこの行こう動どうは怪あやしかったわ。 That man's behavior was suspicious.
+型 新しい型のカメラを買いました。	型かた    type, model 新あたらしい型かたのカメラを買かいました。 I bought a new-model camera.
+流れ 川の上流は流れが速いよ。	流ながれ    flow, stream 川かわの上じょう流りゅうは流ながれが速はやいよ。 The river flows fast upstream.
+残り 仕事の残りは家でします。	残のこり    rest, leftover 仕し事ごとの残のこりは家いえでします。 I'll do the rest of the work at home.
+偶然 街で偶然友人に会いました。	偶ぐう然ぜん    chance, accident 街まちで偶ぐう然ぜん友ゆう人じんに会あいました。 I met a friend by chance downtown.
+柔らかい 新しいソファーはとても柔らかいです。	柔やわらかい    soft 新あたらしいソファーはとても柔やわらかいです。 The new sofa is really soft.
+感触 その生地は絹のような感触だ。	感かん触しょく    feeling, touch その生き地じは絹きぬのような感かん触しょくだ。 The cloth feels like silk.
+女子 このクラスの女子は18人です。	女じょ子し    woman, girl このクラスの女じょ子しは18じゅうはち人にんです。 There are 18 girls in this class.
+無し 今日は宿題は無しです。	無なし    naught, nothing 今日きょうは宿しゅく題だいは無なしです。 There is no homework today.
+壊れる テレビのリモコンが壊れてしまいました。	壊こわれる    to break, to fall apart テレビのリモコンが壊こわれてしまいました。 The TV remote got broken.
+苦手 私は料理が苦手です。	苦にが手て    hard to deal with, weak point 私わたしは料りょう理りが苦にが手てです。 I'm not good at cooking.
+試す 彼はそのソフトウェアを試したの。	試ためす    to try, to test 彼かれはそのソフトウェアを試ためしたの。 He tested the software.
+立派 彼は立派な人です。	立りっ派ぱ    fine, excellent 彼かれは立りっ派ぱな人ひとです。 He's a fine man.
+回す 車のハンドルを回します。	回まわす    to turn, to rotate 車くるまのハンドルを回まわします。 I turn the steering wheel of the car.
+なぜか 今日はなぜか体がだるい。	なぜか    for some reason 今日きょうはなぜか体からだがだるい。 I feel sluggish today for some reason.
+意見 あなたの意見が聞きたいです。	意い見けん    opinion あなたの意い見けんが聞ききたいです。 I want to hear your opinion.
+大量 昨日大量のゴミが出たの。	大たい量りょう    large quantity, great volume 昨日きのう大たい量りょうのゴミが出でたの。 A large amount of garbage was put out yesterday.
+提案 そのアイデアは彼の提案です。	提てい案あん    proposal, proposition そのアイデアは彼かれの提てい案あんです。 This idea is his proposal.
+責任 彼は失敗の責任を取って、会社を辞めた。	責せき任にん    responsibility, liability 彼かれは失しっ敗ぱいの責せき任にんを取とって、会かい社しゃを辞やめた。 He took responsibility for the mistake and resigned from the company.
+抑える 彼は怒りを抑えていたの。	抑おさえる    to hold back, to restrain 彼かれは怒いかりを抑おさえていたの。 He was holding back his anger.
+全力 全力で走れ。	全ぜん力りょく    with all of one's strength, at full capacity 全ぜん力りょくで走はしれ。 Run with all your might!
+伸ばす ジョギングの前に体を伸ばしましょう。	伸のばす    to stretch, to straighten ジョギングの前まえに体からだを伸のばしましょう。 Let's stretch before we start jogging.
+客 その店は若い客が多いです。	客きゃく    customer, guest その店みせは若わかい客きゃくが多おおいです。 That shop has a lot of young customers.
+王国 スウェーデンやオランダは王国です。	王おう国こく    kingdom, monarchy スウェーデンやオランダは王おう国こくです。 Sweden and the Netherlands are kingdoms.
+抵抗 犯人は警察に抵抗したの。	抵てい抗こう    resistance, opposition 犯はん人にんは警けい察さつに抵てい抗こうしたの。 The criminal resisted the police.
+混乱 地震の後、町は大混乱だったよ。	混こん乱らん    disorder, chaos 地じ震しんの後あと、町まちは大だい混こん乱らんだったよ。 After the earthquake, the town was thrown into chaos.
+条件 この条件では厳し過ぎます。	条じょう件けん    condition, item この条じょう件けんでは厳きびし過すぎます。 It's too harsh under these conditions.
+迷惑 人に迷惑をかけてはいけません。	迷めい惑わく    trouble, annoyance 人ひとに迷めい惑わくをかけてはいけません。 You shouldn't cause trouble for other people.
+例 例を見てください。	例れい    example 例れいを見みてください。 Please look at the example.
+頼る 人に頼らないで、自分でやってごらん。	頼たよる    to rely on, to depend on 人ひとに頼たよらないで、自じ分ぶんでやってごらん。 Do it yourself without relying on other people.
+完璧 彼のフランス語は完璧です。	完かん璧ぺき    flawless, perfect 彼かれのフランス語ごは完かん璧ぺきです。 His French is perfect.
+日々 日々の努力が大切です。	日ひ々び    daily, every day 日ひ々びの努ど力りょくが大たい切せつです。 Working hard everyday is crucial.
+行為 彼の行為はみんなの誤解を招いたわ。	行こう為い    act, conduct 彼かれの行こう為いはみんなの誤ご解かいを招まねいたわ。 His actions ended up misleading everyone.
+ともかく ともかく一度考え直しましょう。	ともかく    at least, at any rate ともかく一いち度ど考かんがえ直なおしましょう。 At any rate, let's rethink this one more time.
+減る 日本では人口が減っています。	減へる    to decrease, to diminish 日本にほんでは人じん口こうが減へっています。 In Japan, the population is decreasing.
+嫌う 父はラッシュアワーを嫌っています。	嫌きらう    to dislike, to hate 父ちちはラッシュアワーを嫌きらっています。 My father hates rush hour.
+知り合い 街で知り合いを見かけたよ。	知しり合あい    acquaintance 街まちで知しり合あいを見みかけたよ。 I saw an acquaintance in town.
+思考 緊張するとまともな思考ができない。	思し考こう    thinking, thought 緊きん張ちょうするとまともな思し考こうができない。 You cannot think straight if you are nervous.
+解決 トラブルがやっと解決した。	解かい決けつ    solution, settlement トラブルがやっと解かい決けつした。 The problem has finally been solved.
+冷静 冷静に話し合いましょう。	冷れい静せい    cool, calm 冷れい静せいに話はなし合あいましょう。 Let's talk calmly.
+天 天から恵みの雨が降ったね。	天てん    sky, Heaven 天てんから恵めぐみの雨あめが降ふったね。 A blessed rain fell from the heavens.
+いつの間にか いつの間にか夜が明けていたね。	いつの間まにか    before one knows, unnoticed いつの間まにか夜よが明あけていたね。 The dawn had broken before we realized it.
+直す 私がそれを直しました。	直なおす    to repair, to cure, to alter 私わたしがそれを直なおしました。 I repaired it.
+常に 彼は常に姿勢がいい。	常つねに    always, constantly 彼かれは常つねに姿し勢せいがいい。 He always has a good attitude.
+犯人 あいつが犯人です。	犯はん人にん    criminal, culprit あいつが犯はん人にんです。 That guy's the culprit.
+許可 休む時は許可を貰ってください。	許きょ可か    permission, approval 休やすむ時ときは許きょ可かを貰もらってください。 Please get permission when you want to take time off.
+閉じる 教科書を閉じてください。	閉とじる    to close 教きょう科か書しょを閉とじてください。 Please close your textbooks.
+重ねる 荷物はここに重ねてください。	重かさねる    to put on top of something, to pile up 荷に物もつはここに重かさねてください。 Please pile up the luggage here.
+細い 彼女は指が細いですね。	細ほそい    thin, narrow, slender 彼かの女じょは指ゆびが細ほそいですね。 Her fingers are thin.
+久しぶり 明日、久しぶりに友達に会います。	久ひさしぶり    for the first time in a while 明日あした、久ひさしぶりに友とも達だちに会あいます。 Tomorrow I'm meeting a friend I haven't seen in a long time.
+目立つ 彼女の大きな帽子はとても目立つ。	目め立だつ    to stand out, to be conspicuous 彼かの女じょの大おおきな帽ぼう子しはとても目め立だつ。 Her big hat really stands out.
+到着 何時に日本に到着しますか。	到とう着ちゃく    arrival 何なん時じに日本にほんに到とう着ちゃくしますか。 What time will you arrive in Japan?
+押さえる ドアを押さえてください。	押おさえる    to hold down, to hold steady ドアを押おさえてください。 Please hold the door.
+通う 私はジムに通っています。	通かよう    to go to and from, to frequent a place 私わたしはジムに通かよっています。 I go to a gym.
+殴る 彼は思わず友人を殴ったの。	殴なぐる    to hit, to strike 彼かれは思おもわず友ゆう人じんを殴なぐったの。 He hit his friend without thinking.
+広げる 電車の中では新聞を広げないで。	広ひろげる    to spread, to unfold 電でん車しゃの中なかでは新しん聞ぶんを広ひろげないで。 Don't spread your newspaper open in the train.
+引っ張る 娘が私の手を引っ張った。	引ひっ張ぱる    to pull, to drag 娘むすめが私わたしの手てを引ひっ張ぱった。 My daughter tugged on my hand.
+いつまでも いつまでもあなたを忘れません。	いつまでも    endlessly, as long as one likes いつまでもあなたを忘わすれません。 I will never forget you.
+間に合う 授業に間に合いました。	間まに合あう    to be in time, to answer the purpose, can do without 授じゅ業ぎょうに間まに合あいました。 I made it in time for class.
+了解 課長から有給の了解を得た。	了りょう解かい    consent, understanding, roger that 課か長ちょうから有ゆう給きゅうの了りょう解かいを得えた。 I got consent from the section manager for my paid holiday.
+番 今日は私が皿を洗う番ですね。	番ばん    one's turn 今日きょうは私わたしが皿さらを洗あらう番ばんですね。 It's my turn to do dishes today.
+戦争 2003年にイラクで戦争があった。	戦せん争そう    war, battle 2003にせんさん年ねんにイラクで戦せん争そうがあった。 There was a war in Iraq in 2003.
+寒い この部屋は寒いです。	寒さむい    cold (temperature) この部屋へやは寒さむいです。 This room is cold.
+見事 彼は見事なジャンプを見せたね。	見み事ごと    splendid, admirable 彼かれは見み事ごとなジャンプを見みせたね。 He showed us a splendid jump.
+酒 お酒を飲み過ぎて、気持ちが悪いです。	"酒さけ    alcoholic drink, Japanese rice wine お酒さけを飲のみ過すぎて、気き持もちが悪わるいです。 I drank too much alcohol, and now I feel sick.         	  	Note: Sometimes used with the politeness prefix お."
+恋人 彼は恋人を失った。	恋こい人びと    lover, sweetheart 彼かれは恋こい人びとを失うしなった。 He lost his lover.
+一切 私は一切その問題とは関係がありません。	一いっ切さい    not at all, absolutely nothing 私わたしは一いっ切さいその問もん題だいとは関かん係けいがありません。 I have absolutely nothing to do with that issue.
+穴 靴下に穴が開いている。	穴あな    hole, cavity 靴くつ下したに穴あなが開あいている。 There are holes in my socks.
+依頼 彼に協力を依頼しました。	依い頼らい    request, commission 彼かれに協きょう力りょくを依い頼らいしました。 I requested his cooperation.
+中身 かばんの中身を見せてください。	中なか身み    content, interior かばんの中なか身みを見みせてください。 Please show me the contents of the bag.
+多少 このソフトには多少問題がある。	多た少しょう    a little, somewhat このソフトには多た少しょう問もん題だいがある。 There are some problems with this software.
+真実 真実は一つです。	真しん実じつ    truth, reality 真しん実じつは一ひとつです。 There is one truth.
+見た目 彼女は見た目をすごく気にします。	見みた目め    outward appearance 彼かの女じょは見みた目めをすごく気きにします。 She worries terribly about how she looks.
+間違い この文には間違いがあります。	間ま違ちがい    mistake, error この文ぶんには間ま違ちがいがあります。 There's a mistake in this sentence.
+青い ここの海はとても青い。	"青あおい    blue ここの海うみはとても青あおい。 The sea here is very blue.         	  	Note: Confusingly, this also refers to green at times."
+辛い 辛い料理をよく食べます。	辛からい    spicy 辛からい料りょう理りをよく食たべます。 I eat hot/spicy food often.
+辛い この仕事は辛いです。	辛つらい    difficult, harsh この仕し事ごとは辛つらいです。 This work is harsh.
+対応 彼はいつも素早い対応をするね。	対たい応おう    correspondence, equivalence, response 彼かれはいつも素す早ばやい対たい応おうをするね。 He always responds quickly.
+光る 波がきらきら光っていました。	光ひかる    to shine, to emit light 波なみがきらきら光ひかっていました。 The waves shone bright.
+苦労 母は苦労して私たちを育てたの。	苦く労ろう    difficulty, hardship 母ははは苦く労ろうして私わたしたちを育そだてたの。 My mother had a hard time bringing us up.
+通じる その国では英語は通じますか。	通つうじる    to pass, to communicate with その国くにでは英えい語ごは通つうじますか。 Can you communicate in English in that country?
+罪 彼の罪は重いな。	罪つみ    crime, sin 彼かれの罪つみは重おもいな。 His crime is serious.
+授業 今日は４時まで授業があります。	授じゅ業ぎょう    class, lesson 今日きょうは４よ時じまで授じゅ業ぎょうがあります。 Today, there are classes until 4:00.
+最悪 何とか最悪の事態を避けることができました。	最さい悪あく    worst, terrible 何なんとか最さい悪あくの事じ態たいを避さけることができました。 Somehow we managed to avert the worst-case scenario.
+差 兄との身長の差が縮まった。	差さ    difference 兄あにとの身しん長ちょうの差さが縮ちぢまった。 The difference in height between my elder brother and I narrowed.
+信用 彼の言うことは信用できない。	信しん用よう    trust, credit 彼かれの言いうことは信しん用ようできない。 I can't trust what he says.
+壊す 彼女が私の携帯を壊した。	壊こわす    to break, to destroy, to smash 彼かの女じょが私わたしの携けい帯たいを壊こわした。 She destroyed my cell phone.
+式 彼らは教会で式を挙げました。	式しき    ceremony 彼かれらは教きょう会かいで式しきを挙あげました。 They had a wedding ceremony in the church.
+人形 彼女は人形をたくさん持っています。	人にん形ぎょう    doll 彼かの女じょは人にん形ぎょうをたくさん持もっています。 She has a lot of dolls.
+結ぶ 彼女は髪にリボンを結んだね。	結むすぶ    to tie, to join 彼かの女じょは髪かみにリボンを結むすんだね。 She tied a ribbon in her hair.
+あんなに あんなにいい人はいません。	あんなに    that much, such... あんなにいい人ひとはいません。 A person that good doesn't exist.
+計画 計画を一部変更しましょう。	計けい画かく    plan, project 計けい画かくを一いち部ぶ変へん更こうしましょう。 Let's change part of the plan.
+囲む 久しぶりに家族全員で食卓を囲みました。	囲かこむ    to enclose, to encircle 久ひさしぶりに家か族ぞく全ぜん員いんで食しょく卓たくを囲かこみました。 We had the entire family around the dinner table for the first time in a long time.
+知識 私は旅行から多くの知識を得た。	知ち識しき    knowledge 私わたしは旅りょ行こうから多おおくの知ち識しきを得えた。 I gained a lot of knowledge from traveling.
+切り 切りがいいので今日の仕事はここまでにしましょう。	切きり    end, place to stop 切きりがいいので今日きょうの仕し事ごとはここまでにしましょう。 This is a good point to stop, so let's finish work here for today.
+注意 車に注意してください。	注ちゅう意い    care, watch out 車くるまに注ちゅう意いしてください。 Please watch out for traffic.
+言い方 そんな言い方をしてはいけません。	言いい方かた    way of speaking, expression そんな言いい方かたをしてはいけません。 You mustn't talk like that.
+経つ あれから14年が経ちました。	経たつ    to pass, to elapse あれから14じゅうよ年ねんが経たちました。 Fourteen years have passed since then.
+背 彼女は背が高い。	背せ    height, stature 彼かの女じょは背せが高たかい。 She's tall.
+問う 応募者の年齢は問いません。	問とう    to ask, to inquire 応おう募ぼ者しゃの年ねん齢れいは問といません。 We will not inquire about the age of the applicants.
+恋 彼女は恋をしてきれいになったね。	恋こい    love, romance 彼かの女じょは恋こいをしてきれいになったね。 She fell in love and became beautiful.
+とんでもない 仕事中に帰るなんてとんでもない。	とんでもない    unthinkable, outrageous 仕し事ごと中ちゅうに帰かえるなんてとんでもない。 It's unthinkable to go home in the middle of work.
+中心 ここが建物の中心です。	中ちゅう心しん    center, middle ここが建たて物ものの中ちゅう心しんです。 This is the center of the building.
+汗 彼は額に汗をかいていたの。	汗あせ    sweat 彼かれは額ひたいに汗あせをかいていたの。 He was sweating from his forehead.
+異常 今年の夏は異常な暑さですね。	異い常じょう    extraordinary, exceptional 今年ことしの夏なつは異い常じょうな暑あつさですね。 This summer is exceptionally hot.
+非常 非常事態です。	非ひ常じょう    emergency, calamity 非ひ常じょう事じ態たいです。 We're in a state of emergency!
+膝 スキーで膝を怪我しました。	膝ひざ    knee スキーで膝ひざを怪け我がしました。 I injured my knee while skiing.
+わずか 彼はわずかな貯金で暮らしている。	わずか    few, little 彼かれはわずかな貯ちょ金きんで暮くらしている。 He lives on his meager savings.
+役 彼はよく刑事の役を演じるね。	役やく    role, part 彼かれはよく刑けい事じの役やくを演えんじるね。 He often plays the part of a detective.
+焦る 何をそんなに焦っているのですか。	焦あせる    to feel pressured, to feel hurried 何なにをそんなに焦あせっているのですか。 What are you in such a hurry for?
+川 小さな川を渡りました。	川かわ    river, stream 小ちいさな川かわを渡わたりました。 I crossed a small river.
+悪魔 彼はまるで悪魔みたいな男だ。	悪あく魔ま    demon, devil 彼かれはまるで悪あく魔まみたいな男おとこだ。 He's almost like a demon.
+唯一 彼の唯一の楽しみは釣りです。	唯ゆい一いつ    (the) only, unique 彼かれの唯ゆい一いつの楽たのしみは釣つりです。 His sole pleasure is fishing.
+もうすぐ 今11時半。もうすぐランチの時間です。	もうすぐ    soon, before long 今いま11じゅういち時じ半はん。もうすぐランチの時じ間かんです。 It's almost 11:30. It will be lunch time soon.
+中央 その公園は町のほぼ中央に位置するんだ。	中ちゅう央おう    center その公こう園えんは町まちのほぼ中ちゅう央おうに位い置ちするんだ。 The park is located almost in the center of town.
+突っ込む ポケットに財布を突っ込んじゃった。	突つっ込こむ    to thrust in, to dash into ポケットに財さい布ふを突つっ込こんじゃった。 I thrust my wallet into my pocket.
+技術 この会社にはどんな技術がありますか。	技ぎ術じゅつ    technology この会かい社しゃにはどんな技ぎ術じゅつがありますか。 What kind of technology does this company have?
+素晴らしい これは素晴らしいチャンスだ。	素す晴ばらしい    splendid, excellent これは素す晴ばらしいチャンスだ。 This is a great chance.
+単純 彼は単純な人です。	単たん純じゅん    simple, uncomplicated 彼かれは単たん純じゅんな人ひとです。 He's a simple person.
+穏やか 彼らは穏やかな暮らしをしているの。	穏おだやか    calm, mild 彼かれらは穏おだやかな暮くらしをしているの。 They live a quiet life.
+撃つ 彼は拳銃で撃たれたわ。	撃うつ    to fire, to shoot 彼かれは拳けん銃じゅうで撃うたれたわ。 He was shot with a handgun.
+拾う 道で財布を拾った。	拾ひろう    to pick up, to find 道みちで財さい布ふを拾ひろった。 I picked up a wallet in the street.
+完成 新しいホームページが完成した。	完かん成せい    completion, finish 新あたらしいホームページが完かん成せいした。 Our new home page is completed.
+毒 飲み過ぎは体に毒ですよ。	毒どく    poison, harm 飲のみ過すぎは体からだに毒どくですよ。 Drinking too much is poison to your body.
+馬 馬を見たいです。	馬うま    horse 馬うまを見みたいです。 I want to see a horse.
+覆う 雲が空を覆っているね。	覆おおう    to cover, to hide 雲くもが空そらを覆おおっているね。 Clouds are covering the sky.
+趣味 趣味はカラオケです。	趣しゅ味み    hobby 趣しゅ味みはカラオケです。 My hobby is karaoke.
+どうにか どうにか締め切りに間に合った。	どうにか    somehow どうにか締しめ切きりに間まに合あった。 I somehow managed to meet the deadline.
+何となく パーティーに行くのは何となく気が進まないな。	何なんとなく    for some reason パーティーに行いくのは何なんとなく気きが進すすまないな。 For some reason I don't feel like going to the party.
+価値 とても価値のある話を聞いたよ。	価か値ち    value, merit とても価か値ちのある話はなしを聞きいたよ。 I heard a very valuable story.
+見守る 皆で暖かく見守りましょう。	見み守まもる    to watch, to keep watch over 皆みんなで暖あたたかく見み守まもりましょう。 Let's all warmly watch over them.
+安全 安全が第一です。	安あん全ぜん    safety, security 安あん全ぜんが第だい一いちです。 Safety comes first.
+連れてくる 弟が家へ友達を連れてきました。	連つれてくる    to bring over, to bring along 弟おとうとが家うちへ友とも達だちを連つれてきました。 My younger brother brought home his friend.
+そば そばにいてください。	そば    side, vicinity そばにいてください。 Stay with me.
+万 この靴は1万円です。	万まん    ten thousand この靴くつは1いち万まん円えんです。 These shoes are ten thousand yen.
+額 写真を額に入れて飾ったんだ。	額がく    picture frame 写しゃ真しんを額がくに入いれて飾かざったんだ。 I put the photo in a frame and hung it up.
+受け止める ボールが速過ぎて受け止められなかったの。	受うけ止とめる    to catch, to receive ボールが速はや過すぎて受うけ止とめられなかったの。 The ball was so fast that I couldn't catch it.
+素敵 かっこいいシャツですね。素敵です。	素す敵てき    lovely, superb かっこいいシャツですね。素す敵てきです。 That is a cool shirt. It looks great.
+正体 次回、謎の人物の正体が明かされる。	正しょう体たい    true character, true form 次じ回かい、謎なぞの人じん物ぶつの正しょう体たいが明あかされる。 Next time, the true character of the mysterious person will be revealed.
+あっさり そうあっさり言わないで。	あっさり    lightly, easily, simply そうあっさり言いわないで。 Don't say it so lightly.
+吸う ここでタバコを吸わないでください。	吸すう    to smoke ここでタバコを吸すわないでください。 Please don't smoke here.
+鳴る 携帯が大きな音で鳴っています。	鳴なる    to ring, to beep 携けい帯たいが大おおきな音おとで鳴なっています。 The cell phone is ringing loudly.
+研究 大学院で数学を研究したいです。	研けん究きゅう    research 大だい学がく院いんで数すう学がくを研けん究きゅうしたいです。 I want to do mathematics research in grad school.
+まとめる 彼女は荷物をまとめて出て行った。	まとめる    to gather together, to put in order 彼かの女じょは荷に物もつをまとめて出でて行いった。 She packed her baggage and left.
+別れる 駅で友だちと別れました。	別わかれる    to separate, to part from 駅えきで友ともだちと別わかれました。 I parted with my friend at the station.
+ふざける ふざけるのは止めて。	ふざける    to mess around, to fool around ふざけるのは止やめて。 Stop messing around.
+着替える 彼はきれいな服に着替えた。	着き替がえる    to change clothes 彼かれはきれいな服ふくに着き替がえた。 He changed into clean clothes.
+箱 この箱は重い。	箱はこ    box, case この箱はこは重おもい。 This box is heavy.
+無言 彼は一日中無言だったな。	無む言ごん    silence, muteness 彼かれは一いち日にち中じゅう無む言ごんだったな。 He was silent all day long.
+何で 彼女は何で来ないんだろう。	何なんで    why, what for 彼かの女じょは何なんで来こないんだろう。 I wonder why she's not coming.
+裏切る 彼は仲間を裏切ったの。	裏うら切ぎる    to betray 彼かれは仲なか間まを裏うら切ぎったの。 He betrayed his friends.
+焼く 今、魚を焼いています。	焼やく    to burn, to bake 今いま、魚さかなを焼やいています。 I'm grilling fish now.
+怪我 彼女は腕を怪我した。	怪け我が    injury 彼かの女じょは腕うでを怪け我がした。 She injured her arm.
+門 8時に学校の門が開きます。	門もん    gate, entrance 8はち時じに学がっ校こうの門もんが開ひらきます。 The gate of the school opens at eight o'clock.
+不可能 レポートを1日で仕上げるのは不可能です。	不ふ可か能のう    impossible レポートを1いち日にちで仕し上あげるのは不ふ可か能のうです。 It's impossible to finish up the report in a day.
+妻 兄の妻は日本人です。	妻つま    wife 兄あにの妻つまは日本にほん人じんです。 My elder brother's wife is Japanese.
+時には 優しい母も時には怒ります。	時ときには    occasionally, at times 優やさしい母ははも時ときには怒おこります。 Even kind mothers get angry at times.
+発言 会議で全員が発言した。	発はつ言げん    speech 会かい議ぎで全ぜん員いんが発はつ言げんした。 Everyone spoke at the conference.
+正確 彼の計算は正確です。	正せい確かく    accurate, precise 彼かれの計けい算さんは正せい確かくです。 His calculation is accurate.
+認識 その件は終わったと認識しています。	認にん識しき    recognition, acknowledgment その件けんは終おわったと認にん識しきしています。 My understanding is that the matter is over.
+速度 新幹線の速度はどれくらいですか。	速そく度ど    velocity, speed 新しん幹かん線せんの速そく度どはどれくらいですか。 How fast is the speed of the Shinkansen?
+謎 ピラミッドには謎が多いんだ。	謎なぞ    mystery, puzzle ピラミッドには謎なぞが多おおいんだ。 There are a lot of mysteries about the pyramids.
+文字 書いた文字には、その人の気持ちが表れる。	文も字じ    character, letter 書かいた文も字じには、その人ひとの気き持もちが表あらわれる。 A person's feelings appear within their written characters.
+吐く 彼は乱暴な言葉を吐いたぞ。	吐はく    to spew, to vomit, to holler 彼かれは乱らん暴ぼうな言こと葉ばを吐はいたぞ。 He spewed out some violent words.
+鬼 彼は鬼のような人だ。	鬼おに    demon, ogre 彼かれは鬼おにのような人ひとだ。 He is like a demon.
+刺激 そのクイズ番組は脳を刺激するね。	刺し激げき    stimulus, stimulation そのクイズ番ばん組ぐみは脳のうを刺し激げきするね。 The quiz show stimulates the brain.
+最も 彼は世界で最も早い男です。	最もっとも    the most 彼かれは世せ界かいで最もっとも早はやい男おとこです。 He's the fastest man in the world.
+制服 私の学校には制服がありません。	制せい服ふく    uniform 私わたしの学がっ校こうには制せい服ふくがありません。 There is no uniform in my school.
+爆発 ダイナマイトが爆発したんだ。	爆ばく発はつ    blast, explosion ダイナマイトが爆ばく発はつしたんだ。 The dynamite exploded.
+訓練 学校で避難訓練がありました。	訓くん練れん    training, drill 学がっ校こうで避ひ難なん訓くん練れんがありました。 There was a fire drill at the school.
+振り向く 彼女は振り向いて俺に微笑んだんだ。	振ふり向むく    to turn around, to look back 彼かの女じょは振ふり向むいて俺おれに微ほほ笑えんだんだ。 She turned around and smiled at me.
+脱ぐ コートを脱ぎます。	脱ぬぐ    to remove clothes, to take off コートを脱ぬぎます。 I will take off my coat.
+信頼 お互いを信頼することが大事です。	信しん頼らい    trust, faith お互たがいを信しん頼らいすることが大だい事じです。 It is important to trust each other.
+寄る 学校へ行く前に銀行に寄りました。	寄よる    to stop by, to drop by 学がっ校こうへ行いく前まえに銀ぎん行こうに寄よりました。 I stopped by the bank before going to school.
+飛ばす 子供が紙飛行機を飛ばしています。	飛とばす    to fly, to launch in the air 子こ供どもが紙かみ飛ひ行こう機きを飛とばしています。 The child is launching a paper airplane.
+貸す 私は彼に本を貸しています。	貸かす    to lend, to lease 私わたしは彼かれに本ほんを貸かしています。 I'm lending him the book.
+パン 朝ご飯にはいつもパンを食べる。	パン    bread 朝あさご飯はんにはいつもパンを食たべる。 I always eat bread for breakfast.
+ありがたい 彼の助けは本当にありがたいな。	ありがたい    welcome, grateful 彼かれの助たすけは本ほん当とうにありがたいな。 His help is really appreciated.
+赤 信号が赤に変わりました。	赤あか    red 信しん号ごうが赤あかに変かわりました。 The traffic light changed to red.
+大体 レポートは大体終わりました。	大だい体たい    mostly レポートは大だい体たい終おわりました。 The report is mostly finished.
+きちんと 本は本棚にきちんと返してください。	きちんと    neatly, accurately 本ほんは本ほん棚だなにきちんと返かえしてください。 Please put the books back neatly on the bookshelf.
+喉 喉にいい薬はありますか。	喉のど    throat 喉のどにいい薬くすりはありますか。 Do you have any good medicine for the throat?
+少々 塩を少々入れてください。	少しょう々しょう    a little, a few 塩しおを少しょう々しょう入いれてください。 Please put in a little salt.
+有名 この海は有名で、人が大勢来ます。	有ゆう名めい    famous この海うみは有ゆう名めいで、人ひとが大おお勢ぜい来きます。 This sea is famous, so many people come here.
+船 私たちは船に乗った。	船ふね    ship, boat 私わたしたちは船ふねに乗のった。 We got on the ship.
+転がる 猫は砂の上で転がったんだ。	転ころがる    to roll over, to tumble 猫ねこは砂すなの上うえで転ころがったんだ。 The cat rolled over on the sand.
+切れる プリンターのインクが切れた。	切きれる    to be able to cut, to run out, to expire プリンターのインクが切きれた。 The printer ink ran out.
+たった 財布の中にたった1000円しかないよ。	たった    only, merely 財さい布ふの中なかにたった1000せん円えんしかないよ。 I only have 1,000 yen in my wallet.
+話題 ここが話題のレストランです。	話わ題だい    topic of conversation ここが話わ題だいのレストランです。 This is the restaurant that is the talk of the town.
+濡れる 雨で濡れてしまった。	濡ぬれる    to get wet 雨あめで濡ぬれてしまった。 I got wet in the rain.
+ついでに ついでにクリーニング屋さんに寄ってきて。	ついでに    on the way, while one's at it ついでにクリーニング屋やさんに寄よってきて。 Drop by the cleaners on the way.
+呼び出す 親が学校に呼び出されたんだ。	呼よび出だす    to call someone to 親おやが学がっ校こうに呼よび出だされたんだ。 My parents were called in to the school.
+確信 私は彼の成功を確信しています。	確かく信しん    firm belief, conviction 私わたしは彼かれの成せい功こうを確かく信しんしています。 I am convinced of his success.
+込める 彼は感情を込めてその歌を歌ったの。	込こめる    to put in, to concentrate on 彼かれは感かん情じょうを込こめてその歌うたを歌うたったの。 He sang the song with feeling.
+自覚 まだ子供だから悪い事をしたという自覚がないんだ。	自じ覚かく    awareness まだ子こ供どもだから悪わるい事ことをしたという自じ覚かくがないんだ。 He has no awareness of having done a bad thing because he is still a child.
+空く 後ろの席が空いています。	空あく    to become available or vacant 後うしろの席せきが空あいています。 The rear seat is empty.
+空く レストランは空いていました。	空すく    to be empty, to become less crowded レストランは空すいていました。 The restaurant was empty.
+警察 警察を呼んでください。	警けい察さつ    police 警けい察さつを呼よんでください。 Call the police.
+悲鳴 外から悲鳴が聞こえたな。	悲ひ鳴めい    shriek, scream 外そとから悲ひ鳴めいが聞きこえたな。 I heard a scream coming from outside.
+捕まえる 母が泥棒を捕まえました。	捕つかまえる    to arrest, to capture 母ははが泥どろ棒ぼうを捕つかまえました。 My mother caught the thief.
+早速 では早速書類をお送りします。	早さっ速そく    immediately では早さっ速そく書しょ類るいをお送おくりします。 Then I will send the documents immediately.
+お腹 お腹が空きました。	お腹なか    stomach, belly お腹なかが空すきました。 I'm hungry.
+掃除 毎日、掃除します。	掃そう除じ    cleaning 毎まい日にち、掃そう除じします。 I clean everyday.
+硬い このパンは硬いですが、美味しいです。	硬かたい    hard, stiff このパンは硬かたいですが、美味おいしいです。 This bread is hard, but delicious.
+際 この際はっきり言っておきます。	際さい    occasion, time この際さいはっきり言いっておきます。 It's a good opportunity to speak frankly.
+漏らす 秘密を漏らしたのは彼です。	漏もらす    to give away, to let leak 秘ひ密みつを漏もらしたのは彼かれです。 He's the one who leaked the secret.
+面 彼の意外な面を見た。	面めん    surface, aspect 彼かれの意い外がいな面めんを見みた。 I saw an unexpected side of him.
+不満 私は彼のやり方には不満です。	不ふ満まん    dissatisfaction, discontent 私わたしは彼かれのやり方かたには不ふ満まんです。 I'm dissatisfied with his way of doing things.
+驚き 彼女は驚きを隠せませんでしたよ。	驚おどろき    surprise, amazement 彼かの女じょは驚おどろきを隠かくせませんでしたよ。 She was not able to conceal her surprise.
+旅 姉はよく旅をします。	旅たび    journey, travel 姉あねはよく旅たびをします。 My big sister travels often.
+絵 素敵な絵ですね。	絵え    picture, drawing 素す敵てきな絵えですね。 It's a beautiful drawing.
+組む このプロジェクトで私は彼と組んでいるんだ。	組くむ    to pair up, to partner with このプロジェクトで私わたしは彼かれと組くんでいるんだ。 I am pairing up with him for this project.
+沈黙 彼はしばらく沈黙していた。	沈ちん黙もく    reticence, silence 彼かれはしばらく沈ちん黙もくしていた。 He was silent for a while.
+張る 疲れて肩が張っています。	張はる    to strain, to be stretched 疲つかれて肩かたが張はっています。 My shoulders are stiff with fatigue.
+告白 自分の思いを彼女に告白しました。	告こく白はく    confession, admission 自じ分ぶんの思おもいを彼かの女じょに告こく白はくしました。 I confessed my feelings to her.
+舐める 犬に顔を舐められました。	舐なめる    to lick 犬いぬに顔かおを舐なめられました。 The dog licked my face.
+潰す ペットボトルは潰して捨てましょう。	潰つぶす    to crush, to smash ペットボトルは潰つぶして捨すてましょう。 Let's crush plastic bottles before throwing them away.
+含める 私を含めて10人が参加しました。	含ふくめる    to include 私わたしを含ふくめて10じゅう人にんが参さん加かしました。 Ten people participated, myself included.
+時期 今はあなたにとって大事な時期です。	時じ期き    time, season, period 今いまはあなたにとって大だい事じな時じ期きです。 It's an important time for you now.
+活動 彼は地域の活動に参加した。	活かつ動どう    activity 彼かれは地ち域いきの活かつ動どうに参さん加かした。 He took part in local activities.
+育てる 彼女は三人の子を育てました。	育そだてる    to bring up, to breed 彼かの女じょは三さん人にんの子こを育そだてました。 She raised three children.
+優秀 彼はとても優秀な生徒です。	優ゆう秀しゅう    excellent, exceptional 彼かれはとても優ゆう秀しゅうな生せい徒とです。 He's a very exceptional student.
+予感 彼がもうすぐ来る予感がする。	予よ感かん    hunch, premonition 彼かれがもうすぐ来くる予よ感かんがする。 I have a feeling that he will be here soon.
+解く この問題を解けますか。	解とく    to solve この問もん題だいを解とけますか。 Can you solve this problem?
+元々 彼女は元々フランスに行くつもりだったの。	元もと々もと    originally, by nature 彼かの女じょは元もと々もとフランスに行いくつもりだったの。 She was planning to go to France originally.
+溢れる バスタブからお湯が溢れました。	溢あふれる    to overflow, to flood バスタブからお湯ゆが溢あふれました。 Hot water overflowed from the bathtub.
+発生 交差点で事故が発生した。	発はっ生せい    occurrence, happening 交こう差さ点てんで事じ故こが発はっ生せいした。 There was an accident at the intersection.
+微妙 彼は会社で微妙な立場にあります。	微び妙みょう    subtle, delicate, sensitive, iffy 彼かれは会かい社しゃで微び妙みょうな立たち場ばにあります。 He's in an iffy position in the company.
+違い この二つには大きな違いがある。	違ちがい    difference, mistake この二ふたつには大おおきな違ちがいがある。 There's a big difference between these two.
+直後 食べた直後に寝ないほうがいいよ。	直ちょく後ご    immediately after 食たべた直ちょく後ごに寝ねないほうがいいよ。 You should not sleep immediately after having eaten.
+地下 スタジオは地下にあります。	地ち下か    underground スタジオは地ち下かにあります。 The studio is in the basement.
+香り この花はいい香りがしますね。	香かおり    perfume, fragrance この花はなはいい香かおりがしますね。 This flower smells good.
+効く この薬はあまりよく効かないよ。	効きく    to be effective この薬くすりはあまりよく効きかないよ。 This medicine doesn't work very well.
+使用 この製品を使用する前に、説明書をお読みください。	使し用よう    usage この製せい品ひんを使し用ようする前まえに、説せつ明めい書しょをお読よみください。 Please read the manual before using this product.
+道具 道具は全部揃っていますか。	道どう具ぐ    tool 道どう具ぐは全ぜん部ぶ揃そろっていますか。 Do we have all the tools ready?
+願い 世界の平和が私たちの願いです。	願ねがい    wish, request 世せ界かいの平へい和わが私わたしたちの願ねがいです。 Our wish is for world peace.
+洗う 早く顔を洗いなさい。	洗あらう    to wash 早はやく顔かおを洗あらいなさい。 Hurry up and wash your face.
+手段 彼は目的のためには手段を選ばなかったわね。	手しゅ段だん    means, way 彼かれは目もく的てきのためには手しゅ段だんを選えらばなかったわね。 He did not choose the means for the purpose, did he?
+誤解 私の気持ちを誤解しているんじゃない！	誤ご解かい    misunderstanding 私わたしの気き持もちを誤ご解かいしているんじゃない！ Aren't you misunderstanding my feelings?
+応援 好きなチームを応援します。	応おう援えん    cheering 好すきなチームを応おう援えんします。 I'm cheering for the team I like.
+含む その食品は有害物質を含んでいるぞ。	含ふくむ    to contain, to include その食しょく品ひんは有ゆう害がい物ぶっ質しつを含ふくんでいるぞ。 This food contains a poisonous substance.
+当時 彼女は当時、まだ3才だった。	当とう時じ    at that time, at the present time 彼かの女じょは当とう時じ、まだ3さん才さいだった。 She was only three years old at the time.
+勝利 チームの全員が勝利を喜んだ。	勝しょう利り    triumph, victory チームの全ぜん員いんが勝しょう利りを喜よろこんだ。 All members of the team were pleased with the victory.
+降る 今日、雨が降ります。	降ふる    to fall (e.g. rain) 今日きょう、雨あめが降ふります。 Today, it will rain.
+雪 クリスマスに雪が降りました。	雪ゆき    snow, snowfall クリスマスに雪ゆきが降ふりました。 It snowed at Christmas.
+入り口 入り口は向こうです。	入いり口ぐち    entrance 入いり口ぐちは向むこうです。 The entrance is over there.
+一方 ここは一方通行です。	一いっ方ぽう    one way ここは一いっ方ぽう通つう行こうです。 This is a one-way street.
+古い 私は古い車が好きです。	古ふるい    old 私わたしは古ふるい車くるまが好すきです。 I like old cars.
+役に立つ この本はとても役に立ちます。	役やくに立たつ    to be useful, to be helpful この本ほんはとても役やくに立たちます。 This book is very useful.
+懐かしい ここは私にとって懐かしい場所です。	懐なつかしい    longed-for, nostalgic ここは私わたしにとって懐なつかしい場ば所しょです。 This is a nostalgic place for me.
+もしも もしも彼女と結婚できたらどんなに嬉しいだろう。	もしも    if, if ever もしも彼かの女じょと結けっ婚こんできたらどんなに嬉うれしいだろう。 If I could ever marry her, how happy I would be!
+才能 彼は芸術的な才能にあふれているね。	才さい能のう    talent, ability 彼かれは芸げい術じゅつ的てきな才さい能のうにあふれているね。 He is full of artistic talent.
+逃げ出す トラがおりから逃げ出しました。	逃にげ出だす    to make a break for, to run off トラがおりから逃にげ出だしました。 The tiger escaped from the cage.
+様々 その都市には様々な人種が集まっているわ。	様さま々ざま    various, diverse その都と市しには様さま々ざまな人じん種しゅが集あつまっているわ。 There are diverse ethnic groups in this city.
+病院 病院へ行きます。	病びょう院いん    hospital 病びょう院いんへ行いきます。 I will go to the hospital.
+比べる 日本と比べると、私の国はとても寒いです。	比くらべる    to compare, to contrast 日本にほんと比くらべると、私わたしの国くにはとても寒さむいです。 Compared to Japan, my country is very cold.
+氷 グラスに氷を入れてください。	氷こおり    ice グラスに氷こおりを入いれてください。 Please put some ice in my glass.
+狭い 私の部屋は狭いです。	狭せまい    narrow, cramped 私わたしの部屋へやは狭せまいです。 My room is cramped.
+神様 神様にお願いしました。	神かみ様さま    God, the divine 神かみ様さまにお願ねがいしました。 I asked a favor to God.
+動揺 彼女はその知らせを聞いて激しく動揺した。	動どう揺よう    shaking, turbulence 彼かの女じょはその知しらせを聞きいて激はげしく動どう揺ようした。 She trembled violently upon hearing the news.
+長 あの大きな猿は群れの長だ。	長ちょう    chief, head あの大おおきな猿さるは群むれの長ちょうだ。 That big monkey is the leader of the group.
+なお なお、雨の場合は中止です。	なお    still, in addition なお、雨あめの場ば合あいは中ちゅう止しです。 Moreover, it will be canceled in the event of rain.
+物語 私は冒険の物語が大好きです。	物もの語がたり    story, tale 私わたしは冒ぼう険けんの物もの語がたりが大だい好すきです。 I love adventure stories.
+文句 彼女はいつも文句ばかり言う。	文もん句く    complaint 彼かの女じょはいつも文もん句くばかり言いう。 She always does nothing but complain.
+至る ようやく結論に至ったようね	至いたる    to come to, to reach ようやく結けつ論ろんに至いたったようね It seemed that we finally reached a conclusion.
+魚 魚を10分くらい焼きます。	魚さかな    fish 魚さかなを10じゅっ分ぷんくらい焼やきます。 I will cook the fish for about 10 minutes.
+鳥 鳥が飛んでいます。	鳥とり    bird 鳥とりが飛とんでいます。 A bird is flying.
+映る 窓に男性の影が映っています。	映うつる    to be reflected, to appear 窓まどに男だん性せいの影かげが映うつっています。 The shadow of a man is reflected in the window.
+一生 一生のお願いがあります。	一いっ生しょう    a lifetime 一いっ生しょうのお願ねがいがあります。 I have a once-in-a-lifetime favor to ask.
+紙 プレゼントをきれいな紙で包みました。	紙かみ    paper プレゼントをきれいな紙かみで包つつみました。 I wrapped the present in beautiful paper.
+申す 私は鈴木と申します。	申もうす    to be called..., to speak (humble form) 私わたくしは鈴すず木きと申もうします。 My name is Suzuki.
+複雑 このプログラムはとても複雑です。	複ふく雑ざつ    complicated, intricate このプログラムはとても複ふく雑ざつです。 This program is very complicated.
+投げる ボールをこっちに投げてください。	投なげる    to throw, to abandon ボールをこっちに投なげてください。 Please throw the ball over here.
+出来事 面白い出来事がありました。	出で来き事ごと    occurrence, incident 面おも白しろい出で来き事ごとがありました。 Something interesting happened.
+部下 彼は優秀な部下をもっているわね。	部ぶ下か    subordinate 彼かれは優ゆう秀しゅうな部ぶ下かをもっているわね。 He has great subordinates, doesn't he?
+たっぷり この料理は、栄養がたっぷりですよ。	たっぷり    fully, amply この料りょう理りは、栄えい養ようがたっぷりですよ。 This dish contains plenty of nutrition.
+実力 二人の実力は互角です。	実じつ力りょく    real ability, capability 二人ふたりの実じつ力りょくは互ご角かくです。 Their abilities are evenly matched.
+左右 通りを渡る前に左右を見た。	左さ右ゆう    right and left 通とおりを渡わたる前まえに左さ右ゆうを見みた。 I looked left and right before crossing the street.
+選択 この5種類から選択できます。	選せん択たく    choice, selection この5ご種しゅ類るいから選せん択たくできます。 You can select one from these five types.
+調査 私たちがその問題を調査しています。	調ちょう査さ    investigation, inquiry 私わたしたちがその問もん題だいを調ちょう査さしています。 We're investigating that problem.
+例えば 例えば、このソフトで日本語を勉強することができます。	例たとえば    for example 例たとえば、このソフトで日本にほん語ごを勉べん強きょうすることができます。 For example, you could use this software to study Japanese.
+見送る 彼が外国に行くのを見送りました。	見み送おくる    to see (someone) off 彼かれが外がい国こくに行いくのを見み送おくりました。 I saw him off on his trip overseas.
+もっとも 彼の意見はもっともです。	もっとも    quite right, reasonable 彼かれの意い見けんはもっともです。 His opinion is quite right.
+従う 彼女は命令に従わなかった。	従したがう    to follow, to obey 彼かの女じょは命めい令れいに従したがわなかった。 She did not obey orders.
+通す 針に糸を通してください。	通とおす    to let pass, to run through 針はりに糸いとを通とおしてください。 Please thread the needle.
+間違える やさしい問題を間違えてしまいました。	間ま違ちがえる    to mistake, to confuse やさしい問もん題だいを間ま違ちがえてしまいました。 I made a mistake on an easy question.
+体力 若者は体力がありますね。	体たい力りょく    stamina, endurance 若わか者ものは体たい力りょくがありますね。 Young people have a lot of stamina.
+果たす 彼はしっかりと責任を果たしました。	果はたす    to accomplish, to carry out, to fulfill 彼かれはしっかりと責せき任にんを果はたしました。 He fulfilled his responsibilities diligently.
+騒ぐ 電車の中で騒がないでください。	騒さわぐ    to make a racket, to mess around 電でん車しゃの中なかで騒さわがないでください。 Please don't make a racket in the train.
+飛び込む カエルが池に飛び込んだね。	飛とび込こむ    to dive into カエルが池いけに飛とび込こんだね。 The frog jumped into the pond.
+増す 大雨で川の水かさが増しているな。	増ます    to increase, to augment, to rise 大おお雨あめで川かわの水みずかさが増ましているな。 The amount of water in the river rose due to heavy rains.
+ぶつかる 車が電柱にぶつかった。	ぶつかる    to hit, to bump into 車くるまが電でん柱ちゅうにぶつかった。 The car crashed into the telephone pole.
+思い出 旅行で楽しい思い出ができました。	思おもい出で    recollections, memory 旅りょ行こうで楽たのしい思おもい出でができました。 I made fun memories during my trip.
+天井 この部屋は天井が高いですね。	天てん井じょう    ceiling この部屋へやは天てん井じょうが高たかいですね。 This room has a high ceiling.
+兵士 その爆撃で兵士が３人負傷しました。	兵へい士し    soldier その爆ばく撃げきで兵へい士しが３さん人にん負ふ傷しょうしました。 Three soldiers were injured in the bombing.
+満ちる 月が満ちてきましたね。	満みちる    to fill, to become full 月つきが満みちてきましたね。 The moon has become full, hasn't it?
+たまらない 頭が痛くてたまらない。	"たまらない    can't stand, can't put up with 頭あたまが痛いたくてたまらない。 I have an unbearable headache.         	  	Note: The construction ~てたまらない is a grammar point."
+味わう 母の手料理をゆっくり味わいました。	味あじわう    to taste, to appreciate 母ははの手て料りょう理りをゆっくり味あじわいました。 I took my time savoring my mother's cooking.
+出かける 日曜日によく出かけます。	出でかける    to go out 日にち曜よう日びによく出でかけます。 I often go out on Sundays.
+背負う 街中で子供を背負って歩いた。	背せ負おう    to carry on one's back, to shoulder 街まち中なかで子こ供どもを背せ負おって歩あるいた。 I carried the child on my back and walked around the town.
+揃う 朝は家族全員が揃って食事します。	揃そろう    to be (all) together 朝あさは家か族ぞく全ぜん員いんが揃そろって食しょく事じします。 The whole family eats together in the morning.
+呼吸 ゆっくり呼吸してください。	呼こ吸きゅう    breathing, respiration ゆっくり呼こ吸きゅうしてください。 Please breathe slowly.
+真似 娘はよく私の真似をします。	真似まね    imitation, mimicry 娘むすめはよく私わたしの真似まねをします。 My daughter often mimics me.
+人気 このバンドはとても人気があるよ。	人にん気き    popularity このバンドはとても人にん気きがあるよ。 That band is very popular.
+偉い 彼は偉い学者です。	偉えらい    great, famous 彼かれは偉えらい学がく者しゃです。 He's a famous scholar.
+いよいよ 明日はいよいよ出発の日です。	いよいよ    finally, at last 明日あしたはいよいよ出しゅっ発ぱつの日ひです。 At last we will set off tomorrow.
+対象 このアンケートは大学生が対象です。	対たい象しょう    target, object このアンケートは大だい学がく生せいが対たい象しょうです。 This questionnaire targets university students.
+整える 彼はスピーチの前に服装を整えた。	整ととのえる    to arrange, to adjust 彼かれはスピーチの前まえに服ふく装そうを整ととのえた。 He adjusted his clothes before the speech.
+沈む ボートが川に沈んだ。	沈しずむ    to sink, to set ボートが川かわに沈しずんだ。 The boat sank in the river.
+地上 この電車は地上を走ります。	地ち上じょう    above ground この電でん車しゃは地ち上じょうを走はしります。 This train runs above ground.
+用事 父は用事で出掛けています。	用よう事じ    things to do, errand, business 父ちちは用よう事じで出で掛かけています。 My father is out running errands.
+よる 彼の病気は過労によるものです。	よる    to be caused by 彼かれの病びょう気きは過か労ろうによるものです。 His sickness is caused by overwork.
+反対 私は反対です。	反はん対たい    oppose, object 私わたしは反はん対たいです。 I'm against it.
+保つ 彼女は若さを保とうと必死だ。	保たもつ    to preserve, to endure 彼かの女じょは若わかさを保たもとうと必ひっ死しだ。 She's desperately trying to retain her youth.
+歴史 私は歴史に興味があります。	歴れき史し    history 私わたしは歴れき史しに興きょう味みがあります。 I'm interested in history.
+島 その島には誰も住んでいません。	島しま    island, isle その島しまには誰だれも住すんでいません。 Nobody lives on the island.
+それほど 彼がそれほど悩んでいたとは知らなかった。	それほど    so much, that much 彼かれがそれほど悩なやんでいたとは知しらなかった。 I didn't know he was worried that much.
+実に 昨日のコンサートは実に素晴らしかったよ。	実じつに    truly, surely 昨日きのうのコンサートは実じつに素す晴ばらしかったよ。 Yesterday's concert was truly wonderful.
+恐れる 彼は受験の失敗を恐れています。	恐おそれる    to fear, to apprehend 彼かれは受じゅ験けんの失しっ敗ぱいを恐おそれています。 He's worrying about failing the exam.
+あくまで 彼はあくまで自分の主義を通す人だ。	あくまで    to the end, persistently 彼かれはあくまで自じ分ぶんの主しゅ義ぎを通とおす人ひとだ。 He is a person who stands by his principles to the end.
+鼻 鼻がかゆいです。	鼻はな    nose 鼻はながかゆいです。 My nose itches.
+担当 私はセールスを担当しています。	担たん当とう    person in charge 私わたしはセールスを担たん当とうしています。 I'm in charge of sales.
+片手 片手運転は危ないよ。	片かた手て    one hand 片かた手て運うん転てんは危あぶないよ。 Single-handed driving is dangerous.
+幼い 彼女には幼い息子がいます。	幼おさない    young, childish 彼かの女じょには幼おさない息子むすこがいます。 She has a young son.
+学ぶ 私は哲学を学んでいます。	学まなぶ    to learn, to study 私わたしは哲てつ学がくを学まなんでいます。 I study philosophy.
+強引 友人の強引な誘いを断れませんでした。	強ごう引いん    overbearing, pushy 友ゆう人じんの強ごう引いんな誘さそいを断ことわれませんでした。 I was not able to decline my friend's pushy invitation.
+捲る ズボンのすそをまくって作業をした。	"捲まくる    to turn up, to roll up (e.g. sleeves) ズボンのすそをまくって作さ業ぎょうをした。 I rolled up the leg of my pants and started work.         	  	Note: Usually kana."
+漏れる 彼のヘッドフォンから音が漏れているね。	漏もれる    to leak, to be disclosed 彼かれのヘッドフォンから音おとが漏もれているね。 Sound is leaking from his headphones.
+全体 全体の80パーセントが完成しました。	全ぜん体たい    whole, total 全ぜん体たいの80はちじゅっパーセントが完かん成せいしました。 80 percent of the total was completed.
+度 彼の無神経さは度が過ぎている。	度ど    degree, extent 彼かれの無む神しん経けいさは度どが過すぎている。 His callousness has gone too far.
+情けない こんなことも知らないとは情けない。	情なさけない    pathetic, shameful こんなことも知しらないとは情なさけない。 It's pathetic that you don't also know this.
+太陽 夏は太陽がとても高くなります。	太たい陽よう    sun 夏なつは太たい陽ようがとても高たかくなります。 In the summer, the sun gets very high in the sky.
+甘える 彼女の親切に甘えました。	甘あまえる    to depend on, to take advantage of 彼かの女じょの親しん切せつに甘あまえました。 I depended on her kindness.
+踏む 運転手がブレーキを踏んだ。	踏ふむ    to step on, to tread on 運うん転てん手しゅがブレーキを踏ふんだ。 The driver stepped on the brake.
+印象 彼からいい印象を受けたわ。	印いん象しょう    impression 彼かれからいい印いん象しょうを受うけたわ。 I got a good impression from him.
+死体 公園で死体が見つかったの。	死し体たい    corpse, body 公こう園えんで死し体たいが見みつかったの。 A corpse was found in the park.
+支配 その権力者による支配は50年以上続いたんです。	支し配はい    control, management その権けん力りょく者しゃによる支し配はいは50ごじゅう年ねん以い上じょう続つづいたんです。 This powerful person continued to rule for over 50 years.
+現場 事故現場には入れません。	現げん場ば    actual spot, job site 事じ故こ現げん場ばには入はいれません。 You can't enter the accident scene.
+絶望 彼は人生に絶望していた。	絶ぜつ望ぼう    despair, hopelessness 彼かれは人じん生せいに絶ぜつ望ぼうしていた。 He despaired of life itself.
+察する 彼は危険を察して逃げた。	察さっする    to sense, to guess 彼かれは危き険けんを察さっして逃にげた。 He ran away sensing danger.
+以来 それ以来彼女に会ってない。	以い来らい    since それ以い来らい彼かの女じょに会あってない。 I haven't met her since then.
+漂う 小船が湖を漂っています。	漂ただよう    to drift, to float 小こ船ぶねが湖みずうみを漂ただよっています。 The boat is drifting on the lake.
+探る 各国がテロリストの動きを探っています。	探さぐる    to probe, to search into 各かっ国こくがテロリストの動うごきを探さぐっています。 Every country is probing for terrorist movements.
+最大 これは世界最大の船です。	最さい大だい    biggest, largest これは世せ界かい最さい大だいの船ふねです。 This is the world's largest ship.
+下げる 少し音量を下げてください。	下さげる    to lower, to turn down 少すこし音おん量りょうを下さげてください。 Please turn the volume down a little.
+捕まる 彼女はついに捕まりました。	捕つかまる    to be caught, to be arrested 彼かの女じょはついに捕つかまりました。 She was finally caught.
+戸惑う 彼女は突然のプロポーズに戸惑った。	戸と惑まどう    to be perplexed, to be bewildered 彼かの女じょは突とつ然ぜんのプロポーズに戸と惑まどった。 She was flustered by the sudden proposal.
+言い訳 あなたは言い訳が多すぎます。	言いい訳わけ    apology, excuse あなたは言いい訳わけが多おおすぎます。 You give too many excuses.
+証明 容疑者のアリバイが証明されました。	証しょう明めい    proof, evidence 容よう疑ぎ者しゃのアリバイが証しょう明めいされました。 The suspect's alibi was proven.
+参る さあ、参りましょうか。	参まいる    to go, come (humble form) さあ、参まいりましょうか。 Well, shall we go?
+見下ろす 山の頂上からふもとを見下ろしたの。	見み下おろす    to look down, to overlook 山やまの頂ちょう上じょうからふもとを見み下おろしたの。 I looked down at the foot of the mountain from the summit.
+燃える 山が燃えています。	燃もえる    to burn, to get fired up 山やまが燃もえています。 The mountain's on fire.
+たまる 彼はストレスがたまっているの。	たまる    to accumulate, to store up 彼かれはストレスがたまっているの。 He's under a lot of stress.
+暴れる 彼は悪酔いして暴れたんだ。	暴あばれる    to act violently, to rage about 彼かれは悪わる酔よいして暴あばれたんだ。 He was so drunk that he became violent.
+越える 私たちは高い山を越えました。	越こえる    to go over, to go across, to go beyond 私わたしたちは高たかい山やまを越こえました。 We went over a tall mountain.
+精神 彼女は今、精神が不安定だ。	精せい神しん    mind, spirit 彼かの女じょは今いま、精せい神しんが不ふ安あん定ていだ。 She is mentally unstable now.
+男子 男子はこっちに並んで。	男だん子し    boy, young man 男だん子しはこっちに並ならんで。 Boys, line up here.
+宣言 政府は停戦を宣言しました。	宣せん言げん    declaration 政せい府ふは停てい戦せんを宣せん言げんしました。 The government declared a ceasefire.
+挟む ドアに指を挟んだ。	挟はさむ    to hold between, to put between, to pinch ドアに指ゆびを挟はさんだ。 I trapped my finger in the door.
+防ぐ 怪我を防ぐためによくストレッチをしてください。	防ふせぐ    to prevent, to defend 怪け我がを防ふせぐためによくストレッチをしてください。 Please stretch well to prevent injuries.
+預ける 鍵を彼に預けた。	預あずける    to deposit, to entrust 鍵かぎを彼かれに預あずけた。 I gave him the key to look after.
+限る このサービスは週末に限ります。	限かぎる    to be limited to このサービスは週しゅう末まつに限かぎります。 This service is limited to weekends.
+責める そんなに彼を責めては可哀相です。	責せめる    to blame そんなに彼かれを責せめては可か哀わい相そうです。 It is a shame to blame him so much.
+崩れる 大雨で崖が崩れたね。	崩くずれる    to crumble, to collapse 大おお雨あめで崖がけが崩くずれたね。 The cliff collapsed due to heavy rains.
+一度も 一度も京都へ行ったことがありません。	一いち度ども    (not) even once, (not) ever 一いち度ども京きょう都とへ行いったことがありません。 I haven't been to Kyoto even once.
+ぼんやり 彼は遠くをぼんやり見ていたの。	ぼんやり    vaguely, absent-mindedly 彼かれは遠とおくをぼんやり見みていたの。 He stared vacantly into the distance.
+その内 彼女もその内、親の気持ちが分かるだろう。	その内うち    before long, sooner or later 彼かの女じょもその内うち、親おやの気き持もちが分わかるだろう。 Sooner or later, she'll come to understand her parents' feelings.
+鏡 彼女は鏡を見て髪を直した。	鏡かがみ    mirror 彼かの女じょは鏡かがみを見みて髪かみを直なおした。 She looked in the mirror and tidied her hair.
+貫く 彼は最後まで自分の意思を貫きました。	貫つらぬく    to go through, to carry out 彼かれは最さい後ごまで自じ分ぶんの意い思しを貫つらぬきました。 He carried out his will to the end.
+固まる もうプリンは固まったかな。	固かたまる    to harden, to solidify もうプリンは固かたまったかな。 Has the pudding set already?
+平和 この国は平和です。	平へい和わ    peace, harmony この国くには平へい和わです。 This country is peaceful.
+意志 彼は意志の強い人です。	意い志し    will, volition 彼かれは意い志しの強つよい人ひとです。 He is a strong-willed man.
+下手 私は歌が下手です	下手へた    bad at, poor 私わたしは歌うたが下手へたです I am bad at singing.
+続き 話の続きは電話でしましょう。	続つづき    continuation, sequel 話はなしの続つづきは電でん話わでしましょう。 Let's continue this conversation on the phone.
+祈る 世界の平和を祈っています。	祈いのる    to pray 世せ界かいの平へい和わを祈いのっています。 I pray for world peace.
+午後 明日の午後、お客様が来る。	午ご後ご    afternoon, p.m. 明日あすの午ご後ご、お客きゃく様さまが来くる。 A guest is coming to visit tomorrow afternoon.
+同様 私たちは彼を家族同様に思っている。	同どう様よう    similar 私わたしたちは彼かれを家か族ぞく同どう様ように思おもっている。 We think of him just like family.
+外れる シャツのボタンが外れています。	外はずれる    to come undone, to be removed シャツのボタンが外はずれています。 My shirt button came undone.
+歌う 皆で日本の歌を歌います。	歌うたう    to sing 皆みんなで日本にほんの歌うたを歌うたいます。 We're all singing a Japanese song.
+回 1週間に3回コンビニへ行きます。	回かい    times 1いっ週しゅう間かんに3さん回かいコンビニへ行いきます。 I go to the convenience store three times a week.
+固い 私の上司は頭が固い。	固かたい    stiff, tight 私わたしの上じょう司しは頭あたまが固かたい。 My boss is stubborn.
+最強 彼は最強チームの一員です。	最さい強きょう    strongest 彼かれは最さい強きょうチームの一いち員いんです。 He is a member of the strongest team.
+弾く 彼はギターを弾きます。	弾ひく    to strum (e.g. a guitar), to flick 彼かれはギターを弾ひきます。 He plays the guitar.
+正解 10問中9問正解しました。	正せい解かい    right answer, correct solution 10じゅう問もん中ちゅう9きゅう問もん正せい解かいしました。 Nine out of ten questions were answered correctly.
+きつい このシャツは少しきついです。	きつい    tight, tough このシャツは少すこしきついです。 This shirt is a little tight.
+お陰 先生のお陰で大学に合格できました。	お陰かげ    help, thanks to 先せん生せいのお陰かげで大だい学がくに合ごう格かくできました。 Thanks to the teacher, I was able to pass the college entrance exam.
+地獄 地震の後、街は地獄のようだったよ。	地じ獄ごく    hell 地じ震しんの後あと、街まちは地じ獄ごくのようだったよ。 After the earthquake, the town looked like hell.
+年齢 彼女の年齢は27です。	年ねん齢れい    age, years 彼かの女じょの年ねん齢れいは27にじゅうななです。 She's 27 years old.
+病気 祖父が病気になった。	病びょう気き    illness 祖そ父ふが病びょう気きになった。 My grandfather got sick.
+携帯 朝、携帯をバッグに入れます。	携けい帯たい    cell phone 朝あさ、携けい帯たいをバッグに入いれます。 In the morning, I put my cell phone in the bag.
+ますます 状況はますます悪くなったね。	ますます    increasingly 状じょう況きょうはますます悪わるくなったね。 The situation has gotten worse and worse.
+並べる 私は料理をテーブルに並べた。	並ならべる    to line up, to display, to set up 私わたしは料りょう理りをテーブルに並ならべた。 I arranged the food on the table.
+契約 その選手は新しいチームと契約した。	契けい約やく    contract, agreement その選せん手しゅは新あたらしいチームと契けい約やくした。 This player signed a contract with a new team.
+永遠 平和は人類の永遠の手間です。	永えい遠えん    eternity 平へい和わは人じん類るいの永えい遠えんのテーマです。 Peace is humanity's eternal endeavour.
+不意に 彼女は不意に立ち上がった。	不ふ意いに    suddenly, unexpectedly 彼かの女じょは不ふ意いに立たち上あがった。 She stood up unexpectedly.
+呪い 魔女は恐ろしい呪いをかけました。	呪のろい    curse, spell 魔ま女じょは恐おそろしい呪のろいをかけました。 The witch cast a frightening curse.
+組 彼は1年2組の生徒です。	組くみ    school class 彼かれは1いち年ねん2に組くみの生せい徒とです。 He's a first-grade student in class 1-2.
+踊る 彼女はクラブで踊るのが好きです。	踊おどる    to dance 彼かの女じょはクラブで踊おどるのが好すきです。 She likes to dance at the club.
+目覚める 今日は6時半に目覚めました。	目め覚ざめる    to wake (up), to come to one's senses 今日きょうは6ろく時じ半はんに目め覚ざめました。 Today I woke up at 6:30.
+事故 彼は事故で怪我をしました。	事じ故こ    accident, incident 彼かれは事じ故こで怪け我がをしました。 He was injured in an accident.
+袋 袋はいりません。	袋ふくろ    bag, sack 袋ふくろはいりません。 I don't need a bag.
+派手 雪道で派手に転んでしまったの。	派は手で    showy, flashy 雪ゆき道みちで派は手でに転ころんでしまったの。 I slipped spectacularly at the snowy road.
+今更 今更後悔しても、もう遅いよ。	今いま更さら    now (when it's too late), at this stage 今いま更さら後こう悔かいしても、もう遅おそいよ。 It is too late for regrets now.
+真っ直ぐ この道を真っ直ぐ行ってください。	真まっ直すぐ    straight ahead, straightforward この道みちを真まっ直すぐ行いってください。 Please go straight along this road.
+油断 少しの油断が大きな事故につながります。	油ゆ断だん    inattention, carelessness 少すこしの油ゆ断だんが大おおきな事じ故こにつながります。 A little carelessness can cause a big accident.
+ぶつける 車を壁にぶつけてしまいました。	ぶつける    to bump 車くるまを壁かべにぶつけてしまいました。 I hit my car into the wall.
+育つ 野菜がよく育っている。	育そだつ    to be brought up, to grow 野や菜さいがよく育そだっている。 The vegetables are growing well.
+傷つく 私は彼女の言葉に傷つきました。	傷きずつく    to get hurt 私わたしは彼かの女じょの言こと葉ばに傷きずつきました。 Her words hurt me.
+発する 彼は一言も発することはなかった。	発はっする    to emit, to radiate 彼かれは一ひと言ことも発はっすることはなかった。 He did not utter a single word.
+終了 コンサートは夜7時5分に終了しました。	終しゅう了りょう    end, expiry コンサートは夜よる7しち時じ5ご分ふんに終しゅう了りょうしました。 The concert ended at 7:05 pm.
+足音 廊下から大きな足音が聞こえた。	足あし音おと    sound of footsteps 廊ろう下かから大おおきな足あし音おとが聞きこえた。 I could hear loud footsteps from the hallway.
+決意 彼の決意は堅いな。	決けつ意い    decision, resolution 彼かれの決けつ意いは堅かたいな。 His decision is firm.
+感心 彼の我慢強さには感心しました。	感かん心しん    admiration 彼かれの我が慢まん強づよさには感かん心しんしました。 I admired his perseverance.
+飲み込む 彼は薬を一気に飲み込んだ。	飲のみ込こむ    to swallow, to grasp 彼かれは薬くすりを一いっ気きに飲のみ込こんだ。 He swallowed all of the medicine in one go.
+仮に 仮にそれが事実だとしても、もう遅いよ。	仮かりに    supposing that, even if 仮かりにそれが事じ実じつだとしても、もう遅おそいよ。 Even if that were true, it's too late now anyway.
+お菓子 みんなにお菓子をあげましょう。	お菓か子し    sweets, snacks みんなにお菓か子しをあげましょう。 Let's give everyone some sweets.
+染まる 麻はきれいに染まります。	染そまる    to be dyed, to be tainted 麻あさはきれいに染そまります。 Hemp dyes nicely.
+笑い あの家は笑いが絶えないね。	笑わらい    laughter, laugh あの家いえは笑わらいが絶たえないね。 Laughter never stops in that house.
+買い物 スーパーで買い物をします。	買かい物もの    shopping スーパーで買かい物ものをします。 I will go shopping at the supermarket.
+歌 私はその歌を知らなかった。	歌うた    song 私わたしはその歌うたを知しらなかった。 I didn't know that song.
+庭 庭に犬がいます。	庭にわ    garden, yard 庭にわに犬いぬがいます。 There is a dog in the yard.
+生き物 生き物を大切にしましょう。	生いき物もの    living creature 生いき物ものを大たい切せつにしましょう。 Let's care about living things.
+特殊 彼は特殊な能力を持っています。	特とく殊しゅ    special, unique 彼かれは特とく殊しゅな能のう力りょくを持もっています。 He has a special ability.
+連れて行く 私も連れて行ってください。	連つれて行いく    to take (a person) along 私わたしも連つれて行いってください。 Please take me along.
+現状 問題を解決できないのが現状です。	現げん状じょう    present condition 問もん題だいを解かい決けつできないのが現げん状じょうです。 The current situation is that we can't solve the problem.
+大分 大分ピアノが上手くなりました。	大だい分ぶ    very, greatly 大だい分ぶピアノが上手うまくなりました。 You've gotten pretty good at the piano.
+底 コップの底が濡れていますよ。	底そこ    bottom コップの底そこが濡ぬれていますよ。 The bottom of the cup is wet.
+学生 弟は学生です。	学がく生せい    student 弟おとうとは学がく生せいです。 My younger brother is a student.
+丁寧 彼女はいつも丁寧に仕事をします。	丁てい寧ねい    polite, careful 彼かの女じょはいつも丁てい寧ねいに仕し事ごとをします。 She always works carefully.
+範囲 知っている範囲で教えてください。	範はん囲い    range, scope 知しっている範はん囲いで教おしえてください。 Please tell us as much as you know.
+テレビ 家にテレビはありません。	テレビ    television 家うちにテレビはありません。 I don't have a television at home.
+美人 彼のお母さんは美人です。	美び人じん    beautiful woman 彼かれのお母かあさんは美び人じんです。 His mother's a beautiful woman.
+技 彼の柔道の技は日本一です。	技わざ    skill 彼かれの柔じゅう道どうの技わざは日本にほん一いちです。 His judo technique is the best in Japan.
+将来 将来はパイロットになりたいです。	"将しょう来らい    one's future, in the future 将しょう来らいはパイロットになりたいです。 I want to become a pilot in the future.         	  	Note: In comparison, 未来 means distant future."
+記録 マラソンで世界記録が出た。	記き録ろく    record, documentation マラソンで世せ界かい記き録ろくが出でた。 There was a new world record in the marathon.
+大人しい 私の彼女はとても大人しいです。	大人おとなしい    tame, quiet, obedient, calm 私わたしの彼かの女じょはとても大人おとなしいです。 My girlfriend's very quiet.
+骨 カルシウムは骨にいいそうです。	骨ほね    bone カルシウムは骨ほねにいいそうです。 I hear calcium is good for the bones.
+目標 彼女には明確な目標があるね。	目もく標ひょう    target, goal 彼かの女じょには明めい確かくな目もく標ひょうがあるね。 She has a clear goal.
+肉体 肉体はいつか滅びます。	肉にく体たい    body, flesh 肉にく体たいはいつか滅ほろびます。 Our bodies will perish some day.
+届ける これを彼に届けてください。	届とどける    to deliver, to give notice これを彼かれに届とどけてください。 Please deliver this to him.
+足元 暗いので足元に気を付けてください。	足あし元もと    step, under foot 暗くらいので足あし元もとに気きを付つけてください。 Please watch your step in the dark.
+捜す 警察がその男を捜しているの。	捜さがす    to look for, to search for 警けい察さつがその男おとこを捜さがしているの。 The police are searching for this man.
+わざと 彼はわざと負けたように見えたな。	わざと    on purpose 彼かれはわざと負まけたように見みえたな。 It looked like he lost on purpose.
+いかが ワインはいかがですか。	いかが    how, would you like ワインはいかがですか。 Would you like some wine?
+布 この布はカーテンに使えます。	布ぬの    cloth この布ぬのはカーテンに使つかえます。 This cloth can be used for curtains.
+種類 バラには色々な種類があります。	種しゅ類るい    kind, species バラには色いろ々いろな種しゅ類るいがあります。 There are many varieties of rose.
+満たす 彼は応募の条件を満たしていない。	満みたす    to fill, to satisfy 彼かれは応おう募ぼの条じょう件けんを満みたしていない。 He doesn't meet the application requirements.
+景色 ここから見る景色は本当に綺麗ですね。	景色けしき    scenery ここから見みる景色けしきは本ほん当とうに綺き麗れいですね。 The scenery visible from here is really beautiful.
+勇気 彼は勇気があるね。	勇ゆう気き    courage, nerve 彼かれは勇ゆう気きがあるね。 He has courage.
+強化 国は国語教育を強化しています。	強きょう化か    strengthening 国くには国こく語ご教きょう育いくを強きょう化かしています。 The government is strengthening its native language education.
+加える 塩、コショウを加えてください。	加くわえる    to add, to include 塩しお、コショウを加くわえてください。 Please add salt and pepper.
+言い出す 突然何を言い出すのかと思った。	言いい出だす    to begin to say, to be the first to say, to propose 突とつ然ぜん何なにを言いい出だすのかと思おもった。 I wondered what you would say out of the blue.
+収まる 警官が来て騒ぎが収まった。	収おさまる    to be settled (e.g. a dispute), to be contained within 警けい官かんが来きて騒さわぎが収おさまった。 The police came and the uproar was settled.
+組織 彼はある組織のリーダーだ。	組そ織しき    organization, structure 彼かれはある組そ織しきのリーダーだ。 He's the leader of a certain organization.
+隙間 猫がドアの隙間から入って来た。	隙すき間ま    crack, gap 猫ねこがドアの隙すき間まから入はいって来きた。 The cat entered through a crack in the door.
+本日 本日のランチはハンバーグでございます。	本ほん日じつ    today 本ほん日じつのランチはハンバーグでございます。 Today's lunch is hamburgers.
+先日 先日の件はどうなりましたか。	先せん日じつ    the other day, a few days ago 先せん日じつの件けんはどうなりましたか。 What happened regarding the matter from the other day?
+月曜日 月曜日に会いましょう。	月げつ曜よう日び    Monday 月げつ曜よう日びに会あいましょう。 Let's meet on Monday.
+火曜日 火曜日に会議があります。	火か曜よう日び    Tuesday 火か曜よう日びに会かい議ぎがあります。 There's a meeting on Tuesday.
+水曜日 水曜日はバイトがあります。	水すい曜よう日び    Wednesday 水すい曜よう日びはバイトがあります。 I work part time on Wednesdays.
+木曜日 木曜日は仕事が休みです。	木もく曜よう日び    Thursday 木もく曜よう日びは仕し事ごとが休やすみです。 I don't have work on Thursday.
+金曜日 金曜日の夜は友達]と出かけます。	金きん曜よう日び    Friday 金きん曜よう日びの夜よるは友とも達だちと出でかけます。 I go out with my friends on Friday nights.
+土曜日 土曜日の夜はクラブに行きます。	土ど曜よう日び    Saturday 土ど曜よう日びの夜よるはクラブに行いきます。 I'm going to a club Saturday night.
+日曜日 日曜日は海に行きました。	日にち曜よう日び    Sunday 日にち曜よう日びは海うみに行いきました。 We went to the beach on Sunday.
+一つ それを一つください。	一ひとつ    one (thing) それを一ひとつください。 Please give me one of those.
+二つ ソフトクリームを二つください。	二ふたつ    two (things) ソフトクリームを二ふたつください。 Please give me two ice cream cones.
+三つ コップを三つ買いました。	三みっつ    three (things) コップを三みっつ買かいました。 I bought three cups.
+四つ 私は腕時計を四つ持っています。	四よっつ    four (things) 私わたしは腕うで時計どけいを四よっつ持もっています。 I have four wristwatches.
+五つ 桃を五つください。	五いつつ    five (things) 桃ももを五いつつください。 I'd like five peaches, please.
+六つ おにぎりを六つ作りました。	六むっつ    six (things) おにぎりを六むっつ作つくりました。 I made six rice balls.
+七つ ロールパンを七つ買ってきてください。	七ななつ    seven (things) ロールパンを七ななつ買かってきてください。 Please go and buy seven bread rolls.
+八つ あの家には時計が八つあります。	八やっつ    eight (things) あの家いえには時計とけいが八やっつあります。 There are eight clocks in that house.
+九つ 兄はおにぎりを九つも食べた。	九ここのつ    nine (things) 兄あにはおにぎりを九ここのつも食たべた。 My older brother ate nine rice balls.
+評価 最近、彼の評価が上がった。	評ひょう価か    evaluation, appraisal, recognition 最さい近きん、彼かれの評ひょう価かが上あがった。 He's been receiving more recognition lately.
